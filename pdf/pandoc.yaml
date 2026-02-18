@@ -7,6 +7,9 @@ top-level-division: chapter
 
 variables:
   documentclass: scrbook
+  classoption:
+    - openany
+    - oneside
   fontsize: 11pt
   lang: de-CH
   geometry: a4paper,margin=25mm

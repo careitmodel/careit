@@ -45,3 +45,10 @@ pdf/*.synctex.gz
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# Website build artifacts / working files
+website/framework*.md
+
+# Releases: only track final PDFs if desired
+releases/*.pdf

@@ -1,30 +1,93 @@
-#!/usr/bin/env bash
-set -euo pipefail
+#!/bin/bash
+set -e
 
-OUT="careit-web.pdf"
-TMP="framework.build.md"
+# ------------------------------------------------------------
+# 1. Version aus website/docs/98-versions/current.md lesen
+# ------------------------------------------------------------
 
-# 1) zusammenfügen in definierter Reihenfolge
-rm -f "$TMP"
-while IFS= read -r f; do
-  [ -z "$f" ] && continue
-  [ "${f:0:1}" = "#" ] && continue
-  echo -e "\n\n" >> "$TMP"
-  cat "$f" >> "$TMP"
+VERSION=$(grep -Eo '[0-9]+\.[0-9]+\.[0-9]+' ../website/docs/versions/current.md | head -n 1)
+
+if [ -z "$VERSION" ]; then
+  echo "❌ Keine Version gefunden in current.md"
+  exit 1
+fi
+
+echo "📦 Baue CARE-IT Version $VERSION"
+
+# ------------------------------------------------------------
+# 2. Build-Verzeichnisse vorbereiten
+# ------------------------------------------------------------
+
+mkdir -p build
+mkdir -p ../releases
+
+OUTPUT="../releases/CARE-IT-v${VERSION}.pdf"
+TEMP_MD="build/book.md"
+
+# Immer frisch starten
+rm -f "$TEMP_MD"
+
+# ------------------------------------------------------------
+# 2a. Pandoc-Metadatenblock (Titel/Version) an den Anfang schreiben
+# ------------------------------------------------------------
+
+TITLE="CARE-IT Framework"
+SUBTITLE="Referenzmodell für Governance und Betriebsführung klinischer digitaler Versorgungsinfrastruktur"
+DATESTR=$(date +"%Y-%m-%d")
+
+cat > "$TEMP_MD" <<EOF
+---
+title: "$TITLE"
+subtitle: "$SUBTITLE"
+date: "$DATESTR"
+version: "v$VERSION"
+lang: de-CH
+...
+
+EOF
+
+# ------------------------------------------------------------
+# 3. Kapitel in definierter Reihenfolge zusammenziehen
+# ------------------------------------------------------------
+
+while read FILE; do
+  # Skip empty lines and comments
+  [[ -z "$FILE" || "$FILE" =~ ^# ]] && continue
+
+  # Allow accidental "docs/" prefix in pdf-order.txt
+  FILE="${FILE#docs/}"
+
+  # Defensive: no leading slash
+  FILE="${FILE#/}"
+
+  echo "➕ $FILE"
+
+  if [ ! -f "../website/docs/$FILE" ]; then
+    echo "❌ Datei nicht gefunden: ../website/docs/$FILE"
+    exit 1
+  fi
+
+  cat "../website/docs/$FILE" >> "$TEMP_MD"
+  echo -e "\n\n" >> "$TEMP_MD"
 done < pdf-order.txt
 
-# 2) YAML-Frontmatter entfernen (--- ... --- am Dateianfang)
-perl -0777 -pe 's/\n---\n.*?\n---\n/\n/gsm' "$TMP" > "$TMP.clean" && mv "$TMP.clean" "$TMP"
+# ------------------------------------------------------------
+# 4. Emojis entfernen (für LaTeX-Stabilität)
+# ------------------------------------------------------------
+# Minimal-Fix für das bekannte Problemzeichen. Erweiterbar, falls mehr auftaucht.
+sed -i '' 's/👉//g' "$TEMP_MD"
 
-# 3) Emojis ersetzen (mindestens dein 👉)
-perl -pi -e 's/👉/->/g' "$TMP"
+# ------------------------------------------------------------
+# 5. PDF erzeugen
+# ------------------------------------------------------------
 
-# 4) MDX/HTML Blocks entfernen (div/span) – pragmatisch für PDF
-perl -0777 -pe 's/<div[^>]*>.*?<\/div>//gms; s/<span[^>]*>.*?<\/span>//gms' "$TMP" > "$TMP.clean" && mv "$TMP.clean" "$TMP"
-
-# 5) PDF erzeugen mit Template/Config
-pandoc "$TMP" -o "$OUT" \
+pandoc "$TEMP_MD" \
   --defaults=pandoc.yaml \
-  -H header.tex
+  -H header.tex \
+  --metadata title="CARE-IT Framework" \
+  --metadata subtitle="Referenzmodell für Governance und Betriebsführung klinischer digitaler Versorgungsinfrastruktur" \
+  --metadata date="$DATESTR" \
+  --metadata version="v$VERSION" \
+  -o "$OUTPUT"
 
-echo "✅ Built $OUT"
+echo "✅ Fertig: $OUTPUT"
