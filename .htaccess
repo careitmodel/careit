@@ -1,0 +1,5 @@
+RewriteEngine On
+
+# Redirect non-www to www
+RewriteCond %{HTTP_HOST} ^careitmodel\.org$ [NC]
+RewriteRule ^(.*)$ https://www.careitmodel.org/$1 [R=301,L]
