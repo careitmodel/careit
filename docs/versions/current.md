@@ -5,10 +5,17 @@ sidebar_position: 1
 ---
 
 # CARE-IT Framework  
-## Version 1.0
 
-Veröffentlichungsdatum: 2026-02-18  
-Status: Erstveröffentlichung
+---
+
+## Offizieller Release
+
+Die offizielle Veröffentlichung dieser Version erfolgt über GitHub:
+
+👉 https://github.com/careitmodel/careit/releases/tag/v1.0.0
+
+Der GitHub-Release stellt die historisch fixierte Referenzversion dar.
+Änderungen am Framework erfolgen ausschließlich über versionierte Folge-Releases.
 
 ---
 
