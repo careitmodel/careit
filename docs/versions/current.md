@@ -65,4 +65,12 @@ transparent dokumentiert.
 
 ## Zitierweise
 
-CARE-IT Framework, Version 1.0, 2026.
+## DOI
+
+CARE-IT is permanently archived via Zenodo.
+
+Concept DOI (all versions):
+https://doi.org/10.5281/zenodo.18679683
+
+Current Version DOI (v1.0.1):
+https://doi.org/10.5281/zenodo.18679684

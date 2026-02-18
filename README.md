@@ -82,7 +82,9 @@ but structured evolution through interdisciplinary dialogue.
 
 ## Citation
 
-CARE-IT Framework, Version 1.0.0, 2026.  
+CARE-IT Framework, Version 1.0.1, 2026.  
+Concept DOI: https://doi.org/10.5281/zenodo.18679683  
+Version DOI: https://doi.org/10.5281/zenodo.18679684
 Available at: https://careitmodel.org
 
 ---
