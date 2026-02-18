@@ -1,21 +1,46 @@
-# Dependencies
-/node_modules
+# =========================================
+# Docusaurus (Website)
+# =========================================
 
-# Production
-/build
+website/node_modules
+website/build
+website/.docusaurus
+website/.cache
+website/.cache-loader
 
-# Generated files
-.docusaurus
-.cache
-.cache-loader
+# =========================================
+# PDF Build
+# =========================================
 
-# Misc
+pdf/build
+pdf/*.pdf
+pdf/*.aux
+pdf/*.log
+pdf/*.out
+pdf/*.toc
+pdf/*.synctex.gz
+
+# =========================================
+# System / Editor Files
+# =========================================
+
 .DS_Store
+.vscode
+.idea
+
+# =========================================
+# Environment Files
+# =========================================
+
 .env
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
+
+# =========================================
+# Logs
+# =========================================
 
 npm-debug.log*
 yarn-debug.log*

@@ -2,19 +2,20 @@ module.exports = {
   careitSidebar: [
     {
       type: 'category',
-      label: 'Start',
+      label: 'Teil I – Grundlagen',
       collapsed: false,
       items: [
-        'index',
-        'definition',
-        'scope',
-        'controlled-open',
+        'executive-summary',
+        'foundation/introduction',
+        'foundation/definition',
+        'foundation/scope',
+        'foundation/controlled-open',
       ],
     },
 
     {
       type: 'category',
-      label: 'Grundprinzipien',
+      label: 'Teil II – Grundprinzipien',
       collapsed: false,
       items: [
         'principles/overview',
@@ -31,18 +32,7 @@ module.exports = {
 
     {
       type: 'category',
-      label: 'Architektur',
-      collapsed: false,
-      items: [
-        'architecture/overview',
-        'architecture/domains',
-        'architecture/reference-systembunds',
-      ],
-    },
-
-    {
-      type: 'category',
-      label: 'Reifegrad',
+      label: 'Teil III – Reifegradmodell',
       collapsed: false,
       items: [
         'maturity/model',
@@ -54,16 +44,18 @@ module.exports = {
 
     {
       type: 'category',
-      label: 'Steuerung',
+      label: 'Teil IV – Architektur',
       collapsed: false,
       items: [
-        'governance/kpis',
+        'architecture/overview',
+        'architecture/domains',
+        'architecture/reference-systembunds',
       ],
     },
 
     {
       type: 'category',
-      label: 'Artefakte',
+      label: 'Teil V – Artefakte',
       collapsed: false,
       items: [
         'artifacts/overview',
@@ -78,7 +70,7 @@ module.exports = {
 
     {
       type: 'category',
-      label: 'Anwendung',
+      label: 'Teil VI – Anwendung',
       collapsed: false,
       items: [
         'application/case-mobile-monitoring',
@@ -88,8 +80,27 @@ module.exports = {
 
     {
       type: 'category',
+      label: 'Teil VII – Steuerung',
+      collapsed: true,
+      items: [
+        'framework/kpis',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: 'Mitwirkung',
+      collapsed: true,
+      items: [
+        'contribute/how-to-contribute',
+        'contribute/contact',
+      ],
+    },
+
+    {
+      type: 'category',
       label: 'Versionen',
-      collapsed: false,
+      collapsed: true,
       items: [
         'versions/current',
         'versions/changelog',
@@ -98,11 +109,21 @@ module.exports = {
 
     {
       type: 'category',
-      label: 'Mitwirkung',
-      collapsed: false,
+      label: 'Anhang',
+      collapsed: true,
       items: [
-        'contribute/how-to-contribute',
-        'contribute/contact',
+        'glossary',
+        'references',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: 'Rechtliches',
+      collapsed: true,
+      items: [
+        'legal/imprint',
+        'legal/privacy',
       ],
     },
   ],

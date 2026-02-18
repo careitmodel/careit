@@ -1,0 +1,16 @@
+from: markdown
+to: pdf
+pdf-engine: xelatex
+toc: true
+number-sections: true
+top-level-division: chapter
+
+variables:
+  documentclass: scrbook
+  fontsize: 11pt
+  lang: de-CH
+  geometry: a4paper,margin=25mm
+  colorlinks: true
+  linkcolor: careitblue
+  urlcolor: careitblue
+  citecolor: careitblue
