@@ -1,0 +1,108 @@
+/* ==========================================================================
+   CARE-IT – Base Theme (klinisch ruhig)
+   ========================================================================== */
+
+:root {
+  /* Primary palette */
+  --ifm-color-primary: #1f4e79;
+  --ifm-color-primary-dark: #1b456c;
+  --ifm-color-primary-darker: #183f63;
+  --ifm-color-primary-darkest: #143451;
+  --ifm-color-primary-light: #2e6da4;
+  --ifm-color-primary-lighter: #3b7db5;
+  --ifm-color-primary-lightest: #5a96c7;
+
+  /* Base colors */
+  --ifm-background-color: #f8f9fb;
+  --ifm-font-color-base: #2b2b2b;
+
+  /* Surfaces */
+  --ifm-navbar-background-color: #ffffff;
+  --ifm-footer-background-color: #1f2a33;
+}
+
+/* ==========================================================================
+   Typography
+   ========================================================================== */
+
+body {
+  font-weight: 400;
+  letter-spacing: 0.2px;
+}
+
+h1,
+h2,
+h3 {
+  font-weight: 600;
+}
+
+.navbar__title {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+/* ==========================================================================
+   CARE-IT page elements (MDX)
+   ========================================================================== */
+
+.careitKicker {
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: rgba(43, 43, 43, 0.6);
+  margin-bottom: 0.8rem;
+
+  /* subtiler Kapitelstrich */
+  border-left: 3px solid rgba(31, 78, 121, 0.35);
+  padding-left: 0.8rem;
+}
+
+/* ==========================================================================
+   CARE-IT Minimal Tiles (Startseite)
+   ========================================================================== */
+
+.careitTiles {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1.2rem;
+  margin-top: 1.8rem;
+}
+
+.careitTile {
+  display: block;
+  padding: 1.1rem 1.2rem;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  border-radius: 10px;
+  background: #ffffff;
+  color: rgba(43, 43, 43, 0.9);
+  text-decoration: none;
+  line-height: 1.45;
+  transition: border-color 0.2s ease;
+}
+
+.careitTile strong {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
+.careitTile:hover {
+  border-color: rgba(31, 78, 121, 0.4);
+}
+
+/* ==========================================================================
+   Docs UI refinement
+   ========================================================================== */
+
+/* Sidebar dezenter */
+.theme-doc-sidebar-container {
+  border-right: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.menu__link {
+  font-size: 0.95rem;
+}
+
+.menu__link--active {
+  font-weight: 600;
+}

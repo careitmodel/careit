@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="80" viewBox="0 0 420 80">
+  <style>
+    .care { 
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 44px;
+      font-weight: 500;
+      letter-spacing: 2px;
+      fill: #1f4e79;
+    }
+    .it {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      font-size: 44px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      fill: #1f4e79;
+    }
+  </style>
+
+  <text x="0" y="55">
+    <tspan class="care">CARE-</tspan>
+    <tspan class="it">IT</tspan>
+  </text>
+</svg>

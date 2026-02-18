@@ -1,0 +1,86 @@
+<svg width="700" height="620" viewBox="0 0 700 620"
+     xmlns="http://www.w3.org/2000/svg"
+     font-family="Arial, Helvetica, sans-serif">
+
+  <style>
+    .grid { stroke: #d9dee3; stroke-width: 1; fill: none; }
+    .axis { stroke: #c5ccd3; stroke-width: 1; }
+    .label { font-size: 13px; fill: #1f4e79; text-anchor: middle; dominant-baseline: middle; }
+    .title { font-size: 18px; fill: #1f4e79; text-anchor: middle; font-weight: 600; }
+
+    /* Profiles */
+    .profileIst { fill: rgba(31,78,121,0.22); stroke: #1f4e79; stroke-width: 2; }
+    .profileSoll { fill: rgba(31,78,121,0.06); stroke: #1f4e79; stroke-width: 2; stroke-dasharray: 6 5; }
+    .legend { font-size: 13px; fill: rgba(43,43,43,0.75); dominant-baseline: middle; }
+  </style>
+
+  <!-- Title -->
+  <text x="350" y="42" class="title">CARE-IT Reifeprofil (Beispiel): Ist vs. Soll</text>
+
+  <!-- Radar center -->
+  <!-- center = (350, 310), max radius = 250 -->
+  <g transform="translate(50,10)">
+    <!-- Grid circles -->
+    <circle cx="300" cy="300" r="50" class="grid"/>
+    <circle cx="300" cy="300" r="100" class="grid"/>
+    <circle cx="300" cy="300" r="150" class="grid"/>
+    <circle cx="300" cy="300" r="200" class="grid"/>
+    <circle cx="300" cy="300" r="250" class="grid"/>
+
+    <!-- Axes -->
+    <line x1="300" y1="300" x2="300" y2="50" class="axis"/>
+    <line x1="300" y1="300" x2="476.8" y2="123.2" class="axis"/>
+    <line x1="300" y1="300" x2="550" y2="300" class="axis"/>
+    <line x1="300" y1="300" x2="476.8" y2="476.8" class="axis"/>
+    <line x1="300" y1="300" x2="300" y2="550" class="axis"/>
+    <line x1="300" y1="300" x2="123.2" y2="476.8" class="axis"/>
+    <line x1="300" y1="300" x2="50" y2="300" class="axis"/>
+    <line x1="300" y1="300" x2="123.2" y2="123.2" class="axis"/>
+
+    <!-- Labels -->
+    <text x="300" y="28" class="label">P1</text>
+    <text x="570" y="120" class="label">P2</text>
+    <text x="585" y="305" class="label">P3</text>
+    <text x="570" y="488" class="label">P4</text>
+    <text x="300" y="585" class="label">P5</text>
+    <text x="30" y="488" class="label">P6</text>
+    <text x="15" y="305" class="label">P7</text>
+    <text x="30" y="120" class="label">P8</text>
+
+    <!-- Soll-Profil (Beispiel): P1=4,P2=4,P3=4,P4=4,P5=4,P6=4,P7=3,P8=4 -->
+    <polygon class="profileSoll"
+      points="
+        300,100
+        441.4,158.6
+        500,300
+        441.4,441.4
+        300,500
+        158.6,441.4
+        150,300
+        158.6,158.6
+      "/>
+
+    <!-- Ist-Profil (Beispiel): P1=2,P2=3,P3=4,P4=2,P5=3,P6=2,P7=1,P8=2 -->
+    <polygon class="profileIst"
+      points="
+        300,200
+        406.1,193.9
+        500,300
+        370.7,370.7
+        300,450
+        229.3,370.7
+        250,300
+        229.3,229.3
+      "/>
+  </g>
+
+  <!-- Legend -->
+  <g>
+    <rect x="120" y="575" width="22" height="12" fill="rgba(31,78,121,0.22)" stroke="#1f4e79" stroke-width="2"/>
+    <text x="155" y="581" class="legend">Ist-Profil (Beispiel)</text>
+
+    <rect x="340" y="575" width="22" height="12" fill="rgba(31,78,121,0.06)" stroke="#1f4e79" stroke-width="2" stroke-dasharray="6 5"/>
+    <text x="375" y="581" class="legend">Soll-Profil (Beispiel)</text>
+  </g>
+
+</svg>

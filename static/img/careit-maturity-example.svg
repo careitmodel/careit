@@ -1,0 +1,57 @@
+<svg width="600" height="600" viewBox="0 0 600 600"
+     xmlns="http://www.w3.org/2000/svg"
+     font-family="Arial, Helvetica, sans-serif">
+
+  <style>
+    .grid { stroke: #d9dee3; stroke-width: 1; fill: none; }
+    .axis { stroke: #c5ccd3; stroke-width: 1; }
+    .label { font-size: 13px; fill: #1f4e79; text-anchor: middle; }
+    .profile { fill: rgba(31,78,121,0.25); stroke: #1f4e79; stroke-width: 2; }
+    .title { font-size: 18px; fill: #1f4e79; text-anchor: middle; font-weight: 600; }
+  </style>
+
+  <!-- Title -->
+  <text x="300" y="40" class="title">CARE-IT Reifeprofil (Beispiel)</text>
+
+  <!-- Grid circles -->
+  <circle cx="300" cy="300" r="50" class="grid"/>
+  <circle cx="300" cy="300" r="100" class="grid"/>
+  <circle cx="300" cy="300" r="150" class="grid"/>
+  <circle cx="300" cy="300" r="200" class="grid"/>
+  <circle cx="300" cy="300" r="250" class="grid"/>
+
+  <!-- Axes -->
+  <line x1="300" y1="300" x2="300" y2="50" class="axis"/>
+  <line x1="300" y1="300" x2="520" y2="150" class="axis"/>
+  <line x1="300" y1="300" x2="550" y2="300" class="axis"/>
+  <line x1="300" y1="300" x2="520" y2="450" class="axis"/>
+  <line x1="300" y1="300" x2="300" y2="550" class="axis"/>
+  <line x1="300" y1="300" x2="80" y2="450" class="axis"/>
+  <line x1="300" y1="300" x2="50" y2="300" class="axis"/>
+  <line x1="300" y1="300" x2="80" y2="150" class="axis"/>
+
+  <!-- Labels -->
+  <text x="300" y="30" class="label">P1</text>
+  <text x="545" y="140" class="label">P2</text>
+  <text x="575" y="305" class="label">P3</text>
+  <text x="545" y="470" class="label">P4</text>
+  <text x="300" y="585" class="label">P5</text>
+  <text x="55" y="470" class="label">P6</text>
+  <text x="25" y="305" class="label">P7</text>
+  <text x="55" y="140" class="label">P8</text>
+
+  <!-- Profile polygon (values scaled to radius 250) -->
+  <!-- Value * 50 -->
+  <polygon class="profile"
+    points="
+      300,200
+      400,240
+      450,300
+      400,360
+      300,450
+      200,360
+      250,300
+      200,240
+    "/>
+
+</svg>
