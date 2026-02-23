@@ -1,0 +1,18 @@
+\usepackage{microtype}
+\usepackage{hyperref}
+\usepackage{bookmark}
+\usepackage{csquotes}
+\usepackage{scrlayer-scrpage}
+\usepackage{xcolor}
+\definecolor{careitblue}{HTML}{1F4E79}
+
+\clearpairofpagestyles
+\ihead{CARE-IT}
+\ohead{\headmark}
+\cfoot{\pagemark}
+
+% Etwas ruhigere Kapitelabstände
+\RedeclareSectionCommand[
+  beforeskip=1.0\baselineskip,
+  afterskip=0.6\baselineskip
+]{chapter}

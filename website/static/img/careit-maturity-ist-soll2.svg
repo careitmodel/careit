@@ -1,0 +1,75 @@
+<svg width="900" height="800" viewBox="0 0 900 800" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .grid { stroke: #d0d6dc; stroke-width: 1; fill: none; }
+    .axis { stroke: #9aa7b3; stroke-width: 1.2; }
+    .label { font-family: Arial, sans-serif; font-size: 18px; fill: #2b2b2b; text-anchor: middle; }
+    .ist { fill: rgba(31,78,121,0.25); stroke: #1F4E79; stroke-width: 3; }
+    .soll { fill: rgba(140,25,25,0.15); stroke: #8C1919; stroke-width: 3; stroke-dasharray: 8 6; }
+    .legend { font-family: Arial, sans-serif; font-size: 16px; fill: #2b2b2b; }
+  </style>
+
+  <!-- Center -->
+  <g transform="translate(450,400)">
+
+    <!-- Grid -->
+    <circle r="80" class="grid"/>
+    <circle r="160" class="grid"/>
+    <circle r="240" class="grid"/>
+    <circle r="320" class="grid"/>
+
+    <!-- Axes -->
+    <line x1="0" y1="0" x2="0" y2="-320" class="axis"/>
+    <line x1="0" y1="0" x2="226" y2="-226" class="axis"/>
+    <line x1="0" y1="0" x2="320" y2="0" class="axis"/>
+    <line x1="0" y1="0" x2="226" y2="226" class="axis"/>
+    <line x1="0" y1="0" x2="0" y2="320" class="axis"/>
+    <line x1="0" y1="0" x2="-226" y2="226" class="axis"/>
+    <line x1="0" y1="0" x2="-320" y2="0" class="axis"/>
+    <line x1="0" y1="0" x2="-226" y2="-226" class="axis"/>
+
+    <!-- IST -->
+    <polygon class="ist"
+      points="
+        0,-240
+        160,-160
+        200,0
+        120,120
+        0,200
+        -140,140
+        -180,0
+        -160,-160
+      "/>
+
+    <!-- SOLL -->
+    <polygon class="soll"
+      points="
+        0,-300
+        210,-210
+        300,0
+        210,210
+        0,300
+        -210,210
+        -300,0
+        -210,-210
+      "/>
+  </g>
+
+  <!-- Labels -->
+  <text x="450" y="50" class="label">P1</text>
+  <text x="700" y="170" class="label">P2</text>
+  <text x="820" y="410" class="label">P3</text>
+  <text x="700" y="650" class="label">P4</text>
+  <text x="450" y="760" class="label">P5</text>
+  <text x="200" y="650" class="label">P6</text>
+  <text x="80" y="410" class="label">P7</text>
+  <text x="200" y="170" class="label">P8</text>
+
+  <!-- Legend -->
+  <rect x="50" y="50" width="20" height="20" fill="rgba(31,78,121,0.25)" stroke="#1F4E79" stroke-width="3"/>
+  <text x="80" y="65" class="legend">Ist-Profil</text>
+
+  <rect x="50" y="90" width="20" height="20" fill="rgba(140,25,25,0.15)" stroke="#8C1919" stroke-width="3" stroke-dasharray="8 6"/>
+  <text x="80" y="105" class="legend">Soll-Profil</text>
+
+</svg>

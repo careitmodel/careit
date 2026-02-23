@@ -1,0 +1,84 @@
+<svg width="1200" height="1000" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+.title { font: bold 26px sans-serif; fill:#1F4E79; }
+.centerTitle { font: bold 22px sans-serif; fill:#ffffff; }
+.layerTitle { font: bold 18px sans-serif; fill:#1F4E79; }
+.domainText { font: 16px sans-serif; fill:#ffffff; text-anchor: middle; }
+.principleText { font: 14px sans-serif; fill:#1F4E79; text-anchor: middle; }
+.artifactText { font: 15px sans-serif; fill:#1F4E79; text-anchor: middle; }
+</style>
+
+<!-- Background -->
+<rect width="1200" height="1000" fill="#ffffff"/>
+
+<!-- Title -->
+<text x="600" y="50" text-anchor="middle" class="title">
+CARE-IT Gesamtarchitektur
+</text>
+
+<!-- Center: Klinische Versorgung -->
+<circle cx="600" cy="450" r="120" fill="#1F4E79"/>
+<text x="600" y="445" text-anchor="middle" class="centerTitle">
+Klinische
+</text>
+<text x="600" y="470" text-anchor="middle" class="centerTitle">
+Versorgung
+</text>
+
+<!-- Ring 1: Prinzipien -->
+<circle cx="600" cy="450" r="220" fill="none" stroke="#1F4E79" stroke-width="3"/>
+<text x="600" y="215" text-anchor="middle" class="layerTitle">
+Grundprinzipien (P1–P8)
+</text>
+
+<!-- Ring 2: Domänen -->
+<circle cx="600" cy="450" r="330" fill="none" stroke="#7FA4BF" stroke-width="3"/>
+<text x="600" y="100" text-anchor="middle" class="layerTitle">
+Domänen (D1–D6)
+</text>
+
+<!-- Domain Labels -->
+<circle cx="600" cy="120" r="90" fill="#1F4E79"/>
+<text x="600" y="115" class="domainText">D1</text>
+<text x="600" y="135" class="domainText">Klinische Ausrichtung</text>
+
+<circle cx="890" cy="270" r="90" fill="#1F4E79"/>
+<text x="890" y="265" class="domainText">D2</text>
+<text x="890" y="285" class="domainText">Systemarchitektur</text>
+
+<circle cx="890" cy="630" r="90" fill="#1F4E79"/>
+<text x="890" y="625" class="domainText">D3</text>
+<text x="890" y="645" class="domainText">Governance</text>
+
+<circle cx="600" cy="780" r="90" fill="#1F4E79"/>
+<text x="600" y="775" class="domainText">D4</text>
+<text x="600" y="795" class="domainText">Risiko</text>
+
+<circle cx="310" cy="630" r="90" fill="#1F4E79"/>
+<text x="310" y="625" class="domainText">D5</text>
+<text x="310" y="645" class="domainText">Lebenszyklus</text>
+
+<circle cx="310" cy="270" r="90" fill="#1F4E79"/>
+<text x="310" y="265" class="domainText">D6</text>
+<text x="310" y="285" class="domainText">Innovation</text>
+
+<!-- Reifegradmodell -->
+<rect x="350" y="850" width="500" height="60" rx="10" fill="#7FA4BF"/>
+<text x="600" y="888" text-anchor="middle" class="domainText">
+Reifegradmodell – Entwicklungsprofil
+</text>
+
+<!-- Artefakte -->
+<rect x="200" y="920" width="800" height="50" rx="8" fill="#E6EEF4"/>
+<text x="600" y="952" class="artifactText">
+Kernartefakte – operative Umsetzungsebene
+</text>
+
+<!-- KPIs -->
+<rect x="350" y="70" width="500" height="60" rx="10" fill="#E6EEF4"/>
+<text x="600" y="105" class="artifactText">
+Kern-KPIs – strategische Selbstbeobachtung
+</text>
+
+</svg>
