@@ -1,5 +1,5 @@
 ---
-title: Version 1.1.0
+title: Version 1.1.1
 sidebar_label: Aktuelle Version
 sidebar_position: 1
 ---
@@ -12,7 +12,7 @@ sidebar_position: 1
 
 Die offizielle Veröffentlichung dieser Version erfolgt über GitHub:
 
-👉 https://github.com/careitmodel/careit/releases/tag/v1.1.0
+👉 https://github.com/careitmodel/careit/releases/tag/v1.1.1
 
 Der GitHub-Release stellt die historisch fixierte Referenzversion dar.  
 Änderungen am Framework erfolgen ausschließlich über versionierte Folge-Releases.
@@ -21,7 +21,7 @@ Der GitHub-Release stellt die historisch fixierte Referenzversion dar.
 
 ## Geltungsbereich dieser Version
 
-Version 1.1.0 definiert:
+Version 1.1.1 definiert:
 
 - Die acht CARE-IT Grundprinzipien (P1–P8)
 - Die sechs Architekturdomainen (D1–D6)
@@ -37,9 +37,9 @@ ausbalancierte Fassung des CARE-IT Referenzmodells dar.
 
 ---
 
-## Charakter der Version 1.1.0
+## Charakter der Version 1.1.1
 
-Version 1.1.0 ist:
+Version 1.1.1 ist:
 
 - strukturell konsistent
 - normativ geschärft
@@ -56,19 +56,17 @@ Sie bildet die Grundlage für:
 
 ---
 
-## Änderungen gegenüber Version 1.0
+## Änderungen gegenüber Version 1.1.0
 
-Version 1.1.0 konsolidiert und präzisiert:
+Version 1.1.1 enthält:
 
-- Klare Abgrenzung zwischen Prinzipien, Domänen und Reifegradmodell  
-- Entfernung impliziter Punkteaggregation im Reifegradmodell  
-- Strukturelle Vereinheitlichung aller Artefakte  
-- Strategische Schärfung des Implementation Guide  
-- Integration der visuellen Gesamtarchitektur  
-- Kohärenzprüfung und Präzisierung aller Domänen  
+- Korrektur und Konsolidierung der PDF-Fassung
+- Bereinigung der Inhaltsverzeichnis-Struktur
+- Verbesserte Formatierung des Glossars
+- Redaktionelle Präzisierungen ohne inhaltliche Änderung des Framework-Kerns
 
-Es handelt sich um ein Minor-Release mit struktureller Reifung –  
-nicht um eine inhaltliche Neudefinition des Framework-Kerns.
+Es handelt sich um ein **Patch-Release gemäß semantischer Versionierung**.  
+Die normative Architektur des Frameworks bleibt unverändert.
 
 ---
 
@@ -96,5 +94,5 @@ CARE-IT ist dauerhaft über Zenodo archiviert.
 Concept DOI (alle Versionen):  
 https://doi.org/10.5281/zenodo.18679683
 
-Sobald Version 1.1.0 bei Zenodo publiziert ist,  
+Sobald Version 1.1.1 bei Zenodo publiziert ist,  
 wird hier der versionsspezifische DOI ergänzt.

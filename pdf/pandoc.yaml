@@ -2,6 +2,7 @@ from: markdown
 to: pdf
 pdf-engine: xelatex
 toc: true
+toc-depth: 1
 number-sections: true
 top-level-division: chapter
 

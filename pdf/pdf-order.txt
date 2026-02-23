@@ -19,10 +19,17 @@ maturity/model.md
 maturity/evaluation-logic.md
 maturity/indicators-principles.md
 maturity/indicators-domains.md
+maturity/profile.md
 
 architecture/overview.md
 architecture/domains.md
-architecture/reference-systembunds.md
+
+domains/d1.md
+domains/d2.md
+domains/d3.md
+domains/d4.md
+domains/d5.md
+domains/d6.md
 
 artifacts/overview.md
 artifacts/core-artifacts.md
@@ -30,6 +37,7 @@ artifacts/systembund.md
 artifacts/roles-matrix.md
 artifacts/lifecycle.md
 artifacts/impact-check.md
+artifacts/risk-impact-check.md
 artifacts/innovation-canvas.md
 
 application/case-mobile-monitoring.md

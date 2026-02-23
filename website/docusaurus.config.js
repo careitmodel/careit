@@ -93,9 +93,9 @@ const config = {
       {
         title: 'Start',
         items: [
-          { label: 'Definition', to: '/definition' },
-          { label: 'Scope', to: '/scope' },
-          { label: 'Controlled Open', to: '/controlled-open' },
+          { label: 'Definition', to: '/foundation/definition' },
+          { label: 'Scope', to: '/foundation/scope' },
+          { label: 'Controlled Open', to: '/foundation/controlled-open' },
           { label: 'Versionen', to: '/versions/current' },
           ],
       },
@@ -105,7 +105,7 @@ const config = {
           { label: 'Grundprinzipien', to: '/principles/overview' },
           { label: 'Architektur', to: '/architecture/overview' },
           { label: 'Reifegradmodell', to: '/maturity/model' },
-          { label: 'KPIs', to: '/governance/kpis' },
+          { label: 'KPIs', to: '/framework/kpis' },
           { label: 'Artefakte', to: '/artifacts/overview' },
           ],
       },

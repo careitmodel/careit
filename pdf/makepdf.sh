@@ -2,7 +2,7 @@
 set -e
 
 # ------------------------------------------------------------
-# 1. Version aus website/docs/98-versions/current.md lesen
+# 1. Version aus website/docs/versions/current.md lesen
 # ------------------------------------------------------------
 
 VERSION=$(grep -Eo '[0-9]+\.[0-9]+\.[0-9]+' ../website/docs/versions/current.md | head -n 1)
@@ -48,6 +48,8 @@ EOF
 
 # ------------------------------------------------------------
 # 3. Kapitel in definierter Reihenfolge zusammenziehen
+#    - YAML frontmatter je Datei entfernen
+#    - nur erste H1 (# ) behalten, weitere H1 zu H2 (## ) demoten
 # ------------------------------------------------------------
 
 while read FILE; do
@@ -60,14 +62,38 @@ while read FILE; do
   # Defensive: no leading slash
   FILE="${FILE#/}"
 
+  SRC="../website/docs/$FILE"
+
   echo "➕ $FILE"
 
-  if [ ! -f "../website/docs/$FILE" ]; then
-    echo "❌ Datei nicht gefunden: ../website/docs/$FILE"
+  if [ ! -f "$SRC" ]; then
+    echo "❌ Datei nicht gefunden: $SRC"
     exit 1
   fi
 
-  cat "../website/docs/$FILE" >> "$TEMP_MD"
+  # Frontmatter entfernen + H1-Demote (ab der 2. H1 innerhalb derselben Datei)
+  awk '
+    BEGIN { in_frontmatter=0; seen_h1=0 }
+
+    # Frontmatter startet nur, wenn die Datei mit --- beginnt
+    NR==1 && $0 ~ /^---[[:space:]]*$/ { in_frontmatter=1; next }
+
+    # Frontmatter block überspringen
+    in_frontmatter==1 {
+      if ($0 ~ /^---[[:space:]]*$/) { in_frontmatter=0 }
+      next
+    }
+
+    # Überschriftenlogik: nur erste # bleibt, weitere # werden ## 
+    {
+      if ($0 ~ /^# /) {
+        if (seen_h1==0) { seen_h1=1; print; next }
+        else { sub(/^# /,"## "); print; next }
+      }
+      print
+    }
+  ' "$SRC" >> "$TEMP_MD"
+
   echo -e "\n\n" >> "$TEMP_MD"
 done < pdf-order.txt
 
@@ -84,10 +110,6 @@ sed -i '' 's/👉//g' "$TEMP_MD"
 pandoc "$TEMP_MD" \
   --defaults=pandoc.yaml \
   -H header.tex \
-  --metadata title="CARE-IT Framework" \
-  --metadata subtitle="Referenzmodell für Governance und Betriebsführung klinischer digitaler Versorgungsinfrastruktur" \
-  --metadata date="$DATESTR" \
-  --metadata version="v$VERSION" \
   -o "$OUTPUT"
 
 echo "✅ Fertig: $OUTPUT"

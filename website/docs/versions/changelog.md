@@ -15,6 +15,37 @@ CARE-IT folgt semantischer Versionierung:
 
 ---
 
+## Version 1.1.1
+
+**Release-Typ:** Patch (formale und redaktionelle Konsolidierung)  
+**Status:** Stabil
+
+### PDF & Publikationsstruktur
+
+- Bereinigung der PDF-Inhaltsverzeichnisstruktur
+- Harmonisierung der Kapitelhierarchie mit der Webarchitektur
+- Korrektur der Referenz- und Glossareinbindung im PDF
+- Typografische und strukturelle Konsolidierung der finalen Druckfassung
+
+### Anhang & Referenzen
+
+- Strukturierte Überarbeitung des Glossars
+- Ergänzung und Präzisierung der Referenzen
+- Klare Trennung zwischen Glossar, Literatur und Framework-Inhalten
+
+### Redaktion & Konsistenz
+
+- Kleinere sprachliche Präzisierungen
+- Korrektur interner Verlinkungen
+- Vereinheitlichung einzelner Begriffe ohne konzeptionelle Änderung
+
+---
+
+Version 1.1.1 enthält **keine inhaltliche Erweiterung oder strukturelle Änderung des Framework-Kerns**.  
+Die normative Architektur, Prinzipienlogik und Domänenstruktur bleiben unverändert.
+
+---
+
 ## Version 1.1.0
 
 **Release-Typ:** Minor (strukturelle Konsolidierung)  
