@@ -1,59 +1,102 @@
 ---
 title: Controlled Open
-sidebar_label: Controlled Open
-sidebar_position: 4
 ---
 
 # Controlled Open
 
-CARE-IT ist öffentlich zugänglich und frei nutzbar.
-Gleichzeitig wird seine Weiterentwicklung strukturiert gesteuert.
+CARE-IT wird als **Controlled Open Framework** veröffentlicht.
 
-Für Anwender bedeutet das:
+Das bedeutet:
 
-- Das Framework kann ohne Lizenzgebühren angewendet werden.
-- Inhalte dürfen zitiert und in interne Dokumente übernommen werden.
-- Anpassungen an organisationsspezifische Bedürfnisse sind möglich.
-- Es besteht jedoch kein Anspruch auf formale Zertifizierung oder kommerziellen Support.
+- Der Referenzrahmen ist öffentlich zugänglich.
+- Die Inhalte sind versioniert.
+- Die Weiterentwicklung ist strukturiert.
+- Die normative Kohärenz bleibt gewahrt.
 
----
-
-## Versionierung und Stabilität
-
-CARE-IT wird versioniert veröffentlicht.
-Jede veröffentlichte Version bleibt referenzierbar.
-
-Wenn Sie CARE-IT in Ihrer Organisation einsetzen:
-
-- Sie können sich auf eine klar definierte Version beziehen.
-- Änderungen zwischen Versionen sind nachvollziehbar dokumentiert.
-- Bestehende Implementierungen verlieren nicht rückwirkend ihre Gültigkeit.
-
-Das Framework wird nicht laufend informell verändert,
-sondern nur im Rahmen veröffentlichter Versionen angepasst.
+Controlled Open ist kein Marketingbegriff, sondern ein Governance-Prinzip für die Framework-Weiterentwicklung.
 
 ---
 
-## Weiterentwicklung
+## 1. Warum kein rein offenes Modell?
 
-CARE-IT versteht sich als evolutives Referenzmodell.
+Digitale Versorgungsinfrastruktur berührt:
 
-Rückmeldungen aus der Praxis, fachliche Diskussionen
-und neue regulatorische oder technische Entwicklungen
-können in zukünftige Versionen einfließen.
+- Patientensicherheit,
+- regulatorische Verantwortung,
+- organisationsweite Steuerungslogik.
 
-Die Grundprinzipien bilden dabei den stabilen Kern.
-Strukturelle Änderungen erfolgen nicht beliebig,
-sondern im Kontext des Gesamtmodells.
+Ein vollständig offenes, unkuratierbares Modell würde:
+
+- Inkonsistenzen erzeugen,
+- normative Verwässerung riskieren,
+- Vergleichbarkeit erschweren.
+
+CARE-IT benötigt Stabilität im Kern.
 
 ---
 
-## Was Controlled Open nicht bedeutet
+## 2. Warum nicht geschlossen?
 
-- Keine offene Bearbeitung ohne Struktur
-- Kein kollaboratives Wiki
-- Keine individuelle Sonderversion pro Organisation
-- Kein proprietäres Lizenzmodell
+Ein vollständig geschlossenes Modell würde:
+
+- fachliche Weiterentwicklung behindern,
+- Diskurs verhindern,
+- Innovationsfähigkeit einschränken.
+
+Digitale Versorgungsinfrastruktur entwickelt sich dynamisch.
+
+Das Framework muss lernfähig bleiben.
+
+---
+
+## 3. Das Hybridprinzip
+
+Controlled Open kombiniert:
+
+**Stabiler Referenzkern**
+- Grundprinzipien
+- Domänenlogik
+- Reifegradstruktur
+- normative Leitfragen
+
+**Versionierte Artefaktbibliothek**
+- weiterentwickelbar
+- anpassbar
+- kontextabhängig einsetzbar
+
+Änderungen erfolgen nicht informell, sondern versioniert und dokumentiert.
+
+---
+
+## 4. Versionierung und Verantwortung
+
+Jede offizielle Version:
+
+- ist eindeutig nummeriert,
+- ist archiviert,
+- ist zitierfähig,
+- dokumentiert Änderungen transparent.
+
+Die Verantwortung für die Kohärenz des Referenzrahmens bleibt klar zugeordnet.
+
+---
+
+## 5. Einladung zum Diskurs
 
 Controlled Open bedeutet:
-öffentlich zugänglich, strukturiert weiterentwickelt.
+
+- Beiträge sind willkommen,
+- Kritik ist erwünscht,
+- Anpassungen werden geprüft,
+- Weiterentwicklungen erfolgen nachvollziehbar.
+
+Das Ziel ist nicht Offenheit um der Offenheit willen,  
+sondern strukturell verantwortete Weiterentwicklung.
+
+---
+
+CARE-IT versteht sich als lebender Referenzrahmen.
+
+Stabil im Kern.  
+Lernfähig in der Anwendung.  
+Verantwortet in der Weiterentwicklung.

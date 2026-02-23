@@ -1,5 +1,5 @@
 ---
-title: Version 1.0
+title: Version 1.1.0
 sidebar_label: Aktuelle Version
 sidebar_position: 1
 ---
@@ -12,44 +12,63 @@ sidebar_position: 1
 
 Die offizielle Veröffentlichung dieser Version erfolgt über GitHub:
 
-👉 https://github.com/careitmodel/careit/releases/tag/v1.0.0
+👉 https://github.com/careitmodel/careit/releases/tag/v1.1.0
 
-Der GitHub-Release stellt die historisch fixierte Referenzversion dar.
+Der GitHub-Release stellt die historisch fixierte Referenzversion dar.  
 Änderungen am Framework erfolgen ausschließlich über versionierte Folge-Releases.
 
 ---
 
 ## Geltungsbereich dieser Version
 
-Version 1.0 definiert:
+Version 1.1.0 definiert:
 
 - Die acht CARE-IT Grundprinzipien (P1–P8)
 - Die sechs Architekturdomainen (D1–D6)
 - Das zweistufige Reifegradmodell (Prinzipien + Domänen)
-- Eine CORE-KPI-Logik zur operativen Steuerung
-- Zentrale Artefakte zur strukturierten Umsetzung
-- Einen pragmatischen Implementation Guide
+- Die indikatorenbasierte Reifegradlogik ohne Punkteaggregation
+- Eine klar abgegrenzte KPI-Logik zur operativen Steuerung
+- Die konsolidierte Artefaktarchitektur
+- Ein strukturell geschärftes Implementierungsmodell
+- Eine visuelle Gesamtarchitektur des Frameworks
 
-Diese Version stellt die erste vollständige und konsistente
-Fassung des CARE-IT Referenzmodells dar.
+Diese Version stellt die erste konsolidierte und architektonisch vollständig
+ausbalancierte Fassung des CARE-IT Referenzmodells dar.
 
 ---
 
-## Charakter der Version 1.0
+## Charakter der Version 1.1.0
 
-Version 1.0 ist:
+Version 1.1.0 ist:
 
-- strukturell vollständig
-- normativ stabil
+- strukturell konsistent
+- normativ geschärft
+- architektonisch vollständig
 - operativ anschlussfähig
 - Controlled Open veröffentlicht
 
 Sie bildet die Grundlage für:
 
 - Praxisanwendung
-- Diskussion
-- Weiterentwicklung
-- akademische Einordnung
+- organisationsweite Implementierung
+- strukturierte Reifegradentwicklung
+- wissenschaftliche und regulatorische Einordnung
+
+---
+
+## Änderungen gegenüber Version 1.0
+
+Version 1.1.0 konsolidiert und präzisiert:
+
+- Klare Abgrenzung zwischen Prinzipien, Domänen und Reifegradmodell  
+- Entfernung impliziter Punkteaggregation im Reifegradmodell  
+- Strukturelle Vereinheitlichung aller Artefakte  
+- Strategische Schärfung des Implementation Guide  
+- Integration der visuellen Gesamtarchitektur  
+- Kohärenzprüfung und Präzisierung aller Domänen  
+
+Es handelt sich um ein Minor-Release mit struktureller Reifung –  
+nicht um eine inhaltliche Neudefinition des Framework-Kerns.
 
 ---
 
@@ -57,20 +76,25 @@ Sie bildet die Grundlage für:
 
 CARE-IT folgt einem Controlled Open Ansatz.
 
-Erweiterungen und Präzisierungen werden
-in zukünftigen Minor- und Major-Versionen
-transparent dokumentiert.
+Erweiterungen, Präzisierungen und strukturelle Anpassungen werden
+in zukünftigen Minor- und Major-Versionen transparent dokumentiert.
+
+Versionierung erfolgt gemäß semantischer Logik:
+
+- **Major**: Paradigmenwechsel oder strukturelle Neudefinition  
+- **Minor**: Erweiterung oder strukturelle Konsolidierung  
+- **Patch**: redaktionelle oder formale Anpassungen  
 
 ---
 
 ## Zitierweise
 
-## DOI
+### DOI
 
-CARE-IT is permanently archived via Zenodo.
+CARE-IT ist dauerhaft über Zenodo archiviert.
 
-Concept DOI (all versions):
+Concept DOI (alle Versionen):  
 https://doi.org/10.5281/zenodo.18679683
 
-Current Version DOI (v1.0.1):
-https://doi.org/10.5281/zenodo.18679684
+Sobald Version 1.1.0 bei Zenodo publiziert ist,  
+wird hier der versionsspezifische DOI ergänzt.

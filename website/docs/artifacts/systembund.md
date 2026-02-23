@@ -1,26 +1,61 @@
 ---
-title: Systemverbund
-sidebar_label: Systemverbund
+title: Systemverbund-Dokumentation
 ---
 
-# Systemverbund-Beschreibung
+# Systemverbund-Dokumentation
 
-Die Systemverbund-Beschreibung ist das zentrale Strukturartefakt von CARE-IT.
+## Zweck
 
-Sie dient der transparenten Darstellung eines klinischen Systems
-als Zusammenspiel mehrerer Komponenten.
+Die Systemverbund-Dokumentation macht sichtbar, wie digitale Systeme funktional und technisch zusammenwirken.
 
-Ein Systemverbund umfasst typischerweise:
+Sie schafft Transparenz über Abhängigkeiten, Datenflüsse und Integrationsstrukturen.
 
-- medizinische Geräte  
-- Fachapplikationen  
-- Integrationsschnittstellen  
-- Datenflüsse  
-- Infrastrukturabhängigkeiten  
-- organisatorische Verantwortlichkeiten  
+---
 
-Ziel ist es, isolierte Betrachtungen zu vermeiden
-und die systemische Realität sichtbar zu machen.
+## Leitfrage
 
-Die Systemverbund-Beschreibung bildet die Grundlage
-für Reifegradbewertung, Impact-Analyse und Governance-Entscheidungen.
+> Wie ist dieses System in den gesamten Versorgungsverbund eingebettet?
+
+---
+
+## Strukturelle Wirkung
+
+Die Systemverbund-Dokumentation:
+
+- macht Integrationsabhängigkeiten explizit  
+- reduziert isolierte Beschaffungsentscheidungen  
+- ermöglicht systemische Change-Bewertung  
+- verhindert Schnittstellenblindheit  
+
+Sie operationalisiert P2 – Ganzheitliche Systemverantwortung.
+
+---
+
+## Wann wird es angewendet?
+
+- Bei Einführung neuer Systeme  
+- Bei Architekturänderungen  
+- Bei Release-Planungen  
+- Bei Störungsanalysen  
+- Bei strategischen Infrastrukturentscheidungen  
+
+---
+
+## Typische Fehlanwendungen
+
+- Reduktion auf technische Netzwerkdiagramme  
+- Fehlende klinische Perspektive  
+- Nicht-Aktualisierung bei Änderungen  
+- Nutzung nur durch IT-Abteilungen  
+
+---
+
+## Bezug zu Prinzipien und Domänen
+
+Primärer Bezug:
+- P2 – Ganzheitliche Systemverantwortung  
+- D2 – Systemarchitektur & Verbundsteuerung  
+
+Sekundärer Bezug:
+- P4 – Gemeinsame Verständlichkeit  
+- D4 – Risiko & Patientensicherheit  

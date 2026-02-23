@@ -1,21 +1,68 @@
 ---
-title: Impact Check
-sidebar_label: Impact-Check
+title: Klinischer Nutzen-Impact-Check
 ---
 
-# Impact-Check
+# Klinischer Nutzen-Impact-Check
 
-Der Impact-Check ist ein Bewertungsinstrument
-für Änderungen an bestehenden Systemen.
+## Zweck
 
-Er prüft strukturiert:
+Der Klinische Nutzen-Impact-Check strukturiert die explizite Begründung digitaler Entscheidungen aus der Perspektive der klinischen Wirksamkeit.
 
-- Auswirkungen auf klinische Wirksamkeit  
-- Veränderungen systemischer Abhängigkeiten  
-- Risiken für Patientensicherheit  
-- regulatorische Implikationen  
-- Einfluss auf Betriebsfähigkeit  
+Er verhindert technikgetriebene Investitionen und schafft eine überprüfbare Verbindung zwischen System und Versorgungsziel.
 
-Ziel ist es,
-Änderungen nicht isoliert technisch,
-sondern systemisch zu bewerten.
+---
+
+## Leitfrage
+
+> Welchen konkreten Beitrag leistet dieses System zur Verbesserung der klinischen Versorgung?
+
+---
+
+## Strukturelle Wirkung
+
+Der Impact-Check:
+
+- zwingt zur klaren Formulierung des klinischen Zwecks  
+- trennt Effizienzargumente von Versorgungswirkung  
+- schafft Transparenz vor Investitionsentscheidungen  
+- ermöglicht spätere Wirkungsevaluation  
+
+Er operationalisiert P1 – Klinische Wirksamkeit.
+
+Ohne dieses Artefakt bleibt „Nutzen“ häufig implizit oder rhetorisch.
+
+---
+
+## Wann wird es angewendet?
+
+- Vor Beschaffungsentscheidungen  
+- Vor Projektfreigaben  
+- Bei größeren Releases  
+- Bei strategischen Technologieentscheidungen  
+- Bei Re-Evaluation bestehender Systeme  
+
+Der Impact-Check ist kein Projektformular, sondern ein Governance-Instrument.
+
+---
+
+## Typische Fehlanwendungen
+
+- Nutzung als formale Genehmigungsroutine ohne echte Diskussion  
+- Gleichsetzung von Effizienzsteigerung mit Versorgungswirkung  
+- Verzicht auf spätere Wirkungsevaluation  
+- Delegation der Nutzenbegründung ausschließlich an Hersteller  
+
+Der Impact-Check ersetzt keine klinische Expertise –  
+er strukturiert sie.
+
+---
+
+## Bezug zu Prinzipien und Domänen
+
+Primärer Bezug:
+- P1 – Klinische Wirksamkeit  
+- D1 – Klinische Ausrichtung & Nutzensteuerung  
+
+Sekundärer Bezug:
+- D4 – Risiko & Patientensicherheit  
+- D6 – Innovationsfähigkeit

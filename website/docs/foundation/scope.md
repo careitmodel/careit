@@ -1,61 +1,104 @@
 ---
 title: Scope
-sidebar_label: Scope
-sidebar_position: 3
 ---
 
-# Scope des CARE-IT Frameworks
+# Scope
 
-CARE-IT definiert einen Ordnungsrahmen für digitale Versorgungsinfrastruktur in Gesundheitseinrichtungen.
+CARE-IT definiert den Anwendungsbereich eines Governance- und Betriebsführungsmodells für digitale Versorgungsinfrastruktur.
 
-Der Geltungsbereich umfasst alle technischen und datenbezogenen Systeme,
-die unmittelbar oder mittelbar Einfluss auf die Patientenversorgung haben.
-
-CARE-IT richtet sich insbesondere an Organisationen, in denen vernetzte
-Medizinprodukte, klinische Systemverbünde und Datenplattformen
-Bestandteil der Versorgungsrealität sind.
+Der Scope beschreibt, **welche Systeme, Entscheidungen und organisatorischen Ebenen vom Framework erfasst werden** – und welche nicht.
 
 ---
 
-## Im Scope
+## 1. Was im Scope liegt
 
-CARE-IT adressiert insbesondere:
+CARE-IT gilt für digitale Systeme, die:
 
-- vernetzte Medizinprodukte und klinische Geräteverbünde  
-- klinisch-nahe Fachapplikationen (z. B. PDMS, RIS/PACS, Labor, Monitoring)  
-- Interoperabilitätsarchitekturen und Integrationsplattformen  
-- klinische Datenplattformen und Clinical Data Repositories  
-- systemübergreifende Alarmierungs- und Entscheidungsunterstützungssysteme  
+- klinische Entscheidungen beeinflussen,
+- patientenrelevante Risiken erzeugen können,
+- Bestandteil eines Versorgungsprozesses sind,
+- dauerhaft betrieben werden müssen.
 
-Im Sinne von CARE-IT bezeichnet „IT“ nicht ausschließlich technische Infrastruktur,
-sondern die Gesamtheit digitaler Strukturen,
-die klinische Prozesse ermöglichen oder beeinflussen.
+Dazu zählen insbesondere:
 
----
+- klinische Informationssysteme (z. B. KIS, RIS, LIS),
+- vernetzte medizintechnische Systeme,
+- Monitoring- und Bildgebungssysteme,
+- integrierte Datenplattformen,
+- systemübergreifende Entscheidungsunterstützung,
+- Schnittstellen- und Integrationsarchitekturen.
 
-## Nicht im Scope
-
-CARE-IT ersetzt keine bestehenden Standards, Frameworks oder regulatorischen Vorgaben.
-
-Nicht primär adressiert werden:
-
-- klassische Büro- und Arbeitsplatz-IT  
-- reine Infrastruktur-Services ohne klinischen Bezug  
-- betriebswirtschaftliche Standardsoftware ohne Versorgungsrelevanz  
-
-Für diese Bereiche bleiben etablierte IT-Service-Management-Modelle
-und organisatorische Best Practices maßgeblich.
+CARE-IT bezieht sich dabei nicht auf das Einzelprodukt, sondern auf den **Systemverbund**, in dem es wirksam wird.
 
 ---
 
-## Ziel des Geltungsbereichs
+## 2. Was nicht im Scope liegt
 
-CARE-IT schließt die strukturelle Lücke zwischen:
+CARE-IT ist kein:
 
-- klassischem IT-Service-Management  
-- regulatorischer Betreiberverantwortung  
-- klinischer Zweckbestimmung  
-- systemischer Integrationsrealität  
+- Softwareentwicklungsframework,
+- Projektmanagement-Standard,
+- IT-Service-Management-Modell,
+- Informationssicherheitsstandard,
+- regulatorisches Zulassungsverfahren,
+- Medizinprodukte-Norm.
 
-Es schafft einen gemeinsamen Referenzrahmen für IT, Medizintechnik,
-Klinik und Führung – dort, wo digitale Infrastruktur Teil der Versorgung ist.
+CARE-IT ersetzt keine bestehenden Regelwerke.
+
+Es adressiert die strukturelle Steuerungslogik oberhalb dieser Ebenen.
+
+---
+
+## 3. Organisationale Ebene
+
+CARE-IT wirkt auf:
+
+- Führungsebene,
+- Governance-Gremien,
+- klinische Leitung,
+- Medizintechnik,
+- IT,
+- Architektur- und Integrationsverantwortliche.
+
+Es ist kein rein technisches Framework.
+
+Es ist ein organisationsweites Steuerungsmodell für digitale Versorgungsinfrastruktur.
+
+---
+
+## 4. Entscheidungsebene
+
+CARE-IT adressiert insbesondere Entscheidungen zu:
+
+- Einführung neuer Systeme,
+- Integration in bestehende Systemlandschaften,
+- Betriebsmodellen,
+- Verantwortungszuordnung,
+- Risikobewertung,
+- Lebenszyklusplanung,
+- Innovationsüberführung in den Betrieb.
+
+Der Scope endet dort, wo digitale Systeme keine klinische Relevanz entfalten.
+
+---
+
+## 5. Kontextabhängigkeit
+
+CARE-IT ist skalierbar.
+
+Es kann angewendet werden auf:
+
+- einzelne Systemverbünde,
+- Abteilungen,
+- Gesamtspitäler,
+- Spitalgruppen.
+
+Die Tiefe der Anwendung ist kontextabhängig.
+
+Der normative Kern bleibt unverändert.
+
+---
+
+CARE-IT definiert nicht jedes Detail der Umsetzung.
+
+Es definiert die strukturellen Bedingungen, unter denen digitale Versorgungsinfrastruktur verantwortungsvoll betrieben werden kann.

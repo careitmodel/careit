@@ -1,160 +1,216 @@
 ---
-title: Fallbeispiel – Mobiles Vitaldatenmonitoring
-sidebar_label: Mobiles Vitalmonitoring
-sidebar_position: 1
+title: Durchgängiges Anwendungsbeispiel – Mobiles Patientenmonitoring
 ---
 
-# Fallbeispiel: Einführung eines mobilen Vitaldatenmonitorings
+# Durchgängiges Anwendungsbeispiel  
+## Einführung eines mobilen Patientenmonitoringsystems
 
-## Ausgangssituation
+Dieses Beispiel zeigt, wie CARE-IT als zusammenhängendes Steuerungsmodell wirkt.
 
-Ein bestehendes stationäres Vitaldatenmonitoringsystem
-soll um eine mobile Alarmweiterleitung erweitert werden.
+Es demonstriert nicht die Anwendung einzelner Artefakte,
+sondern das Zusammenspiel von:
 
-Die Lösung:
-
-- Smartphone-App des Herstellers  
-- Nutzung des hausinternen WLAN  
-- Keine Mobilfunkverbindung  
-- Geräte gemäss Hersteller-Kompatibilitätsliste  
-- Nutzung als Primäralarmsystem vorgesehen  
-
-Die Betreiberverantwortung für:
-
-- WLAN-Abdeckung  
-- Gerätekompatibilität  
-- Update-Policy  
-- Schulung des Personals  
-
-liegt beim Spital.
+- Grundprinzipien  
+- Domänen  
+- Reifegradlogik  
+- Kernartefakten  
 
 ---
 
-# Ausgangsreife (Ist-Profil)
+# 1. Ausgangssituation
 
-Vor strukturierter Bewertung zeigt sich typischerweise:
+Ein Akutspital plant die Einführung eines mobilen Patientenmonitoringsystems zur kontinuierlichen Überwachung auf Normalstationen.
 
-| Prinzip | Einschätzung |
-|----------|-------------|
-| P1 – Klinische Wirksamkeit | 2 |
-| P2 – Systemverantwortung | 2 |
-| P3 – Verantwortungszuordnung | 3 |
-| P4 – Verständlichkeit | 2 |
-| P5 – Patientensicherheit | 3 |
-| P6 – Lebenszyklusfähigkeit | 2 |
-| P7 – Informationsintegrität | 2 |
-| P8 – Innovationsfähigkeit | 2 |
+Ziele sind:
 
-Charakteristisch:
+- Frühere Erkennung klinischer Verschlechterung  
+- Reduktion ungeplanter Intensivverlegungen  
+- Entlastung des Pflegepersonals  
 
-- Fokus auf technische Machbarkeit  
-- WLAN als „IT-Thema“ betrachtet  
-- Alarmkritikalität nicht systemisch bewertet  
-- Schulung nicht strukturell geplant  
+Technisch umfasst das System:
+
+- tragbare Monitoringgeräte  
+- drahtlose Netzwerkintegration  
+- Anbindung an das KIS  
+- Alarmmanagement  
+- zentrale Visualisierung  
+
+Bereits hier wird deutlich:
+
+Es handelt sich nicht um ein isoliertes Produkt,
+sondern um einen Systemverbund mit unmittelbarer Versorgungswirkung.
 
 ---
 
-# Anwendung von CARE-IT
+# 2. Architektonische Einordnung
 
-CARE-IT zwingt zur systemischen Betrachtung:
+## Systemverbund
+
+Das Monitoring wirkt im Zusammenspiel mit:
+
+- KIS  
+- Alarmserver  
+- Netzwerkinfrastruktur  
+- Pflegeprozessen  
+- Eskalationsketten  
+
+Die Systemverbund-Dokumentation macht sichtbar:
+
+- Datenflüsse  
+- Integrationsabhängigkeiten  
+- technische und klinische Schnittstellen  
+
+Ohne diese Transparenz würde das System als „Geräteprojekt“ behandelt –  
+nicht als Versorgungsarchitektur.
+
+→ Bezug zu P2 / D2
+
+---
+
+# 3. Anwendung der Prinzipien
 
 ## P1 – Klinische Wirksamkeit
 
-- Welche Versorgungsverbesserung wird erwartet?
-- Welche Szenarien sind kritisch (Isolation, Einzelzimmer, Nachtbetrieb)?
+Vor Beschaffung wird der klinische Nutzen explizit formuliert:
 
-## P2 – Systemverbund
+- Welche Outcome-Verbesserung wird angestrebt?
+- Wie wird Verschlechterung definiert?
+- Welche messbaren Effekte werden erwartet?
 
-- Abhängigkeit von WLAN-Verfügbarkeit
-- Smartphone-OS und Update-Zyklen
-- Herstellerabhängigkeit
-- Monitoring-Server und Alarmrouting
+Der Nutzen-Impact-Check verhindert,
+dass das Projekt primär mit „Digitalisierung“ oder „Innovation“ begründet wird.
 
-## P3 – Verantwortung
+→ Bezug zu D1
 
-- Wer trägt Betreiberverantwortung?
-- Wer akzeptiert Restrisiko?
-- Wer verantwortet WLAN-Qualität?
+---
 
 ## P5 – Patientensicherheit
 
-- Was passiert bei WLAN-Ausfall?
-- Fallback-Mechanismus?
-- Redundanz?
+Das Monitoring erzeugt neue Risiken:
+
+- Alarmmüdigkeit  
+- Netzwerkausfälle  
+- Fehlalarme  
+- Integrationsfehler  
+- unklare Eskalationsverantwortung  
+
+Der Risiko-Impact-Check bewertet diese systemisch.
+
+Nicht das Gerät allein ist kritisch –  
+sondern das Zusammenspiel im Verbund.
+
+→ Bezug zu D4
+
+---
+
+## P3 – Verantwortungszuordnung
+
+Wer trägt:
+
+- klinische Zweckverantwortung?
+- Betreiberverantwortung?
+- Integrationsverantwortung?
+- Risikoentscheidung?
+
+Die Rollen- und Verantwortungsmatrix klärt diese Struktur.
+
+Ohne explizite Zuordnung entstehen Konflikte bei Störungen oder Updates.
+
+→ Bezug zu D3
+
+---
 
 ## P6 – Lebenszyklus
 
-- Wie wird Geräteersatz geregelt?
-- Wie werden OS-Updates geprüft?
-- Wie wird End-of-Life behandelt?
+Das Monitoring ist kein Projekt, sondern ein dauerhaftes System.
+
+Fragen:
+
+- Wie lange garantiert der Hersteller Support?
+- Wie werden Firmware-Updates geprüft?
+- Welche Ablösestrategie existiert?
+- Wie wird regulatorische Konformität gesichert?
+
+Die Lebenszyklus-Übersicht verhindert spätere Betriebsinstabilität.
+
+→ Bezug zu D5
 
 ---
 
-# Strukturierte Maßnahmen
+## P8 – Innovation
 
-Beispielhafte Ableitungen:
+Das Monitoring ist Teil einer Innovationsstrategie.
 
-1. WLAN-Ausleuchtung und Dokumentation aller Patientenzimmer  
-2. Klassifikation als sicherheitskritischer Systemverbund  
-3. Dokumentierte Betreiber- und Integrationsverantwortung  
-4. Kompatibilitäts- und Updatepolicy verbindlich definieren  
-5. Schulungskonzept inkl. Wiederholungsschulungen  
-6. Monitoring der Alarm-Latenz  
+Der Innovations-Canvas klärt:
 
----
+- Wie integriert sich das System in bestehende Architektur?
+- Welche Folgeinvestitionen entstehen?
+- Ist Skalierung möglich?
 
-# Zielreife (Soll-Profil)
+Innovation wird damit architekturfähig.
 
-| Prinzip | Ziel |
-|----------|------|
-| P1 | 4 |
-| P2 | 4 |
-| P3 | 4 |
-| P4 | 4 |
-| P5 | 4 |
-| P6 | 3 |
-| P7 | 3 |
-| P8 | 4 |
-
-Veränderung:
-
-- Systemverbund statt Einzelprodukt  
-- Risiko transparent  
-- Innovation strukturiert integriert  
-- Betrieb nachhaltig abgesichert  
+→ Bezug zu D6
 
 ---
 
-# Wirkung von CARE-IT im Beispiel
+# 4. Artefaktlogik im Zusammenspiel
 
-Ohne CARE-IT:
-- Fragmentierte Verantwortung  
-- Reaktive Sicherheitsbewertung  
-- WLAN als technisches Nebenthema  
+Im Projekt wirken die Kernartefakte nicht isoliert:
 
-Mit CARE-IT:
-- Systemische Betrachtung  
-- Klare Verantwortungsstruktur  
-- Dokumentierte Risikoentscheidung  
-- Nachhaltige Betriebsfähigkeit  
-- Innovation unter Kontrolle  
+1. Nutzen wird explizit gemacht.  
+2. Risiken werden systemisch bewertet.  
+3. Systemverbünde werden transparent.  
+4. Verantwortung wird zugeordnet.  
+5. Lebenszyklus wird abgesichert.  
+6. Innovation wird strukturell integriert.  
+
+Erst das Zusammenspiel erzeugt Steuerungsfähigkeit.
+
+---
+
+# 5. Sichtbarer Mehrwert
+
+Durch CARE-IT entsteht:
+
+- klare klinische Zieldefinition  
+- reduzierte Schnittstellenunsicherheit  
+- transparente Risikoentscheidungen  
+- stabile Governance-Struktur  
+- langfristig planbare Betriebsfähigkeit  
+
+Das Projekt wird nicht nur technisch umgesetzt,  
+sondern strukturell geführt.
+
+---
+
+# 6. Was ohne CARE-IT passiert wäre
+
+Ohne strukturellen Rahmen wären typische Szenarien:
+
+- Beschaffung aufgrund Innovationsdruck  
+- unklare Eskalationsverantwortung  
+- Alarmprobleme im Livebetrieb  
+- Netzwerkabhängigkeiten erst nach Einführung sichtbar  
+- fehlende Lebenszyklusplanung  
+- isolierte Projektlogik  
+
+Das System wäre technisch implementiert –  
+aber organisatorisch nicht stabil geführt.
 
 ---
 
 # Fazit
 
-Das Beispiel zeigt:
+Dieses Beispiel zeigt:
 
-CARE-IT ersetzt keine regulatorischen Vorgaben,
-sondern strukturiert deren Anwendung
-im Kontext klinischer Versorgungsinfrastruktur.
+CARE-IT ist kein Dokumentationsmodell.
 
-Es verbindet:
+Es ist ein architektonischer Führungsrahmen,
+der digitale Systeme als Teil der klinischen Versorgung behandelt.
 
-- klinische Realität  
-- Technik  
-- Verantwortung  
-- Risiko  
-- Innovation  
+Prinzipien geben Richtung.  
+Domänen strukturieren Verantwortung.  
+Artefakte machen Entscheidungen explizit.  
+Das Reifegradmodell ermöglicht Entwicklung.
 
-zu einer integrierten Führungslogik.
+Erst im Zusammenspiel entsteht steuerbare digitale Versorgungsinfrastruktur.

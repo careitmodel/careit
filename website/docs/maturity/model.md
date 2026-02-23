@@ -1,21 +1,76 @@
 ---
 title: Reifegradmodell
 sidebar_label: Überblick
-sidebar_position: 1
 ---
 
 # CARE-IT Reifegradmodell
 
-Das CARE-IT Reifegradmodell dient der strukturierten Standortbestimmung
-digitaler Versorgungsinfrastruktur in Gesundheitseinrichtungen.
+Das CARE-IT Reifegradmodell dient der strukturierten Standortbestimmung digitaler Versorgungsinfrastruktur.
 
-Es bewertet sowohl:
+Es operationalisiert die acht CARE-IT Grundprinzipien und macht deren strukturelle Verankerung sichtbar.
 
-- die normative Verankerung der Grundprinzipien (P1–P8)
-- als auch die operative Umsetzung in den sechs Domänen (D1–D6)
+Reife beschreibt dabei nicht Prozessformalität, Dokumentationsumfang oder Kennzahlenperformance,  
+sondern den Grad, in dem eine Organisation die CARE-IT Prinzipien stabil, konsistent und interdisziplinär tragfähig umsetzen kann.
 
-Ziel ist nicht Zertifizierung,
-sondern Transparenz, Priorisierung und strukturelle Weiterentwicklung.
+Ziel ist keine Zertifizierung,  
+sondern Transparenz, Priorisierung und gezielte strukturelle Weiterentwicklung.
+
+---
+
+## Normative Grundlage
+
+Die acht CARE-IT Prinzipien (P1–P8) bilden den alleinigen Bewertungsmaßstab.
+
+Das Reifegradmodell führt keine zusätzlichen normativen Kriterien ein.  
+Es misst ausschließlich, in welchem Umfang die Prinzipien organisatorisch und strukturell verankert sind.
+
+Prinzipien definieren die Zielrichtung.  
+Das Reifegradmodell beschreibt den Entwicklungszustand ihrer Umsetzung.
+
+Eine niedrige Reife in sicherheitskritischen Prinzipien – insbesondere P5 –  
+begrenzt die Interpretation des Gesamtprofils.
+
+Reife ist daher nicht additiv zu verstehen  
+und nicht durch Mittelwertbildung interpretierbar.
+
+---
+
+## Zwei Perspektiven auf Reife
+
+Das Modell betrachtet Reife aus zwei komplementären Perspektiven:
+
+### 1. Prinzipienreife
+
+Für jedes der acht Prinzipien wird bewertet,  
+in welchem Umfang es strukturell abgesichert ist.
+
+Beispiele:
+
+- P1 niedrig → Klinische Wirksamkeit ist kein verbindliches Steuerungskriterium  
+- P3 niedrig → Verantwortung ist implizit oder personenabhängig  
+- P8 niedrig → Innovation ist nicht stabil integrierbar  
+
+Die Prinzipienreife beschreibt die normative Stabilität der Organisation.
+
+---
+
+### 2. Domänenreife
+
+Die sechs CARE-IT Domänen (D1–D6) bilden organisatorische Handlungsräume,  
+in denen sich die Prinzipien konkret ausprägen.
+
+Die Domänenreife beschreibt:
+
+- strukturelle Transparenz  
+- Steuerungsfähigkeit  
+- organisatorische Konsistenz  
+- Risikobeherrschung  
+
+Domänen sind keine zweite normative Ebene.  
+Sie machen sichtbar, wie und wo Prinzipien organisatorisch getragen werden.
+
+Prinzipien sind Maßstab.  
+Domänen sind Beobachtungsräume.
 
 ---
 
@@ -23,100 +78,52 @@ sondern Transparenz, Priorisierung und strukturelle Weiterentwicklung.
 
 CARE-IT unterscheidet fünf Entwicklungsstufen:
 
-**1 = personenabhängig**  
-**3 = strukturiert dokumentiert**  
-**5 = organisationsweit integriert**
+**Stufe 1 – Ad hoc**  
+Strukturen sind personenabhängig, Entscheidungen situativ und inkonsistent.
 
-<details>
-<summary><strong>Reifestufen im Detail anzeigen</strong></summary>
+**Stufe 2 – Implizit**  
+Teilweise strukturierte Praxis, jedoch nicht stabil oder organisationsweit verankert.
 
-### Stufe 1 – Ad hoc
-- Entscheidungen situativ  
-- Verantwortlichkeiten unklar  
-- Hohe Personenabhängigkeit  
+**Stufe 3 – Strukturiert**  
+Rollen, Verantwortlichkeiten und Systemzusammenhänge sind definiert und nachvollziehbar dokumentiert.
 
-### Stufe 2 – Implizit
-- Teilweise strukturierte Praxis  
-- Wissen personengebunden  
-- Einzelne Elemente dokumentiert  
+**Stufe 4 – Stabil gesteuert**  
+Entscheidungslogiken sind konsistent, interdisziplinär tragfähig und organisatorisch abgesichert.  
+Strukturen funktionieren vorhersehbar und sind nicht von Einzelpersonen abhängig.
 
-### Stufe 3 – Strukturiert
-- Rollen und Prozesse definiert  
-- Systemverbünde sichtbar  
-- Mehrheit der Indikatoren erfüllt  
+**Stufe 5 – Integriert**  
+Prinzipien sind organisationsweit verankert.  
+Weiterentwicklung erfolgt kontinuierlich, ohne strukturelle Instabilität zu erzeugen.
 
-### Stufe 4 – Gesteuert
-- Regelmäßige Bewertung  
-- Kennzahlen vorhanden  
-- Governance institutionalisiert  
+Reife bedeutet zunehmende strukturelle Stabilität und Kohärenz –  
+nicht zunehmende Formalisierung oder Dokumentationsdichte.
 
-### Stufe 5 – Integriert
-- Prinzipien organisationsweit verankert  
-- Kontinuierliche Verbesserung etabliert  
-
-</details>
+Stufe 5 beschreibt keine maximale Komplexität,  
+sondern minimale strukturelle Reibung bei hoher organisatorischer Tragfähigkeit.
 
 ---
 
-## Ebene 1 – Prinzipienreife
+## Interpretation
 
-Für jedes der acht CARE-IT Prinzipien
-wird der organisatorische Reifegrad bestimmt.
+Ein Reifeprofil macht strukturelle Schwächen sichtbar. 
 
-Beispielhafte Interpretation:
+Es ermöglicht:
 
-- P1 niedrig → Klinische Wirksamkeit kein strukturelles Priorisierungskriterium  
-- P3 niedrig → Verantwortlichkeiten implizit  
-- P8 niedrig → Innovation fragmentiert und personenabhängig  
-
-Ziel ist keine Gleichverteilung,
-sondern bewusste Priorisierung entlang klinischer Relevanz.
-
----
-
-## Ebene 2 – Domänenreife
-
-Für jede Domäne (D1–D6) wird bewertet:
-
-- Strukturgrad  
-- Dokumentationsstand  
-- Risikobeherrschung  
-- Steuerungsfähigkeit  
-
-Beispielhafte Interpretation:
-
-- D2 niedrig → Integrationsarchitektur nicht transparent  
-- D4 niedrig → Risiko reaktiv statt strukturiert bewertet  
-- D5 niedrig → Lebenszyklus nicht geplant  
-
----
-
-## Kombination beider Ebenen
-
-Die kombinierte Betrachtung ermöglicht:
-
-- Identifikation struktureller Schwächen  
-- Priorisierung von Entwicklungsmaßnahmen  
+- bewusste Priorisierung von Entwicklungsmaßnahmen  
+- interdisziplinäre Diskussion  
 - Vergleich von Systemverbünden  
-- Interdisziplinären Dialog  
+- langfristige strategische Steuerung  
 
-Reifegrade beschreiben strukturelle Stabilität.  
-KPIs messen operative Leistungsfähigkeit.
+Reife beschreibt Organisationsfähigkeit.  
+KPIs beschreiben operative Leistungsfähigkeit.
 
-Beide Ebenen ergänzen sich.
+Beide Perspektiven ergänzen sich, ersetzen sich jedoch nicht.
 
----
+Hohe Performance bei niedriger struktureller Reife ist möglich –  
+aber nicht nachhaltig stabil.
 
-<div style={{textAlign: "center", margin: "2rem 0"}}>
-  <img
-    src="/img/careit-maturity-ist-soll.svg"
-    alt="CARE-IT Reifeprofil: Ist vs. Soll"
-    style={{maxWidth: "700px", width: "100%"}}
-  />
-  <div style={{fontSize: "0.9rem", color: "rgba(43,43,43,0.6)", marginTop: "0.6rem"}}>
-    Beispielhafte Reifeverteilung über die CARE-IT Prinzipien (Ist vs. Soll)
-  </div>
-</div>
+Siehe für Visualisierung und Interpretation:
+- [Grafisches Reifeprofil](/maturity/profile)
 
 ---
 
@@ -126,10 +133,12 @@ Das Reifegradmodell wird typischerweise:
 
 - pro Systemverbund angewendet  
 - interdisziplinär diskutiert  
-- in Governance-Gremien verankert  
-- regelmäßig (z. B. jährlich) überprüft  
-- mit operativen KPIs verknüpft  
+- in Governance-Strukturen reflektiert  
+- regelmäßig überprüft  
+- mit operativen Kennzahlen in Beziehung gesetzt  
 
-Es ist kein Audit-Instrument,
-sondern ein Führungs- und Entwicklungswerkzeug
+Es ist kein Audit-Instrument  
+und kein Zertifizierungsmodell.
+
+Es ist ein Führungs- und Entwicklungswerkzeug  
 für nachhaltige digitale Versorgungsinfrastruktur.

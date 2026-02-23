@@ -1,128 +1,155 @@
 ---
-title: Architektur & Domänen
-sidebar_label: Überblick
-sidebar_position: 1
+title: CARE-IT Gesamtarchitektur
 ---
 
-# Architektur & Domänen
+# CARE-IT Gesamtarchitektur
 
-CARE-IT versteht digitale Versorgungsinfrastruktur
-als integriertes Zusammenspiel von Systemen,
-Daten, Infrastruktur und organisatorischer Verantwortung.
+Digitale Versorgungsinfrastruktur ist kein isoliertes IT-Konstrukt.
 
-Klinische Leistung entsteht nicht durch Einzelkomponenten,
-sondern durch Systemverbünde.
+Sie ist Teil der klinischen Versorgung – mit unmittelbarer Wirkung auf Diagnostik, Therapie, Dokumentation, Risiko und Verantwortungsstrukturen.
 
-Die Architektur von CARE-IT strukturiert diese Realität
-in sechs Domänen,
-die gemeinsam die digitale Versorgungsinfrastruktur
-einer Gesundheitseinrichtung abbilden.
+Die CARE-IT Gesamtarchitektur beschreibt daher kein technisches Schichtenmodell,  
+sondern ein strukturelles Führungs- und Steuerungsmodell für digitale Versorgungssysteme.
+
+Im Zentrum steht die klinische Versorgung als Ziel- und Referenzpunkt.  
+Alle Elemente des Frameworks sind darauf ausgerichtet, Versorgungswirksamkeit, Sicherheit, Stabilität und Weiterentwicklung in Einklang zu bringen.
+
 
 ---
 
-## Architekturmodell
+# Architekturlogik
+
+Die CARE-IT Architektur basiert auf vier miteinander verknüpften Ebenen.
+
+Diese Ebenen wirken nicht sequenziell, sondern als zusammenhängendes System.
+
+## Strukturmodell
 
 <div style={{textAlign: "center", margin: "2rem 0"}}>
-  <img 
-    src="/img/careit-architecture.svg" 
-    alt="CARE-IT Architekturmodell"
-    style={{maxWidth: "700px", width: "100%"}}
+  <img
+    src="/img/careit-architecture-domains.svg"
+    alt="CARE-IT Architekturmodell mit sechs Domänen"
+    style={{maxWidth: "900px", width: "100%"}}
   />
-  <div style={{fontSize: "0.9rem", color: "rgba(43,43,43,0.6)", marginTop: "0.6rem"}}>
-    CARE-IT Architekturmodell mit sechs Domänen
-  </div>
 </div>
 
 ---
 
----
 
-# Die sechs CARE-IT Domänen
 
-## D1 – Klinische Wirksamkeit
+## 1. Grundprinzipien (P1–P8)
 
-Fokus auf den Versorgungszweck.
-Welche klinische Funktion erfüllt ein Systemverbund?
-Welchen Beitrag leistet er zur Patientenversorgung?
+Die Grundprinzipien definieren die normative Grundlage.
 
-Diese Domäne definiert Ziel, Nutzen und medizinische Einbettung.
+Sie legen fest, nach welchen Maßstäben digitale Versorgungsinfrastruktur:
 
----
+- bewertet  
+- gestaltet  
+- verantwortet  
+- betrieben  
+- weiterentwickelt  
 
-## D2 – Systemverbund & Integration
+wird.
 
-Abbildung vernetzter Medizinprodukte,
-Fachapplikationen,
-Integrationsplattformen
-und Schnittstellen.
+Die Prinzipien schaffen Orientierung in Situationen,  
+in denen Regeln oder Standards allein keine eindeutige Entscheidung liefern.
 
-Hier wird sichtbar,
-wie Systeme technisch und funktional zusammenwirken.
+Sie definieren die Referenzgröße aller weiteren Ebenen.
 
----
-
-## D3 – Verantwortung & Governance
-
-Explizite Zuordnung von:
-
-- klinischer Zweckverantwortung  
-- Betreiberverantwortung  
-- Integrationsverantwortung  
-- Risikoakzeptanz  
-
-Diese Domäne verhindert organisatorische Grauzonen.
+→ Weiter zu: [Grundprinzipien](/principles/overview)
 
 ---
 
-## D4 – Risiko & Patientensicherheit
+## 2. Domänen (D1–D6)
 
-Systematische Bewertung von:
+Die Domänen strukturieren die wesentlichen Handlungsfelder der Organisation.
 
-- technischen Risiken  
-- organisatorischen Risiken  
-- Abhängigkeitsrisiken  
-- sicherheitskritischen Datenflüssen  
+Sie übersetzen die Prinzipien in steuerbare Verantwortungsbereiche  
+und bilden das Ordnungsmodell für Führung, Betrieb und Weiterentwicklung.
 
-Patientensicherheit bildet die normative Grenze.
+Domänen sind keine Silos.  
+Sie sind koordinierte Steuerungsperspektiven auf dieselbe klinische Systemlandschaft.
 
----
-
-## D5 – Lebenszyklus & Betriebsfähigkeit
-
-Betrachtung des gesamten Systemlebenszyklus:
-
-- Einführung  
-- Betrieb  
-- Weiterentwicklung  
-- Außerbetriebnahme  
-
-Sicherstellung langfristiger Stabilität und Wartbarkeit.
+→ Weiter zu: [Domänen](/architecture/domains)
 
 ---
 
-## D6 – Innovation & Weiterentwicklung
+## 3. Reifegradmodell
 
-Strukturierte Bewertung und Integration neuer Technologien.
+Das Reifegradmodell macht Umsetzung entwicklungsfähig.
 
-Innovation wird nicht als isoliertes Projekt verstanden,
-sondern als kontrollierte Erweiterung
-bestehender Versorgungsinfrastruktur.
+Es beschreibt Reife nicht als Einheitslevel,  
+sondern als Profil über die Prinzipien und Domänen.
+
+Es:
+
+- erlaubt heterogene Ausgangslagen  
+- macht strukturelle Spannungen sichtbar  
+- unterstützt Priorisierung  
+- ermöglicht bewusste Weiterentwicklung  
+
+CARE-IT ist damit kein Audit- oder Zertifizierungsmodell,  
+sondern ein Instrument der Organisationsentwicklung.
+
+→ Weiter zu: [Reifegradmodell](/maturity/model)
 
 ---
 
-# Zusammenspiel der Domänen
+## 4. Artefakte
 
-Die sechs Domänen sind nicht isoliert zu verstehen.
+Artefakte bilden die operative Umsetzungsebene.
 
-Ein klinischer Systemverbund – etwa ein Vitaldatenmonitoringsystem,
-ein RIS/PACS-Verbund oder ein Herzkatheterlabor –
-durchläuft alle Domänen gleichzeitig:
+Sie sind konkrete, klinisch verständliche Arbeitsinstrumente,  
+mit denen Domänen im Alltag umgesetzt werden.
 
-- Er erfüllt eine klinische Funktion (D1),
-- basiert auf vernetzter Integration (D2),
-- besitzt klare Verantwortlichkeiten (D3),
-- trägt Risiken (D4),
-- unterliegt einem Lebenszyklus (D5),
-- und wird kontinuierlich weiterentwickelt (D6).
+Sie unterstützen:
 
-CARE-IT macht diese Zusammenhänge sichtbar und steuerbar.
+- Investitionsentscheidungen  
+- Risikoabwägungen  
+- Governance-Beschlüsse  
+- Projekt-zu-Betrieb-Übergaben  
+- Systemverbund-Dokumentation  
+- Innovationsbewertung  
+
+Artefakte sind keine Dokumentationspflicht,  
+sondern strukturierte Denk- und Führungswerkzeuge.
+
+→ Weiter zu: [Artefakte](/artifacts/overview)
+
+---
+
+# Zusammenspiel der Ebenen
+
+Die Ebenen greifen ineinander:
+
+- Die Prinzipien geben Richtung.  
+- Die Domänen strukturieren Verantwortung.  
+- Das Reifegradmodell schafft Entwicklungsorientierung.  
+- Die Artefakte ermöglichen praktische Anwendung.  
+
+Erst im Zusammenspiel entsteht ein konsistentes Steuerungssystem.
+
+CARE-IT verfolgt damit einen übergeordneten Anspruch:
+
+Digitale Versorgungsinfrastruktur soll so geführt werden,  
+dass klinische Realität, Verantwortung, Informationsintegrität und Technik konsequent zusammengeführt werden.
+
+---
+
+# Architektureinheit: Der Systemverbund
+
+Die zentrale Betrachtungseinheit ist nicht das Einzelsystem,  
+sondern der klinische Systemverbund.
+
+Digitale Wirkung entsteht im Zusammenspiel von:
+
+- Anwendungen  
+- Datenflüssen  
+- Integrationen  
+- Verantwortlichkeiten  
+- Betriebsstrukturen  
+
+Architektur bedeutet daher nicht nur Struktur —  
+sondern steuerbare Zusammenhänge.
+
+→ Weiter zu: [Referenz-Systemverbünde](/architecture/reference-systembunds)

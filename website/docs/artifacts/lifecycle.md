@@ -1,22 +1,61 @@
 ---
-title: Lifecycle
-sidebar_label: Lifecycle-Übersicht
+title: Lebenszyklus-Übersicht kritischer Systeme
 ---
 
-# Lifecycle-Übersicht
+# Lebenszyklus-Übersicht kritischer Systeme
 
-Die Lifecycle-Übersicht strukturiert
-die Betrachtung eines Systems über seinen gesamten Lebenszyklus.
+## Zweck
 
-Sie umfasst:
+Die Lebenszyklus-Übersicht sichert die nachhaltige Betriebsfähigkeit digitaler Systeme über deren gesamten Einsatzzeitraum.
 
-- Einführung  
-- Betriebsphase  
-- Änderungen und Erweiterungen  
-- Außerbetriebnahme  
+Sie verhindert technisch stabile, aber strategisch veraltete Infrastruktur.
 
-Ziel ist es, kurzfristige Lösungen
-nicht zulasten langfristiger Betriebsfähigkeit umzusetzen.
+---
 
-Das Artefakt unterstützt nachhaltige Planung
-und regulatorisch konforme Betreiberverantwortung.
+## Leitfrage
+
+> Ist dieses System über seinen gesamten Lebenszyklus stabil, wartbar und regulatorisch konform betreibbar?
+
+---
+
+## Strukturelle Wirkung
+
+Die Übersicht:
+
+- schafft Transparenz über Versionsstände  
+- macht Update- und Ablösestrategien sichtbar  
+- verhindert unkontrollierte Legacy-Strukturen  
+- stärkt regulatorische Stabilität  
+
+Sie operationalisiert P6 – Nachhaltige Betriebsfähigkeit.
+
+---
+
+## Wann wird es angewendet?
+
+- Bei strategischer Infrastrukturplanung  
+- Bei Budgetplanung  
+- Bei Release-Strategien  
+- Bei Herstellerabhängigkeiten  
+- Bei Ablösungsentscheidungen  
+
+---
+
+## Typische Fehlanwendungen
+
+- Fokus ausschließlich auf technische Wartung  
+- Keine strategische Ablöseplanung  
+- Fehlende Verknüpfung mit Architektur  
+- Ignorieren regulatorischer Entwicklungen  
+
+---
+
+## Bezug zu Prinzipien und Domänen
+
+Primärer Bezug:
+- P6 – Nachhaltige Betriebsfähigkeit  
+- D5 – Lebenszyklus & Betriebsfähigkeit  
+
+Sekundärer Bezug:
+- P2 – Systemverantwortung  
+- D2 – Architektur  

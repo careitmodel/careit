@@ -1,115 +1,136 @@
 ---
-title: CORE-KPIs
-sidebar_label: KPIs
-sidebar_position: 1
+title: CARE-IT Kern-KPIs
 ---
 
-# CARE-IT CORE-KPIs
+# CARE-IT Kern-KPIs
 
-CARE-IT definiert eine kleine Anzahl strukturell relevanter Kennzahlen.
+## Zweck
 
-Ziel ist nicht Messfülle,
-sondern Transparenz über Stabilität, Sicherheit und Innovationsfähigkeit.
+CARE-IT Kern-KPIs sind strategische Reflexionsgrößen.
 
-Jede KPI:
+Sie dienen nicht der Leistungsbewertung einzelner Systeme,
+sondern der Überprüfung,
+ob die Organisation ihre eigene Steuerungsarchitektur konsequent anwendet.
 
-- hat eine klar definierte Primärdatenquelle
-- benötigt maximal zwei Systeme
-- ist klinisch interpretierbar
-- unterstützt Führungsentscheidungen
+KPIs beantworten nicht die Frage,
+wie gut ein System funktioniert.
 
----
+Sie beantworten die Frage:
 
-# KPI 1 – Klinisch relevante Incident-Dauer
-
-**Frage:**  
-Wie lange beeinträchtigen IT- oder Medizintechnik-Störungen die Patientenversorgung?
-
-**Messgröße:**  
-Durchschnittliche Dauer klinisch klassifizierter Incidents
-
-**Primärdatenquelle:**  
-ITSM-/Incident-System
-
-**Interpretation:**  
-Hohe Werte deuten auf unzureichende Priorisierung oder fehlende Eskalationslogik hin.
+> Funktioniert unsere Führungslogik für digitale Versorgungsinfrastruktur?
 
 ---
 
-# KPI 2 – Integrationsstabilität kritischer Schnittstellen
+## Abgrenzung zum Reifegradmodell
 
-**Frage:**  
-Wie stabil funktionieren klinisch relevante Datenflüsse?
+Das Reifegradmodell beschreibt strukturelle Entwicklungsstände
+entlang der Grundprinzipien.
 
-**Messgröße:**  
-Anteil fehlerfreier Schnittstellenübertragungen (%)
+Kern-KPIs hingegen sind periodische Beobachtungsgrößen.
 
-**Primärdatenquelle:**  
-HL7-/Integrationsmonitoring
+Sie:
 
-**Interpretation:**  
-Sinkende Werte deuten auf Integrationsrisiken oder Monitoringlücken hin.
+- aggregieren keine Reifegrade  
+- erzeugen kein Punktesystem  
+- ersetzen keine qualitative Bewertung  
+- dienen nicht als Audit-Checkliste  
 
----
-
-# KPI 3 – Sicherheitsrelevante Changes mit dokumentierter Risikoanalyse
-
-**Frage:**  
-Werden sicherheitskritische Änderungen strukturiert bewertet?
-
-**Messgröße:**  
-Anteil sicherheitskritischer Changes mit dokumentierter Risikoanalyse (%)
-
-**Primärdatenquelle:**  
-Change-Management-System
-
-**Interpretation:**  
-Niedrige Werte zeigen Governance-Schwächen.
+Reifegrad ist Entwicklungsorientierung.  
+KPIs sind Selbstbeobachtung der Organisation.
 
 ---
 
-# KPI 4 – Lebenszyklus-Transparenz kritischer Systeme
+## Charakter der KPIs
 
-**Frage:**  
-Wie viele sicherheitskritische Systeme haben dokumentierten Lifecycle-Status?
+CARE-IT KPIs sind:
 
-**Messgröße:**  
-Anteil kritischer Systeme mit dokumentierter Lifecycle-Planung (%)
+- Strukturindikatoren  
+- Governance-Indikatoren  
+- Transparenzindikatoren  
+- Reflexionsgrößen  
 
-**Primärdatenquelle:**  
-CMDB oder Asset-Management-System
+Sie messen nicht Ergebnisqualität,
+sondern strukturelle Konsequenz.
 
-**Interpretation:**  
-Niedrige Werte weisen auf strukturelle Nachhaltigkeitsrisiken hin.
+Beispiele für das, was KPIs sichtbar machen können:
 
----
+- Werden Nutzenentscheidungen vor Investitionen dokumentiert?
+- Werden Risikoentscheidungen explizit festgehalten?
+- Sind Systemverbünde aktuell modelliert?
+- Sind Verantwortlichkeiten formal bestätigt?
+- Werden Lebenszyklen aktiv überwacht?
+- Wird Innovation strukturiert integriert?
 
-# KPI 5 – Innovationsdurchlaufzeit
-
-**Frage:**  
-Wie lange dauert es von Innovationsidee bis stabiler Betriebsüberführung?
-
-**Messgröße:**  
-Median-Zeit (Monate) von Innovationsfreigabe bis Regelbetrieb
-
-**Primärdatenquelle:**  
-Projekt- oder Portfoliomanagement-System
-
-**Interpretation:**  
-Zu kurze Dauer → Risiko von Instabilität  
-Zu lange Dauer → Innovationshemmnis
+KPIs zeigen, ob Prinzipien praktisch gelebt werden.
 
 ---
 
-# Einordnung der KPIs
+## KPI-Kategorien
 
-Diese Kennzahlen messen operative Leistungsfähigkeit.
+CARE-IT Kern-KPIs lassen sich in vier Kategorien einordnen:
 
-Sie ersetzen nicht das Reifegradmodell,
-sondern ergänzen es.
+### 1. Wirkungsorientierung
+Reflektieren, ob klinische Wirksamkeit systematisch adressiert wird.
 
-- Reifegrad = strukturelle Stabilität  
-- KPI = operative Performance  
+### 2. Risiko-Transparenz
+Reflektieren, ob patientenrelevante Risiken explizit bewertet und verantwortet werden.
 
-Hohe KPI-Leistung bei niedriger Reife ist instabil.  
-Hohe Reife ohne KPI-Transparenz ist blind.
+### 3. Verantwortungs- und Architekturtransparenz
+Reflektieren, ob Systemverbünde dokumentiert und Verantwortlichkeiten klar zugeordnet sind.
+
+### 4. Nachhaltigkeit und Innovationsfähigkeit
+Reflektieren, ob Lebenszyklus und Weiterentwicklung strukturell geführt werden.
+
+Diese Kategorien orientieren sich indirekt an den Grundprinzipien,
+ohne sie mechanisch zu quantifizieren.
+
+---
+
+## Typische Fehlinterpretationen
+
+CARE-IT KPIs sind kein:
+
+- Performance-Dashboard
+- IT-Service-Reporting
+- Projektcontrolling-Instrument
+- Scoring-Modell für Prinzipien
+
+Sie sind kein Werkzeug zur Bewertung einzelner Personen oder Teams.
+
+Werden KPIs als Leistungskennzahlen missverstanden,
+verlieren sie ihren architektonischen Zweck.
+
+---
+
+## Rolle in der Governance
+
+Kern-KPIs gehören auf die Führungsebene.
+
+Sie werden:
+
+- periodisch reflektiert  
+- in Governance-Gremien diskutiert  
+- zur Identifikation struktureller Schwächen genutzt  
+
+Sie dienen nicht der operativen Steuerung einzelner Projekte,
+sondern der Überprüfung,
+ob CARE-IT als System wirksam bleibt.
+
+---
+
+## Fazit
+
+CARE-IT Kern-KPIs sind kein zusätzliches Berichtswesen.
+
+Sie sind ein Spiegel der eigenen Steuerungsarchitektur.
+
+Wenn KPIs zeigen,
+dass Nutzen nicht dokumentiert,
+Risiken nicht bewertet,
+Verantwortung nicht explizit
+oder Lebenszyklen nicht geplant werden,
+
+liegt das Problem nicht im System –
+sondern in der Organisationsstruktur.
+
+KPIs machen diese strukturellen Lücken sichtbar.

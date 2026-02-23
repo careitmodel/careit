@@ -1,157 +1,170 @@
 ---
 title: Bewertungslogik
 sidebar_label: Bewertungslogik
-sidebar_position: 4
 ---
 
 # Bewertungslogik des CARE-IT Reifegradmodells
 
-Die Einstufung in eine Reifestufe erfolgt nicht durch mathematische Gewichtung,
-sondern durch strukturierte, interdisziplinäre Bewertung anhand definierter Indikatoren.
+Das CARE-IT Reifegradmodell folgt keiner additiven Punktelogik.
 
-CARE-IT ist kein Audit- oder Zertifizierungsinstrument,
+Reife ist keine mathematische Summe erfüllter Kriterien,  
+sondern Ausdruck struktureller Stabilität in Bezug auf die CARE-IT Prinzipien.
+
+CARE-IT ist kein Audit- oder Zertifizierungsinstrument,  
 sondern ein Führungs- und Entwicklungsmodell.
 
 ---
 
-# Grundprinzip
+## Normative Grundlage
 
-Für jedes Prinzip (P1–P8) und jede Domäne (D1–D6)
-wird eine Reifestufe von 1 bis 5 bestimmt.
+Bewertet wird ausschließlich die strukturelle Verankerung der CARE-IT Grundprinzipien (P1–P8).
 
-Die Einstufung erfolgt anhand folgender Leitfragen:
+Das Reifegradmodell führt keine zusätzlichen normativen Kriterien ein.  
+Es beschreibt den Entwicklungszustand der organisatorischen Umsetzung der Prinzipien.
 
-- Sind die beschriebenen Indikatoren überwiegend nicht erfüllt?
-- Teilweise erfüllt?
-- Strukturiert erfüllt?
-- Systematisch gesteuert?
-- Organisationsweit integriert?
+Prinzipien definieren den Bewertungsmaßstab.  
+Die Bewertung misst, wie stabil diese Prinzipien organisatorisch getragen werden.
+
+Eine niedrige Reife in sicherheitskritischen Prinzipien – insbesondere P5 –  
+begrenzt die Interpretation des Gesamtprofils.
+
+Reife ist qualitativ zu interpretieren, nicht additiv zu aggregieren.  
+CARE-IT sieht ausdrücklich von einer Gesamtpunktzahl oder Durchschnittsbildung über Prinzipien oder Domänen ab.
 
 ---
 
-# Reifestufen – Interpretationslogik
+## Bewertungsprozess
 
-## Stufe 1 – Ad hoc
+Die Bewertung erfolgt interdisziplinär und konsensorientiert.
+
+Empfohlene Vorgehensweise:
+
+1. Prinzip oder Domäne einzeln betrachten  
+2. Relevante Indikatoren gemeinsam diskutieren  
+3. Reifestufe bestimmen  
+4. Begründung kurz dokumentieren  
+5. Priorisierte Entwicklungsmaßnahmen ableiten  
+
+Die Einstufung erfolgt auf Basis des überwiegenden strukturellen Zustands –  
+nicht einzelner isolierter Indikatoren.
+
+Reife entsteht durch Stabilität der Organisationsstruktur,  
+nicht durch formale Vollständigkeit einzelner Maßnahmen.
+
+---
+
+## Reifestufen – Interpretationslogik
+
+CARE-IT unterscheidet fünf Entwicklungsstufen.
+
+Reife beschreibt zunehmende strukturelle Konsistenz, Tragfähigkeit und Vorhersehbarkeit –  
+nicht zunehmende Dokumentationsdichte oder Formalisierung.
+
+### Stufe 1 – Ad hoc
 
 - Entscheidungen situativ  
-- Keine dokumentierte Struktur  
-- Hohe Personenabhängigkeit  
-- Indikatoren überwiegend nicht erfüllt  
+- Strukturen personenabhängig  
+- Verantwortlichkeit implizit  
+- Risiken nicht systematisch sichtbar  
 
-## Stufe 2 – Implizit
+### Stufe 2 – Implizit
 
-- Teilweise strukturierte Praxis  
+- Teilweise erkennbare Struktur  
 - Wissen personengebunden  
-- Einzelne Indikatoren erfüllt  
+- Verantwortlichkeiten nicht stabil abgesichert  
+- Strukturelle Inkonsistenzen häufig  
 
-## Stufe 3 – Strukturiert
+### Stufe 3 – Strukturiert
 
-- Dokumentierte Rollen und Prozesse  
-- Systemverbünde sichtbar  
-- Mehrheit der Indikatoren erfüllt  
+- Rollen, Verantwortlichkeiten und Systemzusammenhänge klar beschrieben  
+- Zuständigkeiten nachvollziehbar  
+- Strukturen überwiegend konsistent  
+- Mehrheit der strukturellen Anforderungen stabil erfüllt  
 
-## Stufe 4 – Gesteuert
+### Stufe 4 – Stabil gesteuert
 
-- Regelmäßige Bewertung  
-- Kennzahlen vorhanden  
-- Governance institutionalisiert  
-- Indikatoren systematisch erfüllt  
+- Entscheidungslogiken konsistent und organisationsweit tragfähig  
+- Strukturen unabhängig von Einzelpersonen belastbar  
+- Interdisziplinäre Abstimmung strukturell abgesichert  
+- Risiken und Zielkonflikte transparent behandelt  
 
-## Stufe 5 – Integriert
+### Stufe 5 – Integriert
 
 - Prinzipien organisationsweit verankert  
-- Kontinuierliche Verbesserung  
-- Transparente Steuerungslogik  
-- Indikatoren vollständig und nachhaltig erfüllt  
+- Struktur dauerhaft tragfähig – auch unter Veränderungsdruck  
+- Weiterentwicklung erfolgt kontinuierlich ohne strukturelle Instabilität  
+- Minimale Reibung bei hoher organisatorischer Kohärenz  
+
+Stufe 5 beschreibt keine maximale Komplexität,  
+sondern maximale strukturelle Integrationsfähigkeit.
 
 ---
 
-# Bewertungsmethodik
+## Umgang mit heterogener Reife
 
-CARE-IT empfiehlt folgende Vorgehensweise:
-
-1. Bewertung interdisziplinär durchführen  
-2. Pro Prinzip und Domäne diskutieren  
-3. Konsens über Einstufung herstellen  
-4. Begründung kurz dokumentieren  
-5. Entwicklungsmaßnahmen ableiten  
-
-Die Bewertung sollte:
-
-- mindestens jährlich erfolgen  
-- bei wesentlichen Strukturänderungen wiederholt werden  
-- nicht isoliert, sondern im Kontext strategischer Ziele betrachtet werden  
-
----
-
-# Umgang mit Heterogenität
-
-Unterschiedliche Reifegrade sind normal.
+Unterschiedliche Reifegrade zwischen Prinzipien oder Domänen sind normal.
 
 Beispiel:
 
-- Hohe Governance-Reife (D3), aber geringe Integrationsreife (D2)
-- Gute Innovationsfähigkeit (P8), aber schwache Lebenszyklusplanung (P6)
+- Hohe Betriebsfähigkeit (P6)  
+- Niedrige Innovationsfähigkeit (P8)
 
-CARE-IT strebt keine Gleichverteilung an,
-sondern bewusste Priorisierung entlang klinischer Relevanz.
+Dies beschreibt keinen Fehler,  
+sondern einen Entwicklungszustand.
 
----
-
-# Verbindung zu KPIs
-
-Reifegrade beschreiben strukturelle Verankerung.
-KPIs messen operative Leistungsfähigkeit.
-
-Beide Ebenen ergänzen sich:
-
-- Reifegrad = strukturelle Stabilität  
-- KPI = operative Performance  
-
-Eine hohe KPI-Leistung bei niedriger Reife ist instabil.
-Eine hohe Reife ohne KPI-Transparenz ist blind.
-
+Ziel ist keine Gleichverteilung der Reifegrade,  
+sondern bewusste Priorisierung entlang klinischer Wirksamkeit und Patientensicherheit.
 
 ---
 
-# Bewertungsraster (Anwendungsformat)
+## Bewertungsraster (Orientierungshilfe)
 
-Die folgende Tabelle dient als strukturierte Diskussionsgrundlage
-für Prinzipien (P1–P8) und Domänen (D1–D6).
+Das folgende Raster dient als strukturierte Diskussionsgrundlage.  
+Es ersetzt keine fachliche Bewertung und erfolgt ohne numerische Gewichtung.
 
-Sie ist bewusst einfach gehalten und erfordert keine numerische Gewichtung.
-
-| Reifestufe | Struktur | Verantwortlichkeit | Steuerung | Dokumentation |
-|------------|----------|-------------------|-----------|---------------|
-| **1 – Ad hoc** | Keine klare Struktur | Implizit oder personenabhängig | Reaktiv | Kaum oder keine Dokumentation |
-| **2 – Implizit** | Teilweise Struktur | Einzelpersonen tragen Verantwortung | Situativ gesteuert | Einzelne Dokumente vorhanden |
-| **3 – Strukturiert** | Rollen und Prozesse definiert | Verantwortung klar benannt | Regelmäßige Abstimmung | Dokumentation vorhanden |
-| **4 – Gesteuert** | Systematisch angewendet | Governance institutionalisiert | KPIs und Reviews etabliert | Aktualisierte, gepflegte Dokumentation |
-| **5 – Integriert** | Organisationsweit verankert | Verantwortung transparent über Ebenen hinweg | Kontinuierliche Verbesserung | Dokumentation strukturell integriert |
+| Reifestufe | Strukturelle Konsistenz | Verantwortlichkeit | Entscheidungslogik | Transparenz |
+|------------|-------------------------|-------------------|--------------------|-------------|
+| **1 – Ad hoc** | Keine stabile Struktur | Implizit oder personenabhängig | Situativ | Kaum nachvollziehbar |
+| **2 – Implizit** | Teilweise Struktur | Einzelpersonen tragen Verantwortung | Uneinheitlich | Teilweise sichtbar |
+| **3 – Strukturiert** | Struktur klar definiert | Verantwortung nachvollziehbar | Konsistent angewendet | Transparent dokumentiert |
+| **4 – Stabil gesteuert** | Organisationsweit belastbar | Verantwortung klar verankert | Vorhersehbar und konsistent | Systematisch nachvollziehbar |
+| **5 – Integriert** | Dauerhaft tragfähig | Ebenenübergreifend transparent | Kontinuierlich weiterentwickelt | Strukturell verankert |
 
 ---
 
-# Anwendung des Rasters
+## Verhältnis zu KPIs
 
-Bei der Bewertung wird pro Prinzip oder Domäne geprüft:
+Reife beschreibt strukturelle Organisationsfähigkeit.  
+KPIs beschreiben operative Leistungsfähigkeit.
 
-1. Welche Beschreibung trifft überwiegend zu?
-2. Ist die Struktur nachhaltig oder personenabhängig?
-3. Ist Steuerung reaktiv oder systematisch?
-4. Ist Dokumentation stabil und aktuell?
+Ein System kann:
 
-Die Einstufung erfolgt auf Basis des überwiegenden Erfüllungsgrades,
-nicht auf Basis einzelner isolierter Indikatoren.
+- gute KPIs aufweisen,  
+  aber strukturell instabil sein.
+
+Oder:
+
+- strukturell reif sein,  
+  aber operative Transparenz vermissen.
+
+Reife und Performance sind getrennt zu betrachten.  
+Sie ergänzen sich, ersetzen sich jedoch nicht.
 
 ---
 
-# Beispielhafte Bewertung (vereinfacht)
+## Charakter des Modells
 
-| Bereich | Reifestufe | Begründung (Kurzform) |
-|---------|------------|-----------------------|
-| P1 – Klinische Wirksamkeit | 2 | Klinik wird punktuell eingebunden, keine strukturierte Priorisierung |
-| D2 – Systemverbund | 1 | Integrationsarchitektur nicht dokumentiert |
-| P3 – Verantwortungszuordnung | 4 | Rollenmatrix vorhanden, Risikoakzeptanz dokumentiert |
+Das Reifegradmodell ist ein Instrument zur strukturierten Reflexion.
 
-Das Raster dient der strukturierten Reflexion
-und ersetzt keine fachliche Diskussion.
+Es unterstützt:
+
+- strategische Priorisierung  
+- interdisziplinären Dialog  
+- langfristige Weiterentwicklung  
+- transparente Steuerung  
+
+Es ist kein Prüfverfahren  
+und kein Zertifizierungsmodell.
+
+Es ist ein Führungsinstrument  
+für nachhaltige digitale Versorgungsinfrastruktur.

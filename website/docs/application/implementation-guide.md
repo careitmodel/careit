@@ -1,265 +1,196 @@
 ---
-title: Implementation Guide
-sidebar_label: Einführung von CARE-IT
-sidebar_position: 2
+title: Einführung und Implementierung von CARE-IT
 ---
 
-# Einführung von CARE-IT
+# Einführung und Implementierung von CARE-IT
 
-CARE-IT ist kein Reorganisationsprogramm
-und kein Ersatz bestehender IT- oder Medizintechnik-Strukturen.
+CARE-IT ist kein Projekt, kein Tool und kein zusätzliches Dokumentationssystem.
 
-Es ist ein strukturierender Ordnungsrahmen,
-der vorhandene Governance- und Betriebslogiken
-klinisch ausrichtet und systemisch erweitert.
+Es ist ein struktureller Führungsrahmen für digitale Versorgungsinfrastruktur.
 
-Die Einführung erfolgt schrittweise
-und kann innerhalb weniger Monate sichtbar Wirkung entfalten.
+Die Einführung erfolgt daher nicht durch Rollout,
+sondern durch Veränderung der Entscheidungsarchitektur.
 
 ---
 
-# Ziel der Einführung
+# 1. Ausgangspunkt
 
-Die Einführung von CARE-IT verfolgt drei Kernziele:
+Organisationen entscheiden sich für CARE-IT, wenn sie feststellen:
 
-1. Transparente Verantwortungsstrukturen
-2. Systemische Betrachtung klinischer Infrastruktur
-3. Strukturierte Innovations- und Risikosteuerung
+- Digitale Entscheidungen sind projektgetrieben statt wirkungsorientiert.
+- Verantwortlichkeiten sind implizit oder personengebunden.
+- Risiken werden reaktiv statt strukturell bewertet.
+- Innovation erzeugt Fragmentierung.
+- Betriebsstabilität hängt von Einzelpersonen ab.
 
-CARE-IT erfordert keine neue Abteilung,
-sondern eine veränderte Betrachtungsweise.
-
----
-
-# Schritt 1 – Standortbestimmung
-
-Zu Beginn steht eine strukturierte Selbstbewertung:
-
-- Prinzipienreife (P1–P8)
-- Domänenreife (D1–D6)
-
-Die Bewertung erfolgt interdisziplinär
-(IT, Medizintechnik, Klinik, ggf. Qualitätsmanagement).
-
-Dauer: 1–2 Workshops.
-
-Ergebnis:
-
-- Erstes Reifeprofil
-- Identifikation struktureller Schwachstellen
-- Priorisierte Handlungsfelder
+CARE-IT adressiert nicht einzelne Symptome,
+sondern die Steuerungslogik als Ganzes.
 
 ---
 
-# Workshop-Agenda (optional)
+# 2. Grundprinzip: Evolution statt Big Bang
 
-<details>
-<summary><strong>Workshop-Agenda anzeigen</strong></summary>
+CARE-IT ist modular aufgebaut.
 
+Es muss nicht vollständig eingeführt werden, um wirksam zu sein.
 
-# Workshop-Agenda: Standortbestimmung (1–2 Tage)
+Ein minimaler Einstieg umfasst typischerweise:
 
-Die Einführung von CARE-IT beginnt mit einem strukturierten Workshop.
-Ziel ist nicht Detailanalyse, sondern Transparenz und gemeinsame Sicht.
+- Klinischer Nutzen-Impact-Check  
+- Systemverbund-Dokumentation  
+- Rollen- und Verantwortungsmatrix  
 
-Empfohlene Teilnehmer:
+Diese drei Elemente erzeugen bereits:
 
-- IT-Leitung oder Stellvertretung  
+- Wirkungsorientierung  
+- Systemtransparenz  
+- explizite Verantwortungsstruktur  
+
+Weitere Elemente werden schrittweise ergänzt.
+
+---
+
+# 3. Institutionelle Verankerung
+
+CARE-IT benötigt formelle Trägerschaft.
+
+Es ist keine Arbeitsgruppeninitiative und kein IT-Teilprojekt.
+
+Die Organisation muss klären:
+
+- Wer trägt die strukturelle Verantwortung für das Framework?
+- Auf welcher Führungsebene ist es verankert?
+- In welchen Gremien wirkt es verbindlich?
+
+Ohne institutionelle Verankerung bleibt CARE-IT methodisch –
+aber nicht wirksam.
+
+---
+
+# 4. Integration in bestehende Modelle
+
+CARE-IT ersetzt keine bestehenden Steuerungsmodelle.
+
+Es ergänzt und verbindet sie.
+
+- IT-Service-Management bleibt operativ ausgerichtet.
+- Informationssicherheit bleibt risikoorientiert.
+- MDR- und regulatorische Anforderungen bleiben konformitätsbezogen.
+- Qualitätsmanagement bleibt prozessbezogen.
+
+CARE-IT wirkt darüber:
+
+Es verbindet klinische Wirksamkeit, Risiko, Verantwortung,
+Architektur und Lebenszyklus in einem gemeinsamen Referenzrahmen.
+
+Es schafft Kohärenz zwischen bestehenden Systemen,
+statt sie zu verdrängen.
+
+---
+
+# 5. Veränderung der Entscheidungsarchitektur
+
+CARE-IT entfaltet Wirkung dort,
+wo Entscheidungen getroffen werden.
+
+Es verändert insbesondere:
+
+- Investitionsentscheidungen  
+- Projektfreigaben  
+- Release-Freigaben  
+- Innovationsentscheidungen  
+- Architekturentscheidungen  
+
+Artefakte werden Teil dieser Entscheidungsprozesse.
+
+CARE-IT ist eingeführt,
+wenn diese Entscheidungen strukturell anders getroffen werden –
+nicht wenn neue Dokumente existieren.
+
+---
+
+# 6. Organisatorische Voraussetzungen
+
+Eine erfolgreiche Einführung setzt voraus:
+
+- Führungsklarheit über Ziel und Anspruch  
+- Interdisziplinäre Beteiligung  
+- Bereitschaft zu Transparenz  
+- Akzeptanz expliziter Verantwortungszuordnung  
+
+CARE-IT betrifft:
+
+- Klinik  
 - Medizintechnik  
-- Klinische Vertretung (z. B. Bereichsleitung)  
-- Qualitäts- oder Risikomanagement (optional)  
+- IT  
+- Informationssicherheit  
+- Management  
+
+Es ist kein IT-Projekt,
+sondern eine organisationsweite Strukturveränderung.
 
 ---
 
-## Tag 1 – Struktur und Reifeprofil
+# 7. Typische Widerstände
 
-### 1. Einordnung (45 Minuten)
+Häufige Reaktionen sind:
 
-- Ziel von CARE-IT erläutern  
-- Abgrenzung zu ITIL und Regulatorik  
-- Erwartung klären: Transparenz statt Perfektion  
+- „Wir machen das doch schon.“
+- „Das erzeugt nur Bürokratie.“
+- „Das verlangsamt Projekte.“
+- „Dafür fehlen Ressourcen.“
 
----
+Diese Einwände entstehen,
+wenn CARE-IT als Dokumentationspflicht verstanden wird.
 
-### 2. Auswahl eines Pilot-Systemverbunds (60 Minuten)
+Seine Funktion ist jedoch:
 
-Beispielhafte Leitfragen:
-
-- Welcher Systemverbund ist klinisch kritisch?  
-- Wo bestehen Unsicherheiten oder Reibungsverluste?  
-- Wo ist Innovationsdruck besonders hoch?  
-
----
-
-### 3. Prinzipienbewertung (2–3 Stunden)
-
-Gemeinsame Bewertung von:
-
-- P1–P8 anhand der Indikatoren  
-- Diskussion divergierender Einschätzungen  
-- Konsensfindung pro Prinzip  
-
-Ergebnis:
-
-- Erstes Ist-Reifeprofil  
-- Identifikation struktureller Schwächen  
+- Entscheidungsqualität erhöhen  
+- Risikoexplizitheit schaffen  
+- Verantwortungsdiffusion reduzieren  
+- langfristige Stabilität sichern  
 
 ---
 
-## Tag 2 – Systemische Vertiefung
+# 8. Reife als Entwicklung
 
-### 4. Domänenbewertung (2–3 Stunden)
+CARE-IT ist kein Zielzustand,
+sondern ein Entwicklungsprozess.
 
-Bewertung D1–D6 bezogen auf den Pilot-Systemverbund.
+Organisationen können:
 
-Fokus auf:
+- in einzelnen Prinzipien weiter sein als in anderen  
+- gezielt strukturelle Lücken schließen  
+- priorisierte Entwicklungspfade definieren  
 
-- Integrationssicht  
-- Betreiberverantwortung  
-- Risikosteuerung  
-- Lifecycle-Transparenz  
-
----
-
-### 5. Maßnahmenableitung (2 Stunden)
-
-Pro identifizierter Schwäche:
-
-- Konkrete Maßnahme definieren  
-- Verantwortliche Rolle festlegen  
-- Realistische Umsetzungsfrist bestimmen  
-
-Maximal 3–5 priorisierte Maßnahmen.
+Das Reifegradmodell dient der Orientierung –
+nicht der Bewertung.
 
 ---
 
-### 6. Abschluss & Governance-Verankerung (45 Minuten)
+# 9. Langfristige Wirkung
 
-- Ergebnisse zusammenfassen  
-- Festlegen, wo die Ergebnisse regelmäßig diskutiert werden  
-  (z. B. IT-Steuerung, CAB, Medizintechnik-Runde)  
-- Nächsten Review-Termin festlegen  
+Langfristig entsteht durch CARE-IT:
 
----
+- stabile Governance  
+- transparente Verantwortungsarchitektur  
+- nachhaltige Betriebsfähigkeit  
+- integrierbare Innovationsfähigkeit  
 
-# Ergebnis des Workshops
-
-Nach 1–2 Tagen sollte vorliegen:
-
-- Dokumentiertes Reifeprofil  
-- Transparente Systemverbund-Sicht  
-- 3–5 priorisierte Verbesserungsmaßnahmen  
-- Benannte Verantwortlichkeiten  
-- Terminierter Review  
-
-Das Ziel ist strukturelle Klarheit,
-nicht vollständige Dokumentation.
-
-
-</details>
-
-
----
-
-# Schritt 2 – Pilot-Systemverbund auswählen
-
-CARE-IT sollte nicht organisationsweit ausgerollt werden.
-
-Empfohlen wird die Anwendung auf einen
-klinisch relevanten Systemverbund, z.B.:
-
-- Vitaldatenmonitoring
-- Herzkatheterlabor
-- RIS/PACS
-- Laborinformationssystem
-
-Der Pilot dient:
-
-- als Lernumgebung
-- als Referenzmodell
-- als Argumentationsbasis für Skalierung
-
----
-
-# Schritt 3 – Governance anpassen, nicht ersetzen
-
-Bestehende Gremien (z.B. CAB, IT-Steuerung)
-werden nicht ersetzt, sondern erweitert.
-
-Anpassungen können beinhalten:
-
-- Bewertung klinischer Auswirkung bei Changes
-- Dokumentation von Betreiber- und Integrationsverantwortung
-- Systemverbund-orientierte Betrachtung
-- Strukturierte Risikoakzeptanz
-
-CARE-IT integriert sich in bestehende Strukturen.
-
----
-
-# Schritt 4 – Operative Struktur schaffen
-
-Für den Pilot-Systemverbund werden definiert:
-
-- Dokumentierte Systemverbund-Übersicht
-- Verantwortungsmatrix
-- Lifecycle-Transparenz
-- Sicherheitsklassifikation
-- Innovationsbewertungslogik
-
-Wichtig ist nicht Perfektion,
-sondern Transparenz.
-
----
-
-# Schritt 5 – Erste 90 Tage
-
-In den ersten drei Monaten sollte erreicht werden:
-
-- Ein dokumentiertes Reifeprofil
-- Mindestens drei priorisierte Verbesserungsmaßnahmen
-- Sichtbare Governance-Anpassung
-- Interdisziplinäre Akzeptanz
-
-CARE-IT wirkt schnell,
-wenn es pragmatisch angewendet wird.
-
----
-
-# Typische Stolpersteine
-
-- Überambitionierter Rollout
-- Verwechslung mit Prozess-Standardisierung
-- Zu starke IT-Fokussierung
-- Fehlende klinische Einbindung
-- Dokumentation ohne Governance-Verankerung
-
-CARE-IT lebt von interdisziplinärer Verantwortung.
-
----
-
-# Skalierung
-
-Nach erfolgreichem Pilot kann CARE-IT:
-
-- auf weitere Systemverbünde angewendet werden
-- in strategische Planung integriert werden
-- mit KPI-Transparenz verknüpft werden
-- Bestandteil von Führungsroutinen werden
-
-Die Skalierung erfolgt evolutionär,
-nicht revolutionär.
+Digitale Versorgungsinfrastruktur wird nicht nur implementiert,
+sondern strukturell geführt.
 
 ---
 
 # Fazit
 
-CARE-IT ist kein Projekt,
-sondern ein struktureller Referenzrahmen.
+CARE-IT wird nicht eingeführt,
+indem Artefakte erstellt werden.
 
-Seine Einführung beginnt nicht mit Reorganisation,
-sondern mit Transparenz.
+Es wird eingeführt,
+indem Entscheidungslogik, Verantwortungsstruktur
+und Systemtransparenz dauerhaft verändert werden.
 
-Wo Verantwortung, Systemdenken und klinische Realität
-zusammengeführt werden,
-entsteht nachhaltige digitale Versorgungsinfrastruktur.
+Die Einführung ist erfolgreich,
+wenn digitale Systeme nicht mehr projektgetrieben,
+sondern architekturgesteuert geführt werden.

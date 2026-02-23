@@ -1,139 +1,204 @@
 ---
-title: Indikatoren – Prinzipienreife
-sidebar_label: Prinzipien-Indikatoren
-sidebar_position: 2
+title: Indikatoren – Prinzipien
+sidebar_label: Prinzipienindikatoren
 ---
 
-# Indikatoren zur Bewertung der Prinzipienreife
+# Indikatoren entlang der CARE-IT Prinzipien
 
-Die Bewertung der Prinzipienreife erfolgt anhand strukturierter Leitindikatoren.
-Sie dienen der Orientierung und ermöglichen eine nachvollziehbare Einstufung
-auf den Reifestufen 1–5.
+Die folgenden Indikatoren dienen der strukturierten Einschätzung der organisatorischen Verankerung der acht CARE-IT Grundprinzipien (P1–P8).
 
-Die Indikatoren sind bewusst praxisnah formuliert
-und erfordern keine komplexe Datenerhebung.
+Sie sind keine Checkliste und kein Audit-Instrument.  
+Sie ersetzen keine Bewertung durch Kennzahlen.
+
+Sie unterstützen eine interdisziplinäre, qualitative Einordnung der strukturellen Reife.
+
+Eine numerische Aggregation ist ausdrücklich nicht vorgesehen.
 
 ---
 
 # P1 – Klinische Wirksamkeit
 
-Indikatoren:
+## Strukturelle Hinweise auf höhere Reife
 
-- Werden IT- und Medizintechnik-Entscheidungen nach klinischer Wirkung priorisiert?
-- Wird bei Incidents die klinische Auswirkung systematisch bewertet?
-- Gibt es dokumentierte Versorgungsziele für zentrale Systemverbünde?
-- Sind Klinikvertreter strukturell in Entscheidungsprozesse eingebunden?
+- Klinische Wirksamkeit ist explizit als Priorisierungskriterium definiert  
+- Digitale Investitionen werden vor Einführung an klar benannten Nutzenkriterien gespiegelt  
+- Klinische Zweckverantwortung ist institutionell verankert  
+- Wirkung wird nach Einführung strukturiert reflektiert  
+- Systeme ohne erkennbaren Versorgungsbeitrag werden hinterfragt  
 
-Niedrige Reife zeigt sich durch:
-- rein technische Priorisierung
-- fehlende klinische Bewertung bei Störungen
+## Niedrige Reife zeigt sich durch
+
+- technikgetriebene oder budgetgetriebene Entscheidungslogik  
+- fehlende explizite Nutzenbegründung  
+- Priorisierung nach Verfügbarkeit statt Versorgungswirkung  
+
+## Reflexionsfragen
+
+- Wird klinische Wirksamkeit explizit als Referenzgröße benannt?  
+- Können digitale Entscheidungen mit konkretem Versorgungsbezug begründet werden?  
+- Ist Wirkung strukturell überprüfbar oder nur implizit angenommen?  
 
 ---
 
 # P2 – Ganzheitliche Systemverantwortung
 
-Indikatoren:
+## Strukturelle Hinweise auf höhere Reife
 
-- Sind Systemverbünde dokumentiert (nicht nur Einzelkomponenten)?
-- Werden Abhängigkeiten zwischen Systemen transparent dargestellt?
-- Werden Changes systemübergreifend bewertet?
-- Gibt es eine gemeinsame Sicht von IT und Medizintechnik?
+- Systemverbünde sind transparent beschrieben  
+- Integrationsabhängigkeiten sind sichtbar  
+- Entscheidungen berücksichtigen den Gesamtzusammenhang  
+- Gesamtverantwortung für Verbünde ist geregelt  
 
-Niedrige Reife zeigt sich durch:
-- isolierte Optimierung einzelner Systeme
-- fehlende Integrationsübersicht
+## Niedrige Reife zeigt sich durch
+
+- isolierte Optimierung einzelner Komponenten  
+- reaktive Behandlung von Schnittstellenproblemen  
+- fehlende Übersicht über systemische Wechselwirkungen  
+
+## Reflexionsfragen
+
+- Werden Systeme als Verbund oder als Einzelkomponenten betrachtet?  
+- Sind Abhängigkeiten vor Entscheidungen sichtbar?  
+- Gibt es eine explizite Gesamtperspektive auf Versorgungszusammenhänge?  
 
 ---
 
 # P3 – Transparente Verantwortungszuordnung
 
-Indikatoren:
+## Strukturelle Hinweise auf höhere Reife
 
-- Existiert eine dokumentierte Rollen- und Verantwortungsmatrix?
-- Ist die Betreiberverantwortung klar benannt?
-- Werden Risikoakzeptanzen explizit dokumentiert?
-- Sind Eskalationswege definiert?
+- Klinische Zweckverantwortung ist benannt  
+- Betreiberverantwortung ist dokumentiert  
+- Integrationsverantwortung ist zugeordnet  
+- Risikoentscheidungen sind nachvollziehbar verankert  
+- Eskalations- und Entscheidungswege sind definiert  
 
-Niedrige Reife zeigt sich durch:
-- implizite Zuständigkeiten
-- personenabhängige Verantwortungsübernahme
+## Niedrige Reife zeigt sich durch
+
+- implizite oder personenabhängige Zuständigkeiten  
+- unklare Verantwortungsübernahme bei Zwischenfällen  
+- informelle Entscheidungslogik  
+
+## Reflexionsfragen
+
+- Ist Verantwortung unabhängig von Personen nachvollziehbar?  
+- Sind Risiko- und Betriebsverantwortung explizit dokumentiert?  
+- Beginnt bei Problemen die Suche nach Zuständigkeit?  
 
 ---
 
 # P4 – Gemeinsame Verständlichkeit
 
-Indikatoren:
+## Strukturelle Hinweise auf höhere Reife
 
-- Sind Entscheidungsunterlagen klinisch verständlich formuliert?
-- Werden technische Sachverhalte mit Versorgungsbezug dargestellt?
-- Existiert eine gemeinsame Begriffswelt in Governance-Gremien?
-- Werden Risiken interdisziplinär diskutiert?
+- Technische Sachverhalte sind klinisch anschlussfähig dargestellt  
+- Eine gemeinsame Terminologie ist etabliert  
+- Systemdarstellungen sind interdisziplinär lesbar  
+- Entscheidungsgrundlagen sind disziplinübergreifend verständlich  
 
-Niedrige Reife zeigt sich durch:
-- technikzentrierte Argumentation ohne Versorgungsbezug
-- Verständnisbarrieren zwischen Disziplinen
+## Niedrige Reife zeigt sich durch
 
----
+- fachlich isolierte Dokumentationswelten  
+- technikzentrierte Diskussion ohne Versorgungsbezug  
+- Missverständnisse zwischen Disziplinen  
 
-# P5 – Patientensicherheit
+## Reflexionsfragen
 
-Indikatoren:
-
-- Werden sicherheitsrelevante Changes strukturiert bewertet?
-- Gibt es definierte Kriterien für sicherheitskritische Systeme?
-- Wird Risikoakzeptanz dokumentiert?
-- Sind Sicherheitsvorfälle systematisch analysiert?
-
-Niedrige Reife zeigt sich durch:
-- reaktive Sicherheitsmaßnahmen
-- fehlende strukturierte Risikodokumentation
+- Können technische Risiken klinisch eingeordnet werden?  
+- Werden Systemdarstellungen disziplinübergreifend verstanden?  
+- Existiert eine gemeinsame begriffliche Referenz?  
 
 ---
 
-# P6 – Lebenszyklusfähigkeit
+# P5 – Patientensicherheit als normative Grenze
 
-Indikatoren:
+## Strukturelle Hinweise auf höhere Reife
 
-- Existiert eine Lifecycle-Dokumentation für kritische Systeme?
-- Sind Update- und Patchprozesse klar definiert?
-- Gibt es Ersatz- oder Migrationsstrategien?
-- Werden End-of-Life-Risiken frühzeitig bewertet?
+- Patientenrelevante Risiken werden systematisch identifiziert  
+- Risikoentscheidungen werden explizit dokumentiert  
+- Nutzen-Risiko-Abwägungen sind transparent  
+- Verantwortung für Risikoübernahme ist klar geregelt  
 
-Niedrige Reife zeigt sich durch:
-- reaktiven Ersatz veralteter Systeme
-- fehlende Lifecycle-Transparenz
+## Niedrige Reife zeigt sich durch
+
+- implizite Risikoübernahme  
+- rein formale Konformität ohne strukturelle Bewertung  
+- fehlende Dokumentation von Risikoentscheidungen  
+
+## Reflexionsfragen
+
+- Werden patientenrelevante Risiken bewusst bewertet?  
+- Ist klar dokumentiert, wer Risiken verantwortet?  
+- Werden Nutzen und Risiko systematisch gegeneinander abgewogen?  
+
+---
+
+# P6 – Nachhaltige Betriebsfähigkeit
+
+## Strukturelle Hinweise auf höhere Reife
+
+- Lifecycle-Aspekte sind vor Einführung berücksichtigt  
+- Wartbarkeit und Updatefähigkeit sind abgesichert  
+- Ressourcen für Betrieb sind realistisch geplant  
+- Abhängigkeit von Einzelpersonen ist reduziert  
+
+## Niedrige Reife zeigt sich durch
+
+- reaktiven Betrieb  
+- fehlende Lifecycle-Strategie  
+- strukturelle Überlastung des Betriebs  
+
+## Reflexionsfragen
+
+- Ist der Betrieb langfristig stabil abgesichert?  
+- Sind End-of-Life- und Migrationsrisiken sichtbar?  
+- Ist Wartbarkeit strukturell eingeplant oder nachgelagert?  
 
 ---
 
 # P7 – Informationsintegrität
 
-Indikatoren:
+## Strukturelle Hinweise auf höhere Reife
 
-- Sind kritische Datenflüsse dokumentiert?
-- Gibt es Monitoring für zentrale Schnittstellen?
-- Sind semantische Standards definiert?
-- Existiert eine klare Datenverantwortung?
+- Klinisch relevante Informationen sind systemübergreifend konsistent  
+- Datenflüsse sind transparent beschrieben  
+- Verantwortlichkeit für Datenqualität ist geregelt  
+- Informationsverluste oder Inkonsistenzen werden erkannt  
 
-Niedrige Reife zeigt sich durch:
-- inkonsistente Daten
-- fehlende Schnittstellenübersicht
-- unklare Zuständigkeit für Datenqualität
+## Niedrige Reife zeigt sich durch
+
+- inkonsistente Informationsstände  
+- unklare Datenverantwortung  
+- fehlende Transparenz über Schnittstellen  
+
+## Reflexionsfragen
+
+- Sind kritische Informationsflüsse nachvollziehbar?  
+- Ist klar, wer für Datenqualität verantwortlich ist?  
+- Können Informationsinkonsistenzen systematisch erkannt werden?  
 
 ---
 
 # P8 – Innovationsfähigkeit
 
-Indikatoren:
+## Strukturelle Hinweise auf höhere Reife
 
-- Gibt es ein strukturiertes Verfahren zur Innovationsbewertung?
-- Werden Integrationsfähigkeit und Sicherheit früh geprüft?
-- Existieren klare Kriterien für Pilotprojekte?
-- Erfolgt eine strukturierte Überführung in den Regelbetrieb?
+- Neue Lösungen werden strukturiert bewertet  
+- Systemverbund-Auswirkungen werden vor Einführung analysiert  
+- Projekt-zu-Betrieb-Übergaben sind abgesichert  
+- Organisation lernt systematisch aus Einführungen  
 
-Niedrige Reife zeigt sich durch:
-- fragmentierte Pilotprojekte
-- fehlende Betriebsüberführung
-- innovationsgetriebene Instabilität
+## Niedrige Reife zeigt sich durch
+
+- fragmentierte Pilotlösungen  
+- innovationsgetriebene Instabilität  
+- fehlende nachhaltige Integration in den Regelbetrieb  
+
+## Reflexionsfragen
+
+- Können neue Lösungen wiederholbar integriert werden?  
+- Ist Innovation strukturell abgesichert oder personenabhängig?  
+- Bleibt der Betrieb trotz Innovation stabil?  
 
 ---
 
@@ -141,11 +206,11 @@ Niedrige Reife zeigt sich durch:
 
 Die Bewertung erfolgt idealerweise:
 
-- interdisziplinär
-- pro Systemverbund
-- dokumentiert
-- regelmäßig überprüft
+- interdisziplinär  
+- diskursorientiert  
+- systemverbundbezogen  
+- regelmäßig reflektierend  
 
-Die Indikatoren sind kein Audit-Instrument,
-sondern eine strukturierte Reflexionshilfe
-für die Weiterentwicklung digitaler Versorgungsinfrastruktur.
+Die Indikatoren dienen der strukturellen Einordnung – nicht der Punktbewertung.
+
+CARE-IT versteht Reife als Organisationsfähigkeit, nicht als Kennzahl.

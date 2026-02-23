@@ -1,110 +1,140 @@
 ---
-title: Artefakte
-sidebar_label: Überblick
-sidebar_position: 1
+title: Artefakte im CARE-IT Framework
 ---
 
-# CARE-IT Artefakte
+# Artefakte im CARE-IT Framework
 
-Die CARE-IT Artefakte übersetzen die Grundprinzipien und Domänen
-in konkrete Arbeitsinstrumente.
+Artefakte bilden die operative Umsetzungsebene von CARE-IT.
 
-Während Prinzipien Orientierung geben
-und Domänen die Struktur definieren,
-ermöglichen Artefakte die operative Anwendung.
+Während die Grundprinzipien die normative Richtung definieren  
+und die Domänen die strukturellen Handlungsräume beschreiben,  
+machen Artefakte die Architektur im Alltag handlungsfähig.
 
-Sie unterstützen Organisationen dabei,
-
-- Systemverbünde sichtbar zu machen  
-- Verantwortlichkeiten explizit zuzuordnen  
-- Risiken strukturiert zu bewerten  
-- Lebenszyklen zu planen  
-- Innovation kontrolliert in den Betrieb zu überführen  
-
-CARE-IT ist kein reines Denkmodell.
-Die Artefakte stellen sicher,
-dass Prinzipien im Alltag wirksam werden.
+Sie sind keine zusätzlichen Dokumentationspflichten,  
+sondern strukturierte Arbeitsinstrumente für Führung, Entscheidung und Betrieb.
 
 ---
 
-## Überblick über die Kernartefakte
+## Rolle der Artefakte
 
-### Systemverbund-Beschreibung
+Artefakte erfüllen drei zentrale Funktionen:
 
-Strukturierte Darstellung eines klinischen Systemverbunds
-inklusive beteiligter Komponenten,
-Schnittstellen und Verantwortlichkeiten.
+1. **Strukturierung von Entscheidungen**  
+   Sie übersetzen komplexe Fragestellungen in nachvollziehbare Entscheidungslogik.
 
-→ Grundlage für Transparenz und gemeinsame Diskussion.
+2. **Transparenz von Verantwortung und Risiko**  
+   Sie machen Annahmen, Abhängigkeiten und Zuständigkeiten explizit.
 
----
+3. **Verknüpfung von Strategie und Betrieb**  
+   Sie verbinden normative Prinzipien mit operativer Umsetzung.
 
-### Rollen- und Verantwortungsmatrix
-
-Explizite Zuordnung von:
-
-- klinischer Zweckverantwortung  
-- Betreiberverantwortung  
-- Integrationsverantwortung  
-- Betriebsverantwortung  
-
-→ Verhindert implizite Verantwortungslücken.
+Artefakte sind damit das Bindeglied zwischen Architektur und Praxis.
 
 ---
 
-### Lifecycle-Übersicht
+## Warum Artefakte notwendig sind
 
-Strukturierte Betrachtung eines Systems
-über seinen gesamten Lebenszyklus:
+Digitale Versorgungsinfrastruktur ist:
 
-- Einführung  
-- Betrieb  
-- Änderung  
-- Außerbetriebnahme  
+- interdisziplinär  
+- regulatorisch eingebettet  
+- technisch komplex  
+- klinisch wirksam  
 
-→ Unterstützt nachhaltige Betriebsfähigkeit.
+Ohne strukturierende Instrumente entstehen:
 
----
+- informelle Entscheidungswege  
+- implizite Risikoübernahme  
+- projektgetriebene Einzellösungen  
+- fehlende Nachvollziehbarkeit  
 
-### Impact-Check
-
-Standardisierte Bewertungslogik
-für Änderungen an bestehenden Systemen.
-
-Bewertet unter anderem:
-
-- klinische Wirksamkeit  
-- systemische Abhängigkeiten  
-- regulatorische Auswirkungen  
-- Risikoveränderungen  
-
-→ Unterstützt strukturierte Change-Entscheidungen.
+Artefakte verhindern nicht Komplexität –  
+sie machen sie steuerbar.
 
 ---
 
-### Innovations-Canvas
+## Artefakte sind kein Selbstzweck
 
-Arbeitsinstrument zur Bewertung neuer Lösungen.
+CARE-IT verfolgt bewusst keinen bürokratischen Ansatz.
 
-Fokussiert auf:
+Artefakte sollen:
 
-- klinischen Nutzen  
-- Integrationsfähigkeit  
-- Sicherheits- und Regulatorik-Aspekte  
-- nachhaltige Betriebsfähigkeit  
+- interdisziplinär verständlich sein  
+- klinisch anschlussfähig bleiben  
+- regulatorisch belastbar sein  
+- operativ einsetzbar sein  
+- ohne zusätzliche Verwaltungslogik funktionieren  
 
-→ Verbindet Innovation mit Governance.
+Ein Artefakt ist dann sinnvoll,  
+wenn es eine reale Entscheidungs- oder Steuerungssituation verbessert.
 
 ---
 
-## Anwendungskontext
+## Artefaktklassen
 
-Artefakte werden typischerweise:
+Die CARE-IT Artefakte lassen sich funktional einordnen:
 
-- im Rahmen von Projekten eingesetzt  
-- in Governance-Gremien diskutiert  
-- bei Änderungen angewendet  
-- im Reifegradprozess referenziert  
+### 1. Bewertungsartefakte  
+Strukturieren Nutzen- und Risikoabwägungen  
+(z. B. Impact-Checks)
 
-Sie sind kein Selbstzweck,
-sondern Instrumente zur strukturierten Entscheidungsfindung.
+### 2. Strukturartefakte  
+Machen Systemverbünde und Verantwortungen sichtbar  
+(z. B. Systemverbund-Dokumentation, Rollenmatrix)
+
+### 3. Lebenszyklusartefakte  
+Sichern nachhaltige Betriebsfähigkeit  
+(z. B. Lebenszyklus-Übersicht)
+
+### 4. Innovationsartefakte  
+Unterstützen strukturierte Weiterentwicklung  
+(z. B. Innovations-Canvas)
+
+Diese Klassen sind keine Hierarchie,  
+sondern unterschiedliche Perspektiven auf dieselbe Versorgungsrealität.
+
+---
+
+## Artefakte und Domänen
+
+Artefakte sind nicht einzelnen Domänen exklusiv zugeordnet.
+
+Ein Artefakt kann mehrere Domänen gleichzeitig unterstützen.
+
+Beispiel:
+
+- Der Klinische Nutzen-Impact-Check unterstützt primär D1,  
+  berührt aber auch D4 und D6.
+- Die Systemverbund-Dokumentation unterstützt D2,  
+  ist jedoch Voraussetzung für D4 und D5.
+
+Artefakte sind damit integrative Werkzeuge.
+
+---
+
+## Minimaler Einstieg
+
+CARE-IT kann schrittweise eingeführt werden.
+
+Ein pragmatischer Einstieg besteht häufig aus:
+
+- Klinischer Nutzen-Impact-Check  
+- Systemverbund-Dokumentation  
+- Rollen- und Verantwortungsmatrix  
+
+Diese drei Artefakte erzeugen bereits:
+
+- klinische Klarheit  
+- architektonische Transparenz  
+- strukturelle Verantwortungszuordnung  
+
+---
+
+## Weiterführend
+
+- → [Kernartefakte](/artifacts/core-artifacts)
+- → [Systemverbund-Dokumentation](/artifacts/systembund)
+- → [Rollen- und Verantwortungsmatrix](/artifacts/roles-matrix)
+- → [Klinischer Impact-Check](/artifacts/impact-check)
+- → [Lebenszyklus-Übersicht](/artifacts/lifecycle)
+- → [Innovations-Canvas](/artifacts/innovation-canvas)
