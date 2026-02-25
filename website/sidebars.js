@@ -62,7 +62,7 @@ module.exports = {
             'architecture/domains/d6',
           ],
         },
-        'architecture/reference-systembunds',
+        'architecture/reference-clinical-system-constellations',
       ],
     },
 
@@ -75,7 +75,7 @@ module.exports = {
         'artifacts/core-artifacts',
         'artifacts/impact-check',
         'artifacts/risk-impact-check',
-        'artifacts/systembund',
+        'artifacts/clinical-system-constellation',
         'artifacts/roles-matrix',
         'artifacts/lifecycle',
         'artifacts/innovation-canvas',
@@ -87,8 +87,16 @@ module.exports = {
       label: 'Part VI – Adoption & Application',
       collapsed: false,
       items: [
-        'adoption/case-mobile-monitoring',
         'adoption/implementation-guide',
+        'adoption/case-mobile-monitoring',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: 'Part VII – Adoption Governance',
+      collapsed: true,
+      items: [
         'adoption/kpis',
       ],
     },
@@ -127,7 +135,6 @@ module.exports = {
       label: 'Appendix',
       collapsed: true,
       items: [
-        'glossary',
         'references',
       ],
     },

@@ -11,16 +11,16 @@
     .connector { stroke: #c5ccd3; stroke-width: 2; }
   </style>
 
-  <!-- Titel -->
-  <text x="550" y="70" class="title">CARE-IT Architekturmodell</text>
+  <!-- Title -->
+  <text x="550" y="70" class="title">CARE-IT Architecture Model</text>
 
-  <!-- Äußerer Ring -->
+  <!-- Outer Ring -->
   <circle cx="550" cy="450" r="360" class="principles"/>
   <text x="550" y="100" class="principlesText">
-    Normative Grundlage: Grundprinzipien (P1–P8)
+    Normative Foundation: Principles (P1–P8)
   </text>
 
-  <!-- Verbindungslinien (liegen jetzt im Hintergrund) -->
+  <!-- Connectors -->
   <line x1="550" y1="450" x2="550" y2="200" class="connector"/>
   <line x1="550" y1="450" x2="850" y2="300" class="connector"/>
   <line x1="550" y1="450" x2="850" y2="600" class="connector"/>
@@ -28,34 +28,34 @@
   <line x1="550" y1="450" x2="250" y2="600" class="connector"/>
   <line x1="550" y1="450" x2="250" y2="300" class="connector"/>
 
-  <!-- Domänen -->
+  <!-- Domains -->
   <rect x="420" y="120" width="260" height="100" rx="20" class="domain"/>
   <text x="550" y="170" class="domainText">D1</text>
-  <text x="550" y="195" class="domainText">Klinische Ausrichtung</text>
+  <text x="550" y="195" class="domainText">Clinical Orientation</text>
 
   <rect x="760" y="250" width="260" height="100" rx="20" class="domain"/>
   <text x="890" y="300" class="domainText">D2</text>
-  <text x="890" y="325" class="domainText">Systemverbund</text>
+  <text x="890" y="325" class="domainText">Clinical System Constellation</text>
 
   <rect x="760" y="550" width="260" height="100" rx="20" class="domain"/>
   <text x="890" y="600" class="domainText">D3</text>
-  <text x="890" y="625" class="domainText">Verantwortung &amp; Governance</text>
+  <text x="890" y="625" class="domainText">Responsibility &amp; Governance</text>
 
   <rect x="420" y="670" width="260" height="100" rx="20" class="domain"/>
   <text x="550" y="720" class="domainText">D4</text>
-  <text x="550" y="745" class="domainText">Risiko &amp; Sicherheit</text>
+  <text x="550" y="745" class="domainText">Risk &amp; Safety</text>
 
   <rect x="80" y="550" width="260" height="100" rx="20" class="domain"/>
   <text x="210" y="600" class="domainText">D5</text>
-  <text x="210" y="625" class="domainText">Lebenszyklus &amp; Betrieb</text>
+  <text x="210" y="625" class="domainText">Lifecycle &amp; Operation</text>
 
   <rect x="80" y="250" width="260" height="100" rx="20" class="domain"/>
   <text x="210" y="300" class="domainText">D6</text>
-  <text x="210" y="325" class="domainText">Innovation &amp; Weiterentwicklung</text>
+  <text x="210" y="325" class="domainText">Innovation &amp; Evolution</text>
 
-  <!-- Zentrum jetzt ganz am Ende = im Vordergrund -->
+  <!-- Center -->
   <circle cx="550" cy="450" r="120" class="center"/>
-  <text x="550" y="440" class="centerText">Klinische</text>
-  <text x="550" y="470" class="centerText">Versorgung</text>
+  <text x="550" y="440" class="centerText">Clinical</text>
+  <text x="550" y="470" class="centerText">Care</text>
 
 </svg>

@@ -133,7 +133,7 @@ Diese drei Artefakte erzeugen bereits:
 ## Weiterführend
 
 - → [Kernartefakte](/artifacts/core-artifacts)
-- → [Systemverbund-Dokumentation](/artifacts/systembund)
+- → [Systemverbund-Dokumentation](/artifacts/clinical-system-constellation)
 - → [Rollen- und Verantwortungsmatrix](/artifacts/roles-matrix)
 - → [Klinischer Impact-Check](/artifacts/impact-check)
 - → [Lebenszyklus-Übersicht](/artifacts/lifecycle)

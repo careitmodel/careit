@@ -152,4 +152,4 @@ Digitale Wirkung entsteht im Zusammenspiel von:
 Architektur bedeutet daher nicht nur Struktur —  
 sondern steuerbare Zusammenhänge.
 
-→ Weiter zu: [Referenz-Systemverbünde](/architecture/reference-systembunds)
+→ Weiter zu: [Referenz-Systemverbünde](/architecture/reference-clinical-system-constellations)
