@@ -1,83 +1,88 @@
 ---
-title: Datenschutzerklärung
+title: Privacy Policy
 ---
 
-# Datenschutzerklärung
+# Privacy Policy
 
-Diese Datenschutzerklärung informiert über die
-Bearbeitung personenbezogener Daten im Zusammenhang
-mit der Website des CARE-IT Frameworks.
+This Privacy Policy provides information on the processing of personal data in connection with the CARE-IT Framework website.
 
-Die Bearbeitung erfolgt gemäß:
+Data processing is carried out in accordance with:
 
-- dem revidierten Schweizer Datenschutzgesetz (revDSG)
-- der Datenschutz-Grundverordnung der Europäischen Union (DSGVO), soweit anwendbar
+- The revised Swiss Federal Act on Data Protection (revDSG)  
+- The General Data Protection Regulation of the European Union (GDPR), where applicable  
 
-## 1. Verantwortliche Stelle
+---
 
-Verantwortlich für die Datenbearbeitung:
+## 1. Controller
 
-Name: Charles Tima
-Adresse: Ilgenstrasse 10b, 9113 Degersheim
-Land: Schweiz  
-E-Mail: info@careitmodel.org
+Responsible for data processing:
 
-## 2. Zweck der Website
+Name: Charles Tima  
+Address: Ilgenstrasse 10b, 9113 Degersheim  
+Country: Switzerland  
+Email: info@careitmodel.org  
 
-Diese Website dient ausschließlich der
-Information und Veröffentlichung des CARE-IT Frameworks.
+---
 
-Es erfolgt keine Registrierung,
-kein Benutzerkonto
-und keine aktive Datenerhebung.
+## 2. Purpose of the Website
 
-## 3. Hosting
+This website serves exclusively for the publication and informational presentation of the CARE-IT Framework.
 
-Die Website wird über einen Hosting-Anbieter
-in der Europäischen Union betrieben.
+No user registration, user accounts, or active data collection mechanisms are implemented.
 
-Beim Zugriff auf die Website können
-technisch notwendige Server-Logfiles verarbeitet werden, insbesondere:
+---
 
-- IP-Adresse
-- Datum und Uhrzeit des Zugriffs
-- aufgerufene Seiten
-- Browser-Informationen
+## 3. Hosting and Server Log Files
 
-Diese Daten dienen ausschließlich der
-technischen Bereitstellung und Sicherheit der Website.
+The website is hosted by a service provider located in the European Union.
 
-## 4. Externe Links
+When accessing the website, technically necessary server log data may be processed, including:
 
-Die Website enthält Links zu externen Diensten,
-insbesondere GitHub.
+- IP address  
+- Date and time of access  
+- Accessed pages  
+- Browser information  
 
-Für die Datenverarbeitung durch diese Anbieter
-gelten deren jeweilige Datenschutzerklärungen.
+This data is processed solely for the purpose of:
 
-Es erfolgt keine automatische Datenübermittlung,
-sofern keine aktive Nutzung externer Dienste erfolgt.
+- Ensuring technical functionality  
+- Maintaining system security  
+- Protecting against misuse  
 
-## 5. Weitergabe von Daten
+Under the GDPR (where applicable), processing is based on Art. 6(1)(f) GDPR (legitimate interest in secure and stable website operation).
 
-Es erfolgt keine Weitergabe personenbezogener Daten
-an Dritte zu kommerziellen Zwecken.
+---
 
-## 6. Rechte betroffener Personen
+## 4. External Links
 
-Betroffene Personen haben im Rahmen der
-anwendbaren gesetzlichen Bestimmungen das Recht auf:
+This website contains links to external services, in particular GitHub.
 
-- Auskunft
-- Berichtigung
-- Löschung
-- Einschränkung der Verarbeitung
-- Widerspruch
+When visiting such external services, the respective privacy policies of those providers apply.
 
-Anfragen können an die oben genannte Kontaktadresse gerichtet werden.
+No automatic transmission of personal data occurs unless external services are actively accessed.
 
-## 7. Änderungen
+---
 
-Diese Datenschutzerklärung kann angepasst werden,
-um rechtlichen Anforderungen oder Änderungen
-der Website Rechnung zu tragen.
+## 5. Disclosure of Data
+
+No personal data is disclosed to third parties for commercial purposes.
+
+---
+
+## 6. Rights of Data Subjects
+
+Within the scope of applicable legal provisions, data subjects have the right to:
+
+- Access  
+- Rectification  
+- Erasure  
+- Restriction of processing  
+- Objection  
+
+Requests may be directed to the contact address listed above.
+
+---
+
+## 7. Changes
+
+This Privacy Policy may be updated to reflect legal requirements or changes to the website.

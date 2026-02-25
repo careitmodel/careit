@@ -1,47 +1,49 @@
 ---
-title: Impressum
+title: Imprint
 ---
 
-# Impressum
+# Imprint
 
-Angaben gemäß den gesetzlichen Vorschriften der Schweiz (revDSG)  
-und – soweit anwendbar – der Europäischen Union (DSGVO).
+This English version is provided for accessibility.  
+The German version remains legally authoritative.
 
-## Verantwortliche Person
+Information provided in accordance with applicable Swiss law (revDSG)  
+and, where applicable, the European Union General Data Protection Regulation (GDPR).
 
-Name: Charles Tima
-Adresse: Ilgenstrasse 10b, 9113 Degersheim
-Land: Schweiz  
-E-Mail: info@careitmodel.org
+## Responsible Person
 
-## Projektbeschreibung
+Name: Charles Tima  
+Address: Ilgenstrasse 10b, 9113 Degersheim  
+Country: Switzerland  
+Email: info@careitmodel.org  
 
-CARE-IT ist ein fachliches Referenzmodell
-für Governance und Betriebsführung
-digitaler Versorgungsinfrastruktur
-in Gesundheitseinrichtungen.
+## Project Description
 
-Diese Website dient ausschließlich der
-Information und Veröffentlichung
-des CARE-IT Frameworks.
+CARE-IT is a professional reference framework  
+for governance and operational management  
+of digital clinical infrastructure  
+within healthcare institutions.
 
-Es werden keine kommerziellen Dienstleistungen,
-keine Zertifizierungen und keine
-verbindlichen Beratungsleistungen angeboten.
+This website serves exclusively for the  
+publication and informational presentation  
+of the CARE-IT Framework.
 
-## Haftungsausschluss
+No commercial services, certifications,  
+or binding consulting services are offered.
 
-Die Inhalte dieser Website wurden mit
-größtmöglicher Sorgfalt erstellt.
-Es wird jedoch keine Gewähr für
-Vollständigkeit, Richtigkeit oder Aktualität übernommen.
+## Disclaimer
 
-Die Anwendung des CARE-IT Frameworks
-erfolgt in eigener Verantwortung der jeweiligen Organisation.
+The contents of this website have been prepared  
+with the greatest possible care.  
+However, no guarantee is given regarding  
+completeness, accuracy, or timeliness.
 
-## Urheberrecht
+Application of the CARE-IT Framework  
+remains the responsibility of the respective organization.
 
-Die Inhalte dieser Website sind urheberrechtlich geschützt.
+## Copyright
 
-Die Nutzung erfolgt gemäß der jeweils
-veröffentlichten Lizenzbestimmungen.
+The content of this website is protected by copyright.
+
+Use is governed by the applicable  
+published licensing terms.
