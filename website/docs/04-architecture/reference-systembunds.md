@@ -1,7 +1,5 @@
 ---
 title: Referenz-Systemverbünde
-sidebar_label: Referenz-Systemverbünde
-sidebar_position: 2
 ---
 
 # Referenz-Systemverbünde

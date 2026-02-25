@@ -83,5 +83,5 @@ sondern ein strukturelles Steuerungsinstrument.
 ## Weiterführend
 
 - → [P1 – Klinische Wirksamkeit](/principles/p1)
-- → [Reifegradmodell](/maturity/model)
+- → [Reifegradmodell](/maturity-model/model)
 - → [Gesamtarchitektur](/architecture/overview)

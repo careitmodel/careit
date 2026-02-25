@@ -1,6 +1,5 @@
 ---
 title: Bewertungslogik
-sidebar_label: Bewertungslogik
 ---
 
 # Bewertungslogik des CARE-IT Reifegradmodells

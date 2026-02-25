@@ -1,6 +1,5 @@
 ---
 title: Grafisches Reifeprofil
-sidebar_label: Reifeprofil
 ---
 
 # Grafisches Reifeprofil
@@ -155,7 +154,7 @@ nicht Performance.
 
 ## Weiterführend
 
-- [Reifegradmodell](/maturity/model)
-- [Bewertungslogik](/maturity/evaluation-logic)
-- [Indikatoren – Prinzipien](/maturity/indicators-principles)
-- [Indikatoren – Domänen](/maturity/indicators-domains)
+- [Reifegradmodell](/maturity-model/model)
+- [Bewertungslogik](/maturity-model/evaluation-logic)
+- [Indikatoren – Prinzipien](/maturity-model/indicators-principles)
+- [Indikatoren – Domänen](/maturity-model/indicators-domains)

@@ -1,6 +1,5 @@
 ---
 title: Datenschutzerklärung
-sidebar_label: Datenschutz
 ---
 
 # Datenschutzerklärung

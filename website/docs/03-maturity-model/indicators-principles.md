@@ -1,6 +1,5 @@
 ---
 title: Indikatoren – Prinzipien
-sidebar_label: Prinzipienindikatoren
 ---
 
 # Indikatoren entlang der CARE-IT Prinzipien

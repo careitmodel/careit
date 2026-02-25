@@ -1,6 +1,5 @@
 ---
 title: Kontakt
-sidebar_label: Kontakt
 ---
 
 # Kontakt

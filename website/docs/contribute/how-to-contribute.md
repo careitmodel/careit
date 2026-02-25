@@ -1,6 +1,5 @@
 ---
 title: Mitwirkung
-sidebar_label: Mitwirkung
 ---
 
 # Mitwirkung

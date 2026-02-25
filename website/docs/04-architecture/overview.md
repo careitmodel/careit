@@ -91,7 +91,7 @@ Es:
 CARE-IT ist damit kein Audit- oder Zertifizierungsmodell,  
 sondern ein Instrument der Organisationsentwicklung.
 
-→ Weiter zu: [Reifegradmodell](/maturity/model)
+→ Weiter zu: [Reifegradmodell](/maturity-model/model)
 
 ---
 

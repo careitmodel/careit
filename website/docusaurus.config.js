@@ -62,7 +62,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
   ({
       // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/careit-social-card.png',
     colorMode: {
       respectPrefersColorScheme: true,
     },
@@ -93,42 +93,42 @@ const config = {
       {
         title: 'Start',
         items: [
-          { label: 'Definition', to: '/foundation/definition' },
-          { label: 'Scope', to: '/foundation/scope' },
-          { label: 'Controlled Open', to: '/foundation/controlled-open' },
-          { label: 'Versionen', to: '/versions/current' },
+          { label: 'Definition', to: '/foundations/definition' },
+          { label: 'Scope', to: '/foundations/scope' },
+          { label: 'Controlled Open', to: '/foundations/controlled-open' },
+          { label: 'Versions', to: '/versions/current' },
           ],
       },
       {
         title: 'Framework',
         items: [
-          { label: 'Grundprinzipien', to: '/principles/overview' },
-          { label: 'Architektur', to: '/architecture/overview' },
-          { label: 'Reifegradmodell', to: '/maturity/model' },
-          { label: 'KPIs', to: '/framework/kpis' },
-          { label: 'Artefakte', to: '/artifacts/overview' },
+          { label: 'Principles', to: '/principles/overview' },
+          { label: 'Architecture', to: '/architecture/overview' },
+          { label: 'Maturity Model', to: '/maturity-model/model' },
+          { label: 'Artifacts', to: '/artifacts/overview' },
           ],
       },
       {
-        title: 'Anwendung',
+        title: 'Adoption',
         items: [
-          { label: 'Fallbeispiel: Mobiles Monitoring', to: '/application/case-mobile-monitoring' },
-          { label: 'Implementation Guide', to: '/application/implementation-guide' },
+          { label: 'Case: Mobile Monitoring', to: '/adoption/case-mobile-monitoring' },
+          { label: 'Implementation Guide', to: '/adoption/implementation-guide' },
+          { label: 'Adoption KPIs', to: '/adoption/kpis' },
           ],
       },
       {
-        title: 'Mitwirkung',
+        title: 'Contribute',
         items: [
-          { label: 'Mitmachen', to: '/contribute/how-to-contribute' },
-          { label: 'Kontakt', to: '/contribute/contact' },
+          { label: 'How to Contribute', to: '/contribute/how-to-contribute' },
+          { label: 'Contact', to: '/contribute/contact' },
           { label: 'GitHub', href: 'https://github.com/careitmodel/careit.git' },
           ],
       },
       {
-        title: 'Rechtliches',
+        title: 'Legal',
         items: [
-          { label: 'Impressum', to: '/legal/imprint' },
-          { label: 'Datenschutz', to: '/legal/privacy' },
+          { label: 'Imprint', to: '/legal/imprint' },
+          { label: 'Privacy', to: '/legal/privacy' },
           ],
       },
       ],

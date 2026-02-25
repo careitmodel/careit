@@ -1,6 +1,5 @@
 ---
 title: Impressum
-sidebar_label: Impressum
 ---
 
 # Impressum

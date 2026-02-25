@@ -1,6 +1,5 @@
 ---
 title: Indikatoren – Domänen
-sidebar_label: Domänenindikatoren
 ---
 
 # Indikatoren entlang der CARE-IT Domänen

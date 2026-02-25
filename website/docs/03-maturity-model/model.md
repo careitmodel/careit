@@ -1,6 +1,5 @@
 ---
 title: Reifegradmodell
-sidebar_label: Überblick
 ---
 
 # CARE-IT Reifegradmodell
@@ -123,7 +122,7 @@ Hohe Performance bei niedriger struktureller Reife ist möglich –
 aber nicht nachhaltig stabil.
 
 Siehe für Visualisierung und Interpretation:
-- [Grafisches Reifeprofil](/maturity/profile)
+- [Grafisches Reifeprofil](/maturity-model/profile)
 
 ---
 
