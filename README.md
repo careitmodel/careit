@@ -3,16 +3,16 @@
 **CARE-IT** is a governance and operating reference model  
 for digital clinical infrastructure in healthcare institutions.
 
-Version: 1.1.1  
-Status: Controlled Open Release  
-Website: https://careitmodel.org  
+**Version:** 1.2.0  
+**Status:** Controlled Open Release  
+**Website:** https://careitmodel.org  
 
 ---
 
 ## What CARE-IT Is
 
-CARE-IT provides a structured framework for the design, governance, 
-operation and evolution of clinically relevant digital service systems.
+CARE-IT provides a structured framework for the design, governance,  
+operation and evolution of clinically relevant digital clinical systems.
 
 It integrates:
 
@@ -44,14 +44,17 @@ CARE-IT covers:
 
 ## Framework Structure
 
-CARE-IT Version 1.1.1 defines:
+CARE-IT Version **1.2.0** defines:
 
-- CARE-IT Governance Principles  
-- 7 Domains (D1–D7)  
+- Eight Foundational Principles (P1–P8)  
+- Six Architectural Domains (D1–D6)  
+- A dual-perspective maturity model (Principles + Domains)  
+- Indicator-based evaluation logic (without numerical aggregation)  
 - A structured artifact system supporting operational implementation  
-- Clinical stability and governance KPIs  
-- Lifecycle-oriented change and innovation logic  
-- A controlled-open versioning model  
+- A formal Framework Governance model  
+- A controlled-open semantic versioning model  
+
+The normative architecture remains stable in this release.
 
 ---
 
@@ -74,7 +77,7 @@ CARE-IT follows a *Controlled Open* model:
 
 - The framework is publicly accessible  
 - Content is transparently versioned  
-- Releases are historically fixed  
+- Releases are historically fixed via Git tags  
 - Structural integrity is maintained through curated development  
 
 The goal is not uncontrolled modification,  
@@ -84,10 +87,17 @@ but structured evolution through interdisciplinary dialogue.
 
 ## Citation
 
-CARE-IT Framework, Version 1.1.1, 2026.  
-Concept DOI: https://doi.org/10.5281/zenodo.18679683  
-Version DOI (v1.1.1): https://doi.org/10.5281/zenodo.18741220  
+CARE-IT Framework, Version 1.2.0, 2026.  
+
+**Version DOI (v1.2.0):**  
+https://doi.org/10.5281/zenodo.18799234  
+
+**Concept DOI (all versions):**  
+https://doi.org/10.5281/zenodo.18679683  
+
 Available at: https://careitmodel.org  
+
+For citation, reference the version-specific DOI corresponding to the version used.
 
 ---
 
@@ -96,8 +106,8 @@ Available at: https://careitmodel.org
 This repository contains the source documentation  
 for the CARE-IT website and framework documentation.
 
-For the official release version,  
-see the **Releases** section.
+PDF artifacts are published exclusively via GitHub Releases.  
+The Git tag constitutes the historically fixed reference version.
 
 ---
 
