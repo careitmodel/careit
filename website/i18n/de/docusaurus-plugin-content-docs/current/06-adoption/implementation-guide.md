@@ -2,8 +2,6 @@
 title: Einführung und Implementierung von CARE-IT
 ---
 
-# Einführung und Implementierung von CARE-IT
-
 CARE-IT ist kein Projekt, kein Tool und kein zusätzliches Dokumentationssystem.
 
 Es ist ein struktureller Führungsrahmen für digitale Versorgungsinfrastruktur.
@@ -11,9 +9,8 @@ Es ist ein struktureller Führungsrahmen für digitale Versorgungsinfrastruktur.
 Die Einführung erfolgt daher nicht durch Rollout,
 sondern durch Veränderung der Entscheidungsarchitektur.
 
----
 
-# 1. Ausgangspunkt
+## Ausgangspunkt
 
 Organisationen entscheiden sich für CARE-IT, wenn sie feststellen:
 
@@ -26,9 +23,8 @@ Organisationen entscheiden sich für CARE-IT, wenn sie feststellen:
 CARE-IT adressiert nicht einzelne Symptome,
 sondern die Steuerungslogik als Ganzes.
 
----
 
-# 2. Grundprinzip: Evolution statt Big Bang
+## Grundprinzip: Evolution statt Big Bang
 
 CARE-IT ist modular aufgebaut.
 
@@ -48,9 +44,8 @@ Diese drei Elemente erzeugen bereits:
 
 Weitere Elemente werden schrittweise ergänzt.
 
----
 
-# 3. Institutionelle Verankerung
+## Institutionelle Verankerung
 
 CARE-IT benötigt formelle Trägerschaft.
 
@@ -65,9 +60,8 @@ Die Organisation muss klären:
 Ohne institutionelle Verankerung bleibt CARE-IT methodisch –
 aber nicht wirksam.
 
----
 
-# 4. Integration in bestehende Modelle
+## Integration in bestehende Modelle
 
 CARE-IT ersetzt keine bestehenden Steuerungsmodelle.
 
@@ -86,9 +80,8 @@ Architektur und Lebenszyklus in einem gemeinsamen Referenzrahmen.
 Es schafft Kohärenz zwischen bestehenden Systemen,
 statt sie zu verdrängen.
 
----
 
-# 5. Veränderung der Entscheidungsarchitektur
+## Veränderung der Entscheidungsarchitektur
 
 CARE-IT entfaltet Wirkung dort,
 wo Entscheidungen getroffen werden.
@@ -107,9 +100,8 @@ CARE-IT ist eingeführt,
 wenn diese Entscheidungen strukturell anders getroffen werden –
 nicht wenn neue Dokumente existieren.
 
----
 
-# 6. Organisatorische Voraussetzungen
+## Organisatorische Voraussetzungen
 
 Eine erfolgreiche Einführung setzt voraus:
 
@@ -129,9 +121,8 @@ CARE-IT betrifft:
 Es ist kein IT-Projekt,
 sondern eine organisationsweite Strukturveränderung.
 
----
 
-# 7. Typische Widerstände
+## Typische Widerstände
 
 Häufige Reaktionen sind:
 
@@ -150,9 +141,8 @@ Seine Funktion ist jedoch:
 - Verantwortungsdiffusion reduzieren  
 - langfristige Stabilität sichern  
 
----
 
-# 8. Reife als Entwicklung
+## Reife als Entwicklung
 
 CARE-IT ist kein Zielzustand,
 sondern ein Entwicklungsprozess.
@@ -166,9 +156,8 @@ Organisationen können:
 Das Reifegradmodell dient der Orientierung –
 nicht der Bewertung.
 
----
 
-# 9. Langfristige Wirkung
+## Langfristige Wirkung
 
 Langfristig entsteht durch CARE-IT:
 
@@ -180,9 +169,8 @@ Langfristig entsteht durch CARE-IT:
 Digitale Versorgungsinfrastruktur wird nicht nur implementiert,
 sondern strukturell geführt.
 
----
 
-# Fazit
+## Fazit
 
 CARE-IT wird nicht eingeführt,
 indem Artefakte erstellt werden.

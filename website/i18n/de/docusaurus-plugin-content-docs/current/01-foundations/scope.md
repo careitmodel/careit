@@ -2,15 +2,12 @@
 title: Scope
 ---
 
-# Scope
-
 CARE-IT definiert den Anwendungsbereich eines Governance- und Betriebsführungsmodells für digitale Versorgungsinfrastruktur.
 
 Der Scope beschreibt, **welche Systeme, Entscheidungen und organisatorischen Ebenen vom Framework erfasst werden** – und welche nicht.
 
----
 
-## 1. Was im Scope liegt
+## Was im Scope liegt
 
 CARE-IT gilt für digitale Systeme, die:
 
@@ -30,9 +27,8 @@ Dazu zählen insbesondere:
 
 CARE-IT bezieht sich dabei nicht auf das Einzelprodukt, sondern auf den **Systemverbund**, in dem es wirksam wird.
 
----
 
-## 2. Was nicht im Scope liegt
+## Was nicht im Scope liegt
 
 CARE-IT ist kein:
 
@@ -47,9 +43,8 @@ CARE-IT ersetzt keine bestehenden Regelwerke.
 
 Es adressiert die strukturelle Steuerungslogik oberhalb dieser Ebenen.
 
----
 
-## 3. Organisationale Ebene
+## Organisationale Ebene
 
 CARE-IT wirkt auf:
 
@@ -64,9 +59,8 @@ Es ist kein rein technisches Framework.
 
 Es ist ein organisationsweites Steuerungsmodell für digitale Versorgungsinfrastruktur.
 
----
 
-## 4. Entscheidungsebene
+## Entscheidungsebene
 
 CARE-IT adressiert insbesondere Entscheidungen zu:
 
@@ -80,9 +74,8 @@ CARE-IT adressiert insbesondere Entscheidungen zu:
 
 Der Scope endet dort, wo digitale Systeme keine klinische Relevanz entfalten.
 
----
 
-## 5. Kontextabhängigkeit
+## Kontextabhängigkeit
 
 CARE-IT ist skalierbar.
 
@@ -97,7 +90,6 @@ Die Tiefe der Anwendung ist kontextabhängig.
 
 Der normative Kern bleibt unverändert.
 
----
 
 CARE-IT definiert nicht jedes Detail der Umsetzung.
 

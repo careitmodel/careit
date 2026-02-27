@@ -1,8 +1,7 @@
 ---
-title: Grundprinzipien
+title: CARE-IT Grundprinzipien
+sidebar_label: Grundprinzipien
 ---
-
-# CARE-IT Grundprinzipien
 
 Die Grundprinzipien bilden das normative Zentrum des CARE-IT Frameworks.
 
@@ -14,7 +13,6 @@ CARE-IT bewertet keine einzelnen Systeme.
 CARE-IT bewertet die Fähigkeit einer Organisation, digitale Entscheidungen
 konsequent, systemisch und klinisch wirksam zu treffen.
 
----
 
 ## Was die Prinzipien leisten
 
@@ -32,7 +30,6 @@ Die Grundprinzipien erfüllen drei zentrale Funktionen:
 Ohne diese normative Basis würden Werkzeuge und Prozesse
 beliebig bleiben.
 
----
 
 ## Organisationsfähigkeit statt Systemfunktion
 
@@ -49,7 +46,6 @@ Damit verschiebt CARE-IT den Fokus:
 - von Implementierung zu Wirkung  
 - von Einzelentscheidung zu Systemlogik  
 
----
 
 ## Systemische Verschränkung der Prinzipien
 
@@ -64,7 +60,6 @@ Die Prinzipien bilden ein geschlossenes Ordnungsmodell.
 
 Schwächen in einem Bereich wirken strukturell auf andere zurück.
 
----
 
 ## Rolle im Gesamtframework
 
@@ -78,7 +73,6 @@ Die Grundprinzipien:
 Sie sind damit keine abstrakten Leitgedanken,
 sondern ein strukturelles Steuerungsinstrument.
 
----
 
 ## Weiterführend
 

@@ -1,15 +1,13 @@
 ---
-title: Domänenstruktur
+title: CARE-IT Domänen
+sidebar_label: Domänen
 ---
-
-# CARE-IT Domänen
 
 Die CARE-IT Domänen (D1–D6) strukturieren die wesentlichen Handlungsfelder, in denen digitale Versorgungsinfrastruktur geführt, betrieben und weiterentwickelt wird.
 
 Domänen sind **keine organisatorischen Silos** und keine IT-Abteilungsstruktur.  
 Sie sind **Steuerungsperspektiven** auf dieselbe klinische Systemlandschaft – damit Verantwortung, Risiko, Betrieb und Entwicklung über Systemgrenzen hinweg koordiniert werden können.
 
----
 
 ## Was ist eine Domäne?
 
@@ -21,7 +19,6 @@ Domänen machen sichtbar:
 - *welche Fragen* dabei strukturell beantwortet werden müssen,
 - und *welche Verantwortung* dafür verankert sein muss.
 
----
 
 ## Warum braucht es Domänen?
 
@@ -33,7 +30,6 @@ Klinische Systeme werden häufig entlang von Technologien, Lieferanten oder Proj
 
 Die Domänen sorgen dafür, dass diese Realität **steuerbar** wird – ohne alles neu zu erfinden und ohne zusätzliche Bürokratie als Selbstzweck.
 
----
 
 ## Wie hängen Domänen und Prinzipien zusammen?
 
@@ -44,7 +40,6 @@ Beispiel:
 - P5 „Patientensicherheit“ ist ein Prinzip.
 - D4 „Risiko & Patientensicherheit“ ist der Handlungsraum, in dem dieses Prinzip operativ umgesetzt wird.
 
----
 
 ## Überblick über die sechs Domänen
 
@@ -66,7 +61,6 @@ Sichert nachhaltige Betriebsführung über den gesamten Lebenszyklus: Wartbarkei
 ### D6 – Innovationsfähigkeit & Weiterentwicklung
 Definiert Innovation aus Betreiberperspektive: neue Lösungen wiederholbar zügig, sicher und nachhaltig in den Versorgungsbetrieb überführen – unter Kontrolle, nicht „schnell um jeden Preis“.
 
----
 
 ## Anwendung der Domänen
 
@@ -79,7 +73,6 @@ In der Praxis werden Domänen genutzt, um:
 
 Domänen sind damit die zentrale Struktur, um CARE-IT in bestehende ITIL-/ITSM-Gremien, Medizintechnik-Prozesse und klinische Entscheidungswege anschlussfähig zu integrieren.
 
----
 
 ## Domänen im Detail
 

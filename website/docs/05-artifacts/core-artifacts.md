@@ -1,8 +1,7 @@
 ---
-title: Core Artifacts
+title: CARE-IT Core Artifacts
+sidebar_label: Core Artifacts
 ---
-
-# CARE-IT Core Artifacts
 
 Not all artifacts are equally central.
 
@@ -11,7 +10,6 @@ that significantly shape the structural governance capability of an organization
 
 They form the operational backbone of the framework.
 
----
 
 ## Artifacts as the Translation Layer
 
@@ -33,7 +31,6 @@ Without artifacts:
 
 Only through artifacts does the framework become actionable.
 
----
 
 ## Why Core Artifacts?
 
@@ -52,32 +49,30 @@ Core artifacts structure precisely these intersections.
 They do not increase documentation volume —  
 they increase decision quality.
 
----
 
 ## Overview of Core Artifacts
 
-### 1. Clinical Impact Check  
+### Clinical Impact Check  
 Operationalizes P1 (Clinical Effectiveness).
 
-### 2. Clinical Risk Impact Check  
+### Clinical Risk Impact Check  
 Operationalizes P5 (Patient Safety as Normative Boundary).
 
-### 3. Clinical System Constellation Documentation  
+### Clinical System Constellation Documentation  
 Operationalizes P2 (Holistic System Responsibility).
 
-### 4. Responsibility & Governance Matrix  
+### Responsibility & Governance Matrix  
 Operationalizes P3 (Transparent Allocation of Responsibility).
 
-### 5. Lifecycle Overview of Critical Systems  
+### Lifecycle Overview of Critical Systems  
 Operationalizes P6 (Sustainable Operational Capability).
 
-### 6. Innovation Canvas  
+### Innovation Canvas  
 Operationalizes P8 (Innovation Capability from an Operator Perspective).
 
 No artifact belongs exclusively to a single domain.  
 Each operates across domains.
 
----
 
 ## Reducing Person-Dependency
 
@@ -100,7 +95,6 @@ They make:
 This enables structural governance —  
 independent of individual key persons.
 
----
 
 ## Decision Maturity Instead of Document Volume
 
@@ -120,7 +114,6 @@ But every organization requires structures capable of systematically answering:
 
 Core artifacts are structured answers to these questions.
 
----
 
 ## Architectural Effect
 
@@ -136,7 +129,6 @@ Together, the core artifacts create a coherent governance logic:
 If one of these elements is missing,  
 structural governance gaps emerge.
 
----
 
 ## Minimally Viable Governance Architecture
 

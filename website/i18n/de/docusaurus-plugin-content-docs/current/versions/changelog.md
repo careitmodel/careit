@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-# Changelog
-
 Dieses Dokument beschreibt die versionierte Weiterentwicklung des CARE-IT Frameworks.
 
 CARE-IT folgt semantischer Versionierung:
@@ -12,7 +10,6 @@ CARE-IT folgt semantischer Versionierung:
 - **Minor** – inhaltliche Erweiterung oder strukturelle Konsolidierung
 - **Patch** – redaktionelle oder formale Anpassung ohne konzeptionelle Änderung
 
----
 
 ## Version 1.1.1
 
@@ -38,12 +35,10 @@ CARE-IT folgt semantischer Versionierung:
 - Korrektur interner Verlinkungen
 - Vereinheitlichung einzelner Begriffe ohne konzeptionelle Änderung
 
----
 
 Version 1.1.1 enthält **keine inhaltliche Erweiterung oder strukturelle Änderung des Framework-Kerns**.  
 Die normative Architektur, Prinzipienlogik und Domänenstruktur bleiben unverändert.
 
----
 
 ## Version 1.1.0
 
@@ -86,7 +81,6 @@ Die normative Architektur, Prinzipienlogik und Domänenstruktur bleiben unverän
 - Klare normative Einordnung von P1 (Wirksamkeit) und P5 (Sicherheitsgrenze)
 - Entfernen redundanter oder überlappender Formulierungen
 
----
 
 ## Version 1.0.0
 

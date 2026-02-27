@@ -1,9 +1,6 @@
 ---
 title: CARE-IT Kern-KPIs
 ---
-
-# CARE-IT Kern-KPIs
-
 ## Zweck
 
 CARE-IT Kern-KPIs sind strategische Reflexionsgrößen.
@@ -19,7 +16,6 @@ Sie beantworten die Frage:
 
 > Funktioniert unsere Führungslogik für digitale Versorgungsinfrastruktur?
 
----
 
 ## Abgrenzung zum Reifegradmodell
 
@@ -38,7 +34,6 @@ Sie:
 Reifegrad ist Entwicklungsorientierung.  
 KPIs sind Selbstbeobachtung der Organisation.
 
----
 
 ## Charakter der KPIs
 
@@ -63,28 +58,26 @@ Beispiele für das, was KPIs sichtbar machen können:
 
 KPIs zeigen, ob Prinzipien praktisch gelebt werden.
 
----
 
 ## KPI-Kategorien
 
 CARE-IT Kern-KPIs lassen sich in vier Kategorien einordnen:
 
-### 1. Wirkungsorientierung
+### Wirkungsorientierung
 Reflektieren, ob klinische Wirksamkeit systematisch adressiert wird.
 
-### 2. Risiko-Transparenz
+### Risiko-Transparenz
 Reflektieren, ob patientenrelevante Risiken explizit bewertet und verantwortet werden.
 
-### 3. Verantwortungs- und Architekturtransparenz
+### Verantwortungs- und Architekturtransparenz
 Reflektieren, ob Systemverbünde dokumentiert und Verantwortlichkeiten klar zugeordnet sind.
 
-### 4. Nachhaltigkeit und Innovationsfähigkeit
+### Nachhaltigkeit und Innovationsfähigkeit
 Reflektieren, ob Lebenszyklus und Weiterentwicklung strukturell geführt werden.
 
 Diese Kategorien orientieren sich indirekt an den Grundprinzipien,
 ohne sie mechanisch zu quantifizieren.
 
----
 
 ## Typische Fehlinterpretationen
 
@@ -100,7 +93,6 @@ Sie sind kein Werkzeug zur Bewertung einzelner Personen oder Teams.
 Werden KPIs als Leistungskennzahlen missverstanden,
 verlieren sie ihren architektonischen Zweck.
 
----
 
 ## Rolle in der Governance
 
@@ -116,7 +108,6 @@ Sie dienen nicht der operativen Steuerung einzelner Projekte,
 sondern der Überprüfung,
 ob CARE-IT als System wirksam bleibt.
 
----
 
 ## Fazit
 

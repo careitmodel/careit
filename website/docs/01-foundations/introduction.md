@@ -2,8 +2,6 @@
 title: Introduction
 ---
 
-# Introduction
-
 Digital systems are now an integral component of patient care.  
 Diagnostics, therapy, documentation, monitoring, and decision support are no longer conceivable without networked information and medical systems.
 
@@ -20,7 +18,6 @@ With this development, the structural reality of healthcare institutions changes
 Digital clinical infrastructure is therefore no longer a supporting element —  
 it has become part of the care architecture itself.
 
----
 
 ## Organizational Challenge
 
@@ -43,7 +40,6 @@ What is often missing is an integrating perspective on the question:
 The challenge is not primarily technological.  
 It is structural and organizational.
 
----
 
 ## Structural Gap
 
@@ -64,7 +60,6 @@ The consequences include:
 - delayed innovation capability,  
 - growing regulatory uncertainty.  
 
----
 
 ## Consequence
 

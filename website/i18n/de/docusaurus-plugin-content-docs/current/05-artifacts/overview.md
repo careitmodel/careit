@@ -2,8 +2,6 @@
 title: Artefakte im CARE-IT Framework
 ---
 
-# Artefakte im CARE-IT Framework
-
 Artefakte bilden die operative Umsetzungsebene von CARE-IT.
 
 Während die Grundprinzipien die normative Richtung definieren  
@@ -13,7 +11,6 @@ machen Artefakte die Architektur im Alltag handlungsfähig.
 Sie sind keine zusätzlichen Dokumentationspflichten,  
 sondern strukturierte Arbeitsinstrumente für Führung, Entscheidung und Betrieb.
 
----
 
 ## Rolle der Artefakte
 
@@ -30,7 +27,6 @@ Artefakte erfüllen drei zentrale Funktionen:
 
 Artefakte sind damit das Bindeglied zwischen Architektur und Praxis.
 
----
 
 ## Warum Artefakte notwendig sind
 
@@ -51,7 +47,6 @@ Ohne strukturierende Instrumente entstehen:
 Artefakte verhindern nicht Komplexität –  
 sie machen sie steuerbar.
 
----
 
 ## Artefakte sind kein Selbstzweck
 
@@ -68,32 +63,30 @@ Artefakte sollen:
 Ein Artefakt ist dann sinnvoll,  
 wenn es eine reale Entscheidungs- oder Steuerungssituation verbessert.
 
----
 
 ## Artefaktklassen
 
 Die CARE-IT Artefakte lassen sich funktional einordnen:
 
-### 1. Bewertungsartefakte  
+### Bewertungsartefakte  
 Strukturieren Nutzen- und Risikoabwägungen  
 (z. B. Impact-Checks)
 
-### 2. Strukturartefakte  
+### Strukturartefakte  
 Machen Systemverbünde und Verantwortungen sichtbar  
 (z. B. Systemverbund-Dokumentation, Rollenmatrix)
 
-### 3. Lebenszyklusartefakte  
+### Lebenszyklusartefakte  
 Sichern nachhaltige Betriebsfähigkeit  
 (z. B. Lebenszyklus-Übersicht)
 
-### 4. Innovationsartefakte  
+### Innovationsartefakte  
 Unterstützen strukturierte Weiterentwicklung  
 (z. B. Innovations-Canvas)
 
 Diese Klassen sind keine Hierarchie,  
 sondern unterschiedliche Perspektiven auf dieselbe Versorgungsrealität.
 
----
 
 ## Artefakte und Domänen
 
@@ -110,7 +103,6 @@ Beispiel:
 
 Artefakte sind damit integrative Werkzeuge.
 
----
 
 ## Minimaler Einstieg
 
@@ -128,7 +120,6 @@ Diese drei Artefakte erzeugen bereits:
 - architektonische Transparenz  
 - strukturelle Verantwortungszuordnung  
 
----
 
 ## Weiterführend
 

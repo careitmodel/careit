@@ -2,8 +2,6 @@
 title: Contact
 ---
 
-# Contact
-
 For professional exchange, feedback, or structured input  
 regarding the development of CARE-IT, you are welcome to get in touch.
 
@@ -13,7 +11,6 @@ info@careitmodel.org
 Conceptual contributions and structured feedback:  
 contribute@careitmodel.org  
 
----
 
 CARE-IT is an independent reference framework.
 

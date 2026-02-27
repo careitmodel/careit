@@ -2,8 +2,6 @@
 title: Impressum
 ---
 
-# Impressum
-
 Angaben gemäß den gesetzlichen Vorschriften der Schweiz (revDSG)  
 und – soweit anwendbar – der Europäischen Union (DSGVO).
 

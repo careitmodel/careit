@@ -1,22 +1,17 @@
 ---
 title: Klinischer Risiko-Impact-Check
 ---
-
-# Klinischer Risiko-Impact-Check
-
 ## Zweck
 
 Der Klinische Risiko-Impact-Check strukturiert die bewusste Bewertung patientenrelevanter Risiken im Zusammenhang mit digitalen Systemen.
 
 Er verhindert implizite Risikoübernahme und schafft Transparenz in sicherheitskritischen Entscheidungsprozessen.
 
----
 
 ## Leitfrage
 
 > Welche patientenrelevanten Risiken entstehen durch dieses System – und wie werden sie bewusst verantwortet?
 
----
 
 ## Strukturelle Wirkung
 
@@ -29,7 +24,6 @@ Der Risiko-Impact-Check:
 
 Er operationalisiert P5 – Patientensicherheit.
 
----
 
 ## Wann wird es angewendet?
 
@@ -39,7 +33,6 @@ Er operationalisiert P5 – Patientensicherheit.
 - Bei Architekturänderungen  
 - Bei erkannten systemischen Risiken  
 
----
 
 ## Typische Fehlanwendungen
 
@@ -48,7 +41,6 @@ Er operationalisiert P5 – Patientensicherheit.
 - Reaktive Nutzung erst nach Zwischenfällen  
 - Fehlende Dokumentation der Risikoentscheidung  
 
----
 
 ## Bezug zu Prinzipien und Domänen
 

@@ -2,8 +2,6 @@
 title: Introduction and Implementation of CARE-IT
 ---
 
-# Introduction and Implementation of CARE-IT
-
 CARE-IT is not a project, not a tool, and not an additional documentation system.
 
 It is a structural governance framework for digital clinical infrastructure.
@@ -11,9 +9,8 @@ It is a structural governance framework for digital clinical infrastructure.
 Its introduction does not occur through rollout,  
 but through the evolution of decision architecture.
 
----
 
-# 1. Starting Point
+## Starting Point
 
 Organizations turn to CARE-IT when they recognize:
 
@@ -26,9 +23,8 @@ Organizations turn to CARE-IT when they recognize:
 CARE-IT does not address isolated symptoms.  
 It addresses the underlying governance logic as a whole.
 
----
 
-# 2. Core Principle: Evolution Instead of Big Bang
+## Core Principle: Evolution Instead of Big Bang
 
 CARE-IT is modular in structure.
 
@@ -48,9 +44,8 @@ These three elements already establish:
 
 Additional elements are introduced incrementally.
 
----
 
-# 3. Institutional Anchoring
+## Institutional Anchoring
 
 CARE-IT requires formal sponsorship.
 
@@ -65,9 +60,8 @@ The organization must clarify:
 Without institutional anchoring, CARE-IT remains methodological —  
 but not effective.
 
----
 
-# 4. Integration into Existing Governance Models
+## Integration into Existing Governance Models
 
 CARE-IT does not replace existing governance structures.
 
@@ -84,9 +78,8 @@ It connects clinical effectiveness, risk, regulatory operator responsibility, ar
 
 It creates coherence between existing systems rather than displacing them.
 
----
 
-# 5. Embedding CARE-IT into Decision Architecture
+## Embedding CARE-IT into Decision Architecture
 
 CARE-IT unfolds its effect where decisions are made.
 
@@ -104,9 +97,8 @@ CARE-IT is implemented
 when decisions are structurally made differently —  
 not when additional documents exist.
 
----
 
-# 6. Organizational Preconditions
+## Organizational Preconditions
 
 Successful implementation requires:
 
@@ -126,9 +118,8 @@ CARE-IT affects:
 It is not an IT project,  
 but an organization-wide structural adjustment.
 
----
 
-# 7. Typical Resistance
+## Typical Resistance
 
 Common reactions include:
 
@@ -147,9 +138,8 @@ Its actual function is to:
 - reduce diffusion of responsibility  
 - ensure long-term structural stability  
 
----
 
-# 8. Maturity as Development
+## Maturity as Development
 
 CARE-IT is not a fixed end state,  
 but a developmental process.
@@ -163,9 +153,8 @@ Organizations may:
 The maturity model serves orientation —  
 not judgment.
 
----
 
-# 9. Long-Term Effect
+## Long-Term Effect
 
 Over time, CARE-IT creates:
 
@@ -177,9 +166,8 @@ Over time, CARE-IT creates:
 Digital clinical infrastructure is no longer merely implemented —  
 it is structurally governed.
 
----
 
-# Conclusion
+## Conclusion
 
 CARE-IT is not implemented by producing artifacts.
 

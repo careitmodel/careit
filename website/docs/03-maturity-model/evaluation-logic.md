@@ -1,8 +1,7 @@
 ---
-title: Evaluation Logic
+title: Evaluation Logic of the CARE-IT Maturity Model
+sidebar_label: Evaluation Logic
 ---
-
-# Evaluation Logic of the CARE-IT Maturity Model
 
 The CARE-IT maturity model does not follow an additive scoring logic.
 
@@ -12,7 +11,6 @@ but the expression of structural stability in relation to the CARE-IT principles
 CARE-IT is not an audit or certification instrument,  
 but a leadership and development model.
 
----
 
 ## Normative Foundation
 
@@ -30,7 +28,6 @@ limits the interpretation of the overall maturity profile.
 Maturity must be interpreted qualitatively, not aggregated additively.  
 CARE-IT explicitly refrains from overall scoring or averaging across principles or domains.
 
----
 
 ## Evaluation Process
 
@@ -50,7 +47,6 @@ not on isolated individual indicators.
 Maturity emerges from structural stability of the organization,  
 not from formal completeness of individual measures.
 
----
 
 ## Maturity Levels – Interpretation Logic
 
@@ -97,7 +93,6 @@ not increasing documentation density or formalization.
 Level 5 does not describe maximum complexity,  
 but maximum structural integration capability.
 
----
 
 ## Handling Heterogeneous Maturity
 
@@ -114,7 +109,6 @@ but a developmental state.
 The goal is not equal distribution of maturity levels,  
 but conscious prioritization aligned with clinical effectiveness and patient safety.
 
----
 
 ## Evaluation Grid (Orientation Tool)
 
@@ -129,7 +123,6 @@ It does not replace expert judgment and involves no numerical weighting.
 | **4 – Governed** | Organization-wide robustness | Responsibility clearly embedded | Predictable and consistent | Systematically traceable |
 | **5 – Integrated** | Sustainably resilient | Cross-level transparency | Continuously refined | Structurally embedded |
 
----
 
 ## Relationship to KPIs
 
@@ -149,7 +142,6 @@ Or:
 Maturity and performance must be considered separately.  
 They complement one another, but do not replace each other.
 
----
 
 ## Character of the Model
 

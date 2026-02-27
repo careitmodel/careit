@@ -2,8 +2,6 @@
 title: Contribute
 ---
 
-# Contribute
-
 CARE-IT is a publicly accessible reference framework.
 
 Professional exchange and structured feedback from practice are explicitly welcome.
@@ -11,7 +9,6 @@ Professional exchange and structured feedback from practice are explicitly welco
 Contribution does not mean unrestricted modification.  
 It means structured refinement within a coherent architectural framework.
 
----
 
 ## Forms of Contribution
 
@@ -25,7 +22,6 @@ Professionals from clinical practice, medical technology, IT, information securi
 
 CARE-IT benefits from interdisciplinary perspective.
 
----
 
 ## Contribution Philosophy
 
@@ -42,7 +38,6 @@ CARE-IT is not a wiki and not consensus-driven.
 
 Conceptual integrity takes precedence over rapid expansion.
 
----
 
 ## Refinement Logic
 
@@ -66,7 +61,6 @@ All proposed refinements are evaluated in relation to:
 
 Changes are incorporated exclusively through official version releases.
 
----
 
 ## How to Contribute
 
@@ -82,7 +76,6 @@ Each contribution should clearly indicate:
 - The intended structural improvement  
 - The rationale for the proposed refinement  
 
----
 
 ## Dialogue, Not Dilution
 
@@ -95,9 +88,8 @@ At the same time, it maintains architectural clarity to avoid conceptual fragmen
 Constructive discourse strengthens the framework.  
 Unstructured modification weakens it.
 
----
 
-# Closing
+## Closing
 
 CARE-IT evolves deliberately.
 

@@ -1,8 +1,7 @@
 ---
-title: Indicators – Principles
+title: Indicators Along the CARE-IT Principles
+sidebar_label: Indicators – Principles
 ---
-
-# Indicators Along the CARE-IT Principles
 
 The following indicators support the structured assessment of the organizational embedding of the eight CARE-IT foundational principles (P1–P8).
 
@@ -13,7 +12,6 @@ They support interdisciplinary, qualitative reflection on structural maturity.
 
 Numerical aggregation is explicitly not intended.
 
----
 
 ## P1 – Clinical Effectiveness
 
@@ -37,7 +35,6 @@ Numerical aggregation is explicitly not intended.
 - Can digital decisions be justified in terms of concrete care impact?  
 - Is impact structurally reviewable, or merely implicitly assumed?  
 
----
 
 ## P2 – Holistic System Responsibility
 
@@ -60,7 +57,6 @@ Numerical aggregation is explicitly not intended.
 - Are dependencies visible before decisions are made?  
 - Is there an explicit overall perspective on care interrelationships?  
 
----
 
 ## P3 – Transparent Allocation of Responsibility
 
@@ -84,7 +80,6 @@ Numerical aggregation is explicitly not intended.
 - Are risk and operational responsibilities explicitly documented?  
 - When problems arise, does the search for responsibility begin?  
 
----
 
 ## P4 – Shared Understandability as a Leadership Principle
 
@@ -107,7 +102,6 @@ Numerical aggregation is explicitly not intended.
 - Are system representations understood across disciplines?  
 - Does a shared conceptual reference framework exist?  
 
----
 
 ## P5 – Patient Safety as a Normative Boundary
 
@@ -130,7 +124,6 @@ Numerical aggregation is explicitly not intended.
 - Is it clearly documented who assumes responsibility for risk decisions?  
 - Are benefit and risk systematically weighed against one another?  
 
----
 
 ## P6 – Lifecycle Sustainability
 
@@ -153,7 +146,6 @@ Numerical aggregation is explicitly not intended.
 - Are end-of-life and migration risks visible?  
 - Is maintainability structurally planned or handled reactively?  
 
----
 
 ## P7 – Information Integrity
 
@@ -176,7 +168,6 @@ Numerical aggregation is explicitly not intended.
 - Is it clear who is responsible for data quality?  
 - Can information inconsistencies be systematically detected?  
 
----
 
 ## P8 – Innovation Capability from the Operator Perspective
 
@@ -199,7 +190,6 @@ Numerical aggregation is explicitly not intended.
 - Is innovation structurally safeguarded or person-dependent?  
 - Does operational stability remain intact despite innovation?  
 
----
 
 ## Application
 

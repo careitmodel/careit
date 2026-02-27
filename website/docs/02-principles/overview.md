@@ -1,8 +1,7 @@
 ---
-title: Foundational Principles
+title: CARE-IT Foundational Principles
+sidebar_label: Foundational Principles
 ---
-
-# CARE-IT Foundational Principles
 
 The foundational principles form the normative center of the CARE-IT framework.
 
@@ -12,7 +11,6 @@ They define the structural conditions under which digital clinical infrastructur
 CARE-IT does not evaluate individual systems.  
 CARE-IT evaluates the ability of an organization to make digital decisions consistently, systemically, and in alignment with clinical effectiveness.
 
----
 
 ## What the Principles Provide
 
@@ -29,7 +27,6 @@ The foundational principles serve three central functions:
 
 Without this normative foundation, tools and processes would remain arbitrary.
 
----
 
 ## Organizational Capability Instead of System Function
 
@@ -46,7 +43,6 @@ CARE-IT therefore shifts the focus:
 - from implementation to impact  
 - from isolated decisions to systemic logic  
 
----
 
 ## Systemic Interdependence of the Principles
 
@@ -62,7 +58,6 @@ The principles form a coherent structural model.
 
 Weakness in one dimension will structurally affect others.
 
----
 
 ## Role Within the Overall Framework
 
@@ -76,7 +71,6 @@ The foundational principles:
 They are therefore not abstract guiding ideas,  
 but a structural governance instrument.
 
----
 
 ## Further Reading
 

@@ -1,8 +1,7 @@
 ---
-title: Bewertungslogik
+title: Bewertungslogik des CARE-IT Reifegradmodells
+sidebar_label: Bewertungslogik
 ---
-
-# Bewertungslogik des CARE-IT Reifegradmodells
 
 Das CARE-IT Reifegradmodell folgt keiner additiven Punktelogik.
 
@@ -12,7 +11,6 @@ sondern Ausdruck struktureller Stabilität in Bezug auf die CARE-IT Prinzipien.
 CARE-IT ist kein Audit- oder Zertifizierungsinstrument,  
 sondern ein Führungs- und Entwicklungsmodell.
 
----
 
 ## Normative Grundlage
 
@@ -30,7 +28,6 @@ begrenzt die Interpretation des Gesamtprofils.
 Reife ist qualitativ zu interpretieren, nicht additiv zu aggregieren.  
 CARE-IT sieht ausdrücklich von einer Gesamtpunktzahl oder Durchschnittsbildung über Prinzipien oder Domänen ab.
 
----
 
 ## Bewertungsprozess
 
@@ -50,7 +47,6 @@ nicht einzelner isolierter Indikatoren.
 Reife entsteht durch Stabilität der Organisationsstruktur,  
 nicht durch formale Vollständigkeit einzelner Maßnahmen.
 
----
 
 ## Reifestufen – Interpretationslogik
 
@@ -97,7 +93,6 @@ nicht zunehmende Dokumentationsdichte oder Formalisierung.
 Stufe 5 beschreibt keine maximale Komplexität,  
 sondern maximale strukturelle Integrationsfähigkeit.
 
----
 
 ## Umgang mit heterogener Reife
 
@@ -114,7 +109,6 @@ sondern einen Entwicklungszustand.
 Ziel ist keine Gleichverteilung der Reifegrade,  
 sondern bewusste Priorisierung entlang klinischer Wirksamkeit und Patientensicherheit.
 
----
 
 ## Bewertungsraster (Orientierungshilfe)
 
@@ -129,7 +123,6 @@ Es ersetzt keine fachliche Bewertung und erfolgt ohne numerische Gewichtung.
 | **4 – Stabil gesteuert** | Organisationsweit belastbar | Verantwortung klar verankert | Vorhersehbar und konsistent | Systematisch nachvollziehbar |
 | **5 – Integriert** | Dauerhaft tragfähig | Ebenenübergreifend transparent | Kontinuierlich weiterentwickelt | Strukturell verankert |
 
----
 
 ## Verhältnis zu KPIs
 
@@ -149,7 +142,6 @@ Oder:
 Reife und Performance sind getrennt zu betrachten.  
 Sie ergänzen sich, ersetzen sich jedoch nicht.
 
----
 
 ## Charakter des Modells
 

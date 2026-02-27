@@ -2,8 +2,6 @@
 title: Privacy Policy
 ---
 
-# Privacy Policy
-
 This Privacy Policy provides information on the processing of personal data in connection with the CARE-IT Framework website.
 
 Data processing is carried out in accordance with:
@@ -11,9 +9,8 @@ Data processing is carried out in accordance with:
 - The revised Swiss Federal Act on Data Protection (revDSG)  
 - The General Data Protection Regulation of the European Union (GDPR), where applicable  
 
----
 
-## 1. Controller
+## Controller
 
 Responsible for data processing:
 
@@ -22,17 +19,15 @@ Address: Ilgenstrasse 10b, 9113 Degersheim
 Country: Switzerland  
 Email: info@careitmodel.org  
 
----
 
-## 2. Purpose of the Website
+## Purpose of the Website
 
 This website serves exclusively for the publication and informational presentation of the CARE-IT Framework.
 
 No user registration, user accounts, or active data collection mechanisms are implemented.
 
----
 
-## 3. Hosting and Server Log Files
+## Hosting and Server Log Files
 
 The website is hosted by a service provider located in the European Union.
 
@@ -51,9 +46,8 @@ This data is processed solely for the purpose of:
 
 Under the GDPR (where applicable), processing is based on Art. 6(1)(f) GDPR (legitimate interest in secure and stable website operation).
 
----
 
-## 4. External Links
+## External Links
 
 This website contains links to external services, in particular GitHub.
 
@@ -61,15 +55,13 @@ When visiting such external services, the respective privacy policies of those p
 
 No automatic transmission of personal data occurs unless external services are actively accessed.
 
----
 
-## 5. Disclosure of Data
+## Disclosure of Data
 
 No personal data is disclosed to third parties for commercial purposes.
 
----
 
-## 6. Rights of Data Subjects
+## Rights of Data Subjects
 
 Within the scope of applicable legal provisions, data subjects have the right to:
 
@@ -81,8 +73,7 @@ Within the scope of applicable legal provisions, data subjects have the right to
 
 Requests may be directed to the contact address listed above.
 
----
 
-## 7. Changes
+## Changes
 
 This Privacy Policy may be updated to reflect legal requirements or changes to the website.

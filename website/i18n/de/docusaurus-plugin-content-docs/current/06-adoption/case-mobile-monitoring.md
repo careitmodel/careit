@@ -1,8 +1,8 @@
 ---
-title: Durchgängiges Anwendungsbeispiel – Mobiles Patientenmonitoring
+title: Durchgängiges Anwendungsbeispiel – Mobile Vitaldatenüberwachung
+sidebar_label: Anwendungsbeispiel
 ---
 
-# Durchgängiges Anwendungsbeispiel  
 ## Einführung eines mobilen Patientenmonitoringsystems
 
 Dieses Beispiel zeigt, wie CARE-IT als zusammenhängendes Steuerungsmodell wirkt.
@@ -15,9 +15,8 @@ sondern das Zusammenspiel von:
 - Reifegradlogik  
 - Kernartefakten  
 
----
 
-# 1. Ausgangssituation
+## Ausgangssituation
 
 Ein Akutspital plant die Einführung eines mobilen Patientenmonitoringsystems zur kontinuierlichen Überwachung auf Normalstationen.
 
@@ -40,9 +39,8 @@ Bereits hier wird deutlich:
 Es handelt sich nicht um ein isoliertes Produkt,
 sondern um einen Systemverbund mit unmittelbarer Versorgungswirkung.
 
----
 
-# 2. Architektonische Einordnung
+## Architektonische Einordnung
 
 ## Systemverbund
 
@@ -65,9 +63,8 @@ nicht als Versorgungsarchitektur.
 
 → Bezug zu P2 / D2
 
----
 
-# 3. Anwendung der Prinzipien
+## Anwendung der Prinzipien
 
 ## P1 – Klinische Wirksamkeit
 
@@ -82,7 +79,6 @@ dass das Projekt primär mit „Digitalisierung“ oder „Innovation“ begrün
 
 → Bezug zu D1
 
----
 
 ## P5 – Patientensicherheit
 
@@ -101,7 +97,6 @@ sondern das Zusammenspiel im Verbund.
 
 → Bezug zu D4
 
----
 
 ## P3 – Verantwortungszuordnung
 
@@ -118,7 +113,6 @@ Ohne explizite Zuordnung entstehen Konflikte bei Störungen oder Updates.
 
 → Bezug zu D3
 
----
 
 ## P6 – Lebenszyklus
 
@@ -135,7 +129,6 @@ Die Lebenszyklus-Übersicht verhindert spätere Betriebsinstabilität.
 
 → Bezug zu D5
 
----
 
 ## P8 – Innovation
 
@@ -151,9 +144,8 @@ Innovation wird damit architekturfähig.
 
 → Bezug zu D6
 
----
 
-# 4. Artefaktlogik im Zusammenspiel
+## Artefaktlogik im Zusammenspiel
 
 Im Projekt wirken die Kernartefakte nicht isoliert:
 
@@ -166,9 +158,8 @@ Im Projekt wirken die Kernartefakte nicht isoliert:
 
 Erst das Zusammenspiel erzeugt Steuerungsfähigkeit.
 
----
 
-# 5. Sichtbarer Mehrwert
+## Sichtbarer Mehrwert
 
 Durch CARE-IT entsteht:
 
@@ -181,9 +172,8 @@ Durch CARE-IT entsteht:
 Das Projekt wird nicht nur technisch umgesetzt,  
 sondern strukturell geführt.
 
----
 
-# 6. Was ohne CARE-IT passiert wäre
+## Was ohne CARE-IT passiert wäre
 
 Ohne strukturellen Rahmen wären typische Szenarien:
 
@@ -197,9 +187,8 @@ Ohne strukturellen Rahmen wären typische Szenarien:
 Das System wäre technisch implementiert –  
 aber organisatorisch nicht stabil geführt.
 
----
 
-# Fazit
+## Fazit
 
 Dieses Beispiel zeigt:
 

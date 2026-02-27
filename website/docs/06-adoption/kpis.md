@@ -1,9 +1,6 @@
 ---
 title: CARE-IT Core KPIs
 ---
-
-# CARE-IT Core KPIs
-
 ## Purpose
 
 CARE-IT Core KPIs are strategic reflection indicators.
@@ -18,7 +15,6 @@ They answer the question:
 
 > Does our governance logic for digital clinical infrastructure function as intended?
 
----
 
 ## Distinction from the Maturity Model
 
@@ -37,7 +33,6 @@ They:
 Maturity describes development orientation.  
 KPIs represent organizational self-observation.
 
----
 
 ## Nature of the KPIs
 
@@ -62,28 +57,26 @@ Examples of what KPIs may make visible:
 
 KPIs reveal whether principles are lived in practice.
 
----
 
 ## KPI Categories
 
 CARE-IT Core KPIs can be grouped into four categories:
 
-### 1. Effectiveness Orientation  
+### Effectiveness Orientation  
 Reflect whether clinical effectiveness is systematically addressed.
 
-### 2. Risk Transparency  
+### Risk Transparency  
 Reflect whether patient-relevant risks are explicitly evaluated and consciously assumed under regulatory operator responsibility.
 
-### 3. Responsibility and Architectural Transparency  
+### Responsibility and Architectural Transparency  
 Reflect whether clinical system constellations are documented and responsibilities clearly allocated.
 
-### 4. Sustainability and Innovation Capability  
+### Sustainability and Innovation Capability  
 Reflect whether lifecycle governance and controlled evolution are structurally managed.
 
 These categories are indirectly aligned with the foundational principles,  
 without mechanically quantifying them.
 
----
 
 ## Typical Misinterpretations
 
@@ -99,7 +92,6 @@ They are not a tool for evaluating individuals or teams.
 If KPIs are misunderstood as performance metrics,  
 they lose their architectural purpose.
 
----
 
 ## Role in Governance
 
@@ -114,7 +106,6 @@ They are:
 They do not steer individual projects operationally.  
 They assess whether CARE-IT as a governance system remains effective.
 
----
 
 ## Conclusion
 

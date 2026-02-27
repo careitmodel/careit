@@ -50,5 +50,7 @@ yarn-error.log*
 # Website build artifacts / working files
 website/framework*.md
 
-# Releases: only track final PDFs if desired
+# Releases: keep repo clean; attach PDFs as GitHub Release assets
 releases/*.pdf
+# PDF build outputs
+pdf/out/

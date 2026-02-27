@@ -1,8 +1,7 @@
 ---
-title: Maturity Model
+title: CARE-IT Maturity Model
+sidebar_label: Maturity Model
 ---
-
-# CARE-IT Maturity Model
 
 The CARE-IT Maturity Model provides a structured assessment of the organizational condition of digital clinical infrastructure.
 
@@ -14,7 +13,6 @@ It describes the degree to which a healthcare provider can implement the CARE-IT
 The objective is not certification,  
 but transparency, prioritization, and targeted structural development.
 
----
 
 ## Normative Foundation
 
@@ -32,13 +30,12 @@ limits the interpretation of the overall maturity profile.
 Maturity must therefore not be understood as additive  
 and must not be interpreted through simple averaging.
 
----
 
 ## Two Perspectives on Maturity
 
 The model considers maturity from two complementary perspectives:
 
-### 1. Principle Maturity
+### Principle Maturity
 
 For each of the eight principles, the degree of structural safeguarding is assessed.
 
@@ -50,9 +47,8 @@ Examples:
 
 Principle maturity describes the normative stability of the organization.
 
----
 
-### 2. Domain Maturity
+### Domain Maturity
 
 The six CARE-IT domains (D1–D6) represent organizational action spaces  
 in which the principles manifest concretely.
@@ -70,7 +66,6 @@ They make visible how and where principles are carried organizationally.
 Principles are the standard.  
 Domains are the observation spaces.
 
----
 
 ## Maturity Levels
 
@@ -99,7 +94,6 @@ not increasing formalization or documentation density.
 Level 5 does not describe maximum complexity,  
 but minimal structural friction combined with high organizational robustness.
 
----
 
 ## Interpretation
 
@@ -123,7 +117,6 @@ but not sustainably stable.
 See for visualization and interpretation:
 - [Graphical Maturity Profile](/maturity-model/profile)
 
----
 
 ## Application
 

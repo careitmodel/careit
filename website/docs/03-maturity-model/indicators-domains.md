@@ -1,8 +1,7 @@
 ---
-title: Indicators – Domains
+title: Indicators Along the CARE-IT Domains
+sidebar_label: Indicators – Domains
 ---
-
-# Indicators Along the CARE-IT Domains
 
 The following indicators support the structured assessment  
 of the organizational configuration of the CARE-IT domains.
@@ -15,7 +14,6 @@ Numerical aggregation is not intended.
 
 Assessment is qualitative, interdisciplinary, and focused on a specific clinical system constellation.
 
----
 
 ## Domain 1 – Clinical Alignment & Benefit Governance
 
@@ -39,7 +37,6 @@ Assessment is qualitative, interdisciplinary, and focused on a specific clinical
 - Is clinical steering structurally safeguarded?  
 - Is care relevance transparently classified?  
 
----
 
 ## Domain 2 – System Architecture & Constellation Governance
 
@@ -63,7 +60,6 @@ Assessment is qualitative, interdisciplinary, and focused on a specific clinical
 - Are infrastructure dependencies transparent?  
 - Are integration consequences systematically considered before decisions?  
 
----
 
 ## Domain 3 – Responsibility & Governance
 
@@ -87,7 +83,6 @@ Assessment is qualitative, interdisciplinary, and focused on a specific clinical
 - Are decision and escalation pathways structurally defined?  
 - Is governance stable or situationally organized?  
 
----
 
 ## Domain 4 – Risk & Patient Safety
 
@@ -111,7 +106,6 @@ Assessment is qualitative, interdisciplinary, and focused on a specific clinical
 - Are residual risks consciously assumed and documented?  
 - Do incidents lead to structural learning?  
 
----
 
 ## Domain 5 – Lifecycle Sustainability & Operational Capability
 
@@ -137,7 +131,6 @@ Assessment is qualitative, interdisciplinary, and focused on a specific clinical
 - Are end-of-life and vendor dependencies visible?  
 - Is recoverability structurally ensured?  
 
----
 
 ## Domain 6 – Innovation Capability & Evolution
 
@@ -162,7 +155,6 @@ Assessment is qualitative, interdisciplinary, and focused on a specific clinical
 - Does the clinical operation remain stable despite innovation?  
 - Are new solutions sustainably embedded into existing structures?  
 
----
 
 ## Application
 

@@ -1,9 +1,6 @@
 ---
-title: Version 1.1.1
----
-
-# CARE-IT Framework – Version 1.1.1
-
+title: CARE-IT Framework – Version 1.2.0
+sidebar_label: Version 1.2.0
 ---
 
 ## Offizieller Release
@@ -11,86 +8,112 @@ title: Version 1.1.1
 Die offizielle Veröffentlichung dieser Version erfolgt über GitHub:
 
 🔗 Release-Seite:  
-https://github.com/careitmodel/careit/releases/tag/v1.1.1
+https://github.com/careitmodel/careit/releases/tag/v1.2.0
 
-📄 PDF-Version (v1.1.1):  
-https://github.com/careitmodel/careit/releases/download/v1.1.1/CARE-IT-v1.1.1.pdf
+📄 PDF-Version (v1.2.0):  
+https://github.com/careitmodel/careit/releases/download/v1.2.0/CARE-IT-v1.2.0.pdf
 
-Der GitHub-Release stellt die historisch fixierte Referenzversion dar.  
-Änderungen am Framework erfolgen ausschließlich über versionierte Folge-Releases.
+Der GitHub-Release-Tag stellt die historisch fixierte Referenzversion dar.
 
----
+Änderungen am Framework erfolgen ausschließlich über versionierte Releases.
 
-## Geltungsbereich dieser Version
+Die englische Version ist die maßgebliche Quelle (Source of Truth).
 
-Version 1.1.1 umfasst:
 
-- Die acht CARE-IT Grundprinzipien (P1–P8)
-- Die sechs Architekturdomainen (D1–D6)
-- Das zweistufige Reifegradmodell (Prinzipien + Domänen)
-- Die indikatorenbasierte Reifegradlogik ohne Punkteaggregation
-- Eine klar abgegrenzte KPI-Logik zur operativen Steuerung
-- Die konsolidierte Artefaktarchitektur
-- Das strukturierte Implementierungsmodell
-- Die visuelle Gesamtarchitektur des Frameworks
+## Geltungsbereich von Version 1.2.0
 
-Diese Version repräsentiert die aktuell gültige Referenzfassung des CARE-IT Modells.
+Version 1.2.0 umfasst:
 
----
+- Die acht CARE-IT Grundprinzipien (P1–P8)  
+- Die sechs Architekturdomainen (D1–D6)  
+- Das zweiperspektivische Reifegradmodell (Prinzipien + Domänen)  
+- Die indikatorbasierte Reifelogik ohne numerische Aggregation  
+- Die konsolidierte Artefaktarchitektur  
+- Die strukturelle Trennung von Adoption Governance und Framework Governance  
+- Das formal definierte Framework-Governance-Modell  
+- Die präzisierte Controlled-Open-Mitwirkungslogik  
+- Das aktualisierte Versionierungs- und Übersetzungs-Governance-Modell  
+- Das durchgängige Anwendungsbeispiel  
+- Die vollständige Glossar- und Referenzstruktur  
 
-## Charakter der Version 1.1.1
+Diese Version stellt die aktuell gültige Referenzausgabe des CARE-IT Frameworks dar.
 
-Version 1.1.1 ist:
 
-- strukturell konsistent  
-- normativ geschärft  
-- architektonisch vollständig  
-- operativ anschlussfähig  
-- Controlled Open veröffentlicht  
+## Charakter von Version 1.2.0
 
-Sie dient als Referenz für:
+Version 1.2.0 ist:
 
-- Praxisanwendung  
-- organisationsweite Implementierung  
-- strukturierte Reifegradentwicklung  
-- wissenschaftliche und regulatorische Einordnung  
+- Architektonisch konsolidiert  
+- Governance-seitig vollständig  
+- Terminologisch harmonisiert  
+- Strukturell stabilisiert  
+- Internationalisiert (englische Master-Version)  
+- Veröffentlicht im Sinne der Controlled-Open-Philosophie  
 
----
+Sie etabliert CARE-IT als gesteuerte Referenzarchitektur  
+für digitale Versorgungsinfrastruktur.
 
-## Änderungen gegenüber Version 1.1.0
 
-Version 1.1.1 ist ein **Patch-Release gemäß semantischer Versionierung** und enthält:
+## Änderungen gegenüber Version 1.1.1
 
-- Korrektur und Konsolidierung der PDF-Fassung  
-- Bereinigung der Inhaltsverzeichnis-Struktur  
-- Verbesserte Formatierung des Glossars  
-- Redaktionelle Präzisierungen ohne Änderung der normativen Architektur  
+Version 1.2.0 ist ein **Minor-Release gemäß semantischer Versionierung** und enthält:
 
-Die inhaltliche und strukturelle Logik des Frameworks bleibt unverändert.
+- Einführung eines formalen Framework-Governance-Modells  
+- Klare Trennung zwischen Framework Governance und Adoption Governance  
+- Formale Definition von Englisch als maßgeblicher Ursprungssprache  
+- Strukturierte Übersetzungs-Governance-Logik  
+- Präzisierte Mitwirkungsphilosophie (Controlled-Open-Modell)  
+- Harmonisierung der Terminologie über Prinzipien, Domänen und Artefakte hinweg  
+- Architektonische Präzisierung von Innovation aus Betreiberperspektive  
+- Strukturelle Neuordnung der Navigations- und Governance-Ebenen  
 
----
+Es wurden keine Grundprinzipien geändert.
 
-## Weiterentwicklung
+Die normative Architektur bleibt stabil.
 
-CARE-IT folgt einem Controlled Open Ansatz.
 
-Erweiterungen, Präzisierungen und strukturelle Anpassungen werden transparent dokumentiert und versioniert veröffentlicht.
+## Versionierungslogik
 
-Versionierung erfolgt gemäß semantischer Logik:
+CARE-IT folgt der semantischen Versionierung:
 
-- **Major** – Paradigmenwechsel oder strukturelle Neudefinition  
-- **Minor** – Erweiterung oder strukturelle Konsolidierung  
-- **Patch** – redaktionelle oder formale Anpassungen  
+- **Major** – Strukturelle Neudefinition oder konzeptioneller Paradigmenwechsel  
+- **Minor** – Architektonische Erweiterung, Governance-Konsolidierung oder strukturelle Verfeinerung  
+- **Patch** – Redaktionelle, formale oder klarstellende Anpassungen ohne normative Wirkung  
 
----
+Die Versionierungslogik ist im Abschnitt Framework Governance definiert.
+
 
 ## Zitierweise
 
-### DOI
-
 CARE-IT ist dauerhaft über Zenodo archiviert.
 
-Concept DOI (alle Versionen):  
-https://doi.org/10.5281/zenodo.18679683
+**Konzept-DOI (alle Versionen):**  
+https://doi.org/10.5281/zenodo.18679683  
 
-Der versionsspezifische DOI für 1.1.1 wird ergänzt, sobald die Archivierung abgeschlossen ist.
+Der Konzept-DOI verweist stets auf die jeweils aktuell veröffentlichte Version von CARE-IT.
+
+Jede offiziell veröffentlichte Version erhält zusätzlich einen **versionsspezifischen DOI**, der auf den exakt archivierten Snapshot dieser Version verweist.
+
+Der versionsspezifische DOI für Version 1.2.0 ist abrufbar über:
+
+- die offizielle GitHub-Release-Seite  
+- die Titelseite der zugehörigen PDF-Version  
+- den entsprechenden Zenodo-Eintrag  
+
+Der GitHub-Release-Tag stellt den maßgeblichen Referenzzustand des Frameworks dar.  
+Das Zenodo-Archiv gewährleistet die langfristige Sicherung und Zitierfähigkeit.
+
+Für wissenschaftliche Zitation wird folgende Form empfohlen:
+
+> CARE-IT Framework. Version 1.2.0.  
+> Controlled Open Release.  
+> DOI: [versionsspezifischer DOI]
+
+Sofern kein versionsspezifischer DOI erforderlich ist, kann für allgemeine Verweise der Konzept-DOI verwendet werden.
+
+
+## Status
+
+Version 1.2.0 stellt eine governance-stabile Baseline für strukturierte Anwendung und wissenschaftliche Referenzierung dar.
+
+Die weitere Entwicklung erfolgt gemäß dem kontrollierten semantischen Versionierungsmodell.

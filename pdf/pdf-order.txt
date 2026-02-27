@@ -1,49 +1,55 @@
-executive-summary.md
+1|01-foundations/executive-summary.md
+1|01-foundations/introduction.md
+2|01-foundations/definition.md
+2|01-foundations/scope.md
+2|01-foundations/controlled-open.md
+1|01-foundations/terminology.md
 
-foundation/introduction.md
-foundation/definition.md
-foundation/scope.md
-foundation/controlled-open.md
+1|02-principles/overview.md
+2|02-principles/p1.md
+2|02-principles/p2.md
+2|02-principles/p3.md
+2|02-principles/p4.md
+2|02-principles/p5.md
+2|02-principles/p6.md
+2|02-principles/p7.md
+2|02-principles/p8.md
 
-principles/overview.md
-principles/p1.md
-principles/p2.md
-principles/p3.md
-principles/p4.md
-principles/p5.md
-principles/p6.md
-principles/p7.md
-principles/p8.md
+1|03-maturity-model/model.md
+2|03-maturity-model/profile.md
+2|03-maturity-model/evaluation-logic.md
+2|03-maturity-model/indicators-principles.md
+2|03-maturity-model/indicators-domains.md
 
-maturity/model.md
-maturity/evaluation-logic.md
-maturity/indicators-principles.md
-maturity/indicators-domains.md
-maturity/profile.md
+1|04-architecture/overview.md
+2|04-architecture/domains.md
+2|04-architecture/domains/d1.md
+2|04-architecture/domains/d2.md
+2|04-architecture/domains/d3.md
+2|04-architecture/domains/d4.md
+2|04-architecture/domains/d5.md
+2|04-architecture/domains/d6.md
+2|04-architecture/reference-clinical-system-constellations.md
 
-architecture/overview.md
-architecture/domains.md
+1|05-artifacts/overview.md
+2|05-artifacts/core-artifacts.md
+2|05-artifacts/impact-check.md
+2|05-artifacts/risk-impact-check.md
+2|05-artifacts/clinical-system-constellation.md
+2|05-artifacts/roles-matrix.md
+2|05-artifacts/lifecycle.md
+2|05-artifacts/innovation-canvas.md
 
-domains/d1.md
-domains/d2.md
-domains/d3.md
-domains/d4.md
-domains/d5.md
-domains/d6.md
+1|06-adoption/implementation-guide.md
+2|06-adoption/kpis.md
+2|06-adoption/case-mobile-monitoring.md
 
-artifacts/overview.md
-artifacts/core-artifacts.md
-artifacts/systembund.md
-artifacts/roles-matrix.md
-artifacts/lifecycle.md
-artifacts/impact-check.md
-artifacts/risk-impact-check.md
-artifacts/innovation-canvas.md
+1|07-framework-governance/governance.md
 
-application/case-mobile-monitoring.md
-application/implementation-guide.md
+1|contribute/how-to-contribute.md
+2|contribute/contact.md
 
-framework/kpis.md
+1|versions/current.md
+2|versions/changelog.md
 
-glossary.md
-references.md
+1|references.md

@@ -2,8 +2,6 @@
 title: CARE-IT Overall Architecture
 ---
 
-# CARE-IT Overall Architecture
-
 Digital clinical infrastructure is not an isolated IT construct.
 
 It is part of clinical care — with direct impact on diagnostics, therapy, documentation, risk, and responsibility structures.
@@ -14,7 +12,6 @@ but a structural leadership and governance model for digital care systems.
 At its center stands clinical care as the objective and reference point.  
 All elements of the framework are aligned to bring clinical effectiveness, safety, stability, and continuous evolution into structural coherence.
 
----
 
 ## Architectural Logic
 
@@ -32,9 +29,8 @@ These layers do not function sequentially, but as a coherent system.
   />
 </div>
 
----
 
-## 1. Foundational Principles (P1–P8)
+## Foundational Principles (P1–P8)
 
 The principles define the normative foundation.
 
@@ -53,9 +49,8 @@ They define the reference framework for all subsequent layers.
 
 → Continue to: [Principles](/principles/overview)
 
----
 
-## 2. Domains (D1–D6)
+## Domains (D1–D6)
 
 The domains structure the essential organizational action spaces.
 
@@ -67,9 +62,8 @@ They are coordinated governance perspectives on the same clinical system landsca
 
 → Continue to: [Domains](/architecture/domains)
 
----
 
-## 3. Maturity Model
+## Maturity Model
 
 The maturity model enables structured development.
 
@@ -88,9 +82,8 @@ but an instrument of organizational development.
 
 → Continue to: [Maturity Model](/maturity-model/model)
 
----
 
-## 4. Artifacts
+## Artifacts
 
 Artifacts represent the operational implementation layer.
 
@@ -111,7 +104,6 @@ but structured thinking and leadership tools.
 
 → Continue to: [Artifacts](/artifacts/overview)
 
----
 
 ## Interaction of the Layers
 
@@ -129,7 +121,6 @@ CARE-IT pursues an overarching objective:
 Digital clinical infrastructure should be governed  
 in a way that consistently integrates clinical reality, responsibility, information integrity, and technology.
 
----
 
 ## Architectural Unit: The Clinical System Constellation
 

@@ -2,8 +2,6 @@
 title: Artifacts in the CARE-IT Framework
 ---
 
-# Artifacts in the CARE-IT Framework
-
 Artifacts represent the operational implementation layer of CARE-IT.
 
 While the foundational principles define the normative direction  
@@ -13,7 +11,6 @@ artifacts make the architecture actionable in everyday leadership and operationa
 They are not additional documentation obligations.  
 They are structured working instruments for governance, decision-making, and operation.
 
----
 
 ## Role of Artifacts
 
@@ -30,7 +27,6 @@ Artifacts fulfill three central functions:
 
 Artifacts therefore form the bridge between architecture and practice.
 
----
 
 ## Why Artifacts Are Necessary
 
@@ -51,7 +47,6 @@ Without structuring instruments, organizations risk:
 Artifacts do not eliminate complexity —  
 they make it governable.
 
----
 
 ## Artifacts Are Not Bureaucracy
 
@@ -67,32 +62,30 @@ Artifacts are designed to:
 
 An artifact is valuable only if it improves a real decision or governance situation.
 
----
 
 ## Classes of Artifacts
 
 CARE-IT artifacts can be grouped functionally:
 
-### 1. Evaluation Artifacts  
+### Evaluation Artifacts  
 Structure benefit–risk deliberations  
 (e.g., Impact Checks)
 
-### 2. Structural Artifacts  
+### Structural Artifacts  
 Make clinical system constellations and responsibilities visible  
 (e.g., Clinical System Constellation Documentation, Responsibility Matrix)
 
-### 3. Lifecycle Artifacts  
+### Lifecycle Artifacts  
 Support sustainable operational capability  
 (e.g., Lifecycle Overview)
 
-### 4. Innovation Artifacts  
+### Innovation Artifacts  
 Enable structured evolution  
 (e.g., Innovation Canvas)
 
 These classes are not hierarchical.  
 They represent different perspectives on the same clinical care reality.
 
----
 
 ## Artifacts and Domains
 
@@ -109,7 +102,6 @@ Example:
 
 Artifacts are therefore integrative instruments.
 
----
 
 ## Minimal Entry Approach
 
@@ -127,7 +119,6 @@ Even this minimal set already creates:
 - architectural transparency  
 - explicit responsibility allocation  
 
----
 
 ## Further Reading
 

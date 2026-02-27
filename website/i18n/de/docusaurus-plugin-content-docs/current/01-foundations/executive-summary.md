@@ -1,8 +1,7 @@
 ---
 title: Executive Summary
+slug: /
 ---
-
-# Executive Summary
 
 Digitale Infrastruktur ist heute geschäftskritisch für Gesundheitseinrichtungen.
 
@@ -26,9 +25,8 @@ Was fehlt, ist ein integrierter Führungsrahmen,
 der klinische Wirkung, Verantwortung,
 Risiko, Betriebsfähigkeit und Innovation zusammenführt.
 
----
 
-## Wofür CARE-IT steht
+### Wofür CARE-IT steht
 
 CARE-IT ist ein Referenzmodell für die Governance
 und Betriebsführung klinisch relevanter digitaler Versorgungsinfrastruktur.
@@ -46,9 +44,8 @@ und kein IT-Service-Management.
 Es integriert bestehende Anforderungen
 in eine klinisch anschlussfähige Steuerungslogik.
 
----
 
-## Strategischer Nutzen für die Führung
+### Strategischer Nutzen für die Führung
 
 CARE-IT unterstützt Führungsebenen dabei,
 
@@ -61,9 +58,8 @@ CARE-IT unterstützt Führungsebenen dabei,
 Das Framework liefert keine isolierten Prozessvorgaben,
 sondern eine konsistente Entscheidungsarchitektur.
 
----
 
-## Struktur des Frameworks
+### Struktur des Frameworks
 
 CARE-IT basiert auf:
 
@@ -76,9 +72,8 @@ Diese Elemente ermöglichen eine systematische Weiterentwicklung
 digitaler Versorgungsinfrastruktur
 ohne organisatorische Überforderung.
 
----
 
-## Innovationsverständnis
+### Innovationsverständnis
 
 Innovation im Gesundheitswesen bedeutet nicht,
 möglichst viele neue Technologien einzuführen.
@@ -89,9 +84,8 @@ sicher und nachhaltig in den bestehenden Versorgungsbetrieb zu überführen.
 
 CARE-IT macht diese Fähigkeit bewertbar und steuerbar.
 
----
 
-## Zusammenfassung
+### Zusammenfassung
 
 Digitale Infrastruktur im Gesundheitswesen ist kein IT-Thema,
 sondern ein Führungs- und Verantwortungs­thema.

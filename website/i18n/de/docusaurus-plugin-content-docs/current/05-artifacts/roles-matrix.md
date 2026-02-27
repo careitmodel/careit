@@ -1,22 +1,17 @@
 ---
 title: Rollen- und Verantwortungsmatrix
 ---
-
-# Rollen- und Verantwortungsmatrix
-
 ## Zweck
 
 Die Rollen- und Verantwortungsmatrix schafft explizite Transparenz darüber, wer für klinische Wirkung, Betrieb und Risiko verantwortlich ist.
 
 Sie verhindert Verantwortungsdiffusion.
 
----
 
 ## Leitfrage
 
 > Wer trägt für dieses System welche Form von Verantwortung?
 
----
 
 ## Strukturelle Wirkung
 
@@ -29,7 +24,6 @@ Die Matrix:
 
 Sie operationalisiert P3 – Transparente Verantwortungszuordnung.
 
----
 
 ## Wann wird es angewendet?
 
@@ -39,7 +33,6 @@ Sie operationalisiert P3 – Transparente Verantwortungszuordnung.
 - Bei Eskalationsklärungen  
 - Bei Audit- oder Reviewprozessen  
 
----
 
 ## Typische Fehlanwendungen
 
@@ -48,7 +41,6 @@ Sie operationalisiert P3 – Transparente Verantwortungszuordnung.
 - Unklare Eskalationswege  
 - Personenabhängige Zuständigkeiten  
 
----
 
 ## Bezug zu Prinzipien und Domänen
 

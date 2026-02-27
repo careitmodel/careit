@@ -2,15 +2,12 @@
 title: Scope
 ---
 
-# Scope
-
 CARE-IT defines the application domain of a governance and operational management model for digital clinical infrastructure.
 
 The scope clarifies which systems, decisions, and organizational levels are covered by the framework — and which are not.
 
----
 
-## 1. Within Scope
+## Within Scope
 
 CARE-IT applies to digital systems that:
 
@@ -30,9 +27,8 @@ This includes, in particular:
 
 CARE-IT does not evaluate the individual product, but the **clinical system constellation** in which it becomes effective.
 
----
 
-## 2. Outside Scope
+## Outside Scope
 
 CARE-IT is not:
 
@@ -47,9 +43,8 @@ CARE-IT does not replace existing frameworks or regulations.
 
 It addresses the structural governance logic above these layers.
 
----
 
-## 3. Organizational Level
+## Organizational Level
 
 CARE-IT operates at the level of:
 
@@ -64,9 +59,8 @@ It is not a purely technical framework.
 
 It is an organization-wide governance model for digital clinical infrastructure.
 
----
 
-## 4. Decision Level
+## Decision Level
 
 CARE-IT primarily addresses decisions related to:
 
@@ -80,9 +74,8 @@ CARE-IT primarily addresses decisions related to:
 
 The scope ends where digital systems do not exert clinical relevance.
 
----
 
-## 5. Context Dependence
+## Context Dependence
 
 CARE-IT is scalable.
 
@@ -97,7 +90,6 @@ The depth of application depends on context.
 
 The normative core remains unchanged.
 
----
 
 CARE-IT does not define every detail of implementation.
 

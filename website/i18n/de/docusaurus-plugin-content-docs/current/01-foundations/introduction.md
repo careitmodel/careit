@@ -1,9 +1,6 @@
 ---
 title: Einleitung
-slug: /
 ---
-
-# Einleitung
 
 Digitale Systeme sind heute integraler Bestandteil der Patientenversorgung.  
 Diagnostik, Therapie, Dokumentation, Überwachung und Entscheidungsunterstützung sind ohne vernetzte Informations- und Medizinsysteme nicht mehr denkbar.
@@ -21,7 +18,6 @@ Mit dieser Entwicklung verändert sich die strukturelle Realität von Gesundheit
 Digitale Infrastruktur ist damit kein unterstützendes Element mehr –  
 sie ist Teil der Versorgungsarchitektur selbst.
 
----
 
 ## Organisationale Herausforderung
 
@@ -44,7 +40,6 @@ Was häufig fehlt, ist eine integrierende Perspektive auf die Frage:
 Die Herausforderung ist nicht primär technologisch.  
 Sie ist strukturell und organisatorisch.
 
----
 
 ## Strukturelle Lücke
 
@@ -66,7 +61,6 @@ Die Folge sind:
 - verzögerte Innovationsfähigkeit,  
 - steigende regulatorische Unsicherheit.  
 
----
 
 ## Konsequenz
 

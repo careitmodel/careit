@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'CARE-IT Framework',
-  tagline: 'Governance für digitale Versorgungsinfrastruktur',
+  tagline: 'Governance for Digital Clinical Infrastructure',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -29,10 +29,10 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'careitmodel', // Usually your GitHub org/user name.
-  projectName: 'https://github.com/careitmodel/careit.git', // Usually your repo name.
+  projectName: 'careit', // Usually your repo name.
 
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -50,6 +50,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
           routeBasePath: '/', // Optional: Docs direkt auf Root statt /docs
+          editUrl: 'https://github.com/careitmodel/careit/tree/main/website/'
         },
         blog: false,
         theme: {
@@ -80,9 +81,10 @@ const config = {
         position: 'left',
         label: 'CARE-IT',
       },
+      { type: 'localeDropdown', position: 'right' },
           //{to: '/blog', label: 'Blog', position: 'left'},
       {
-        href: 'https://github.com/facebook/docusaurus',
+        href: 'https://github.com/careitmodel/careit',
         label: 'GitHub',
         position: 'right',
       },
@@ -122,7 +124,7 @@ const config = {
         items: [
           { label: 'How to Contribute', to: '/contribute/how-to-contribute' },
           { label: 'Contact', to: '/contribute/contact' },
-          { label: 'GitHub', href: 'https://github.com/careitmodel/careit.git' },
+          { label: 'GitHub', href: 'https://github.com/careitmodel/careit' },
           ],
       },
       {

@@ -2,8 +2,6 @@
 title: Graphical Maturity Profile
 ---
 
-# Graphical Maturity Profile
-
 The graphical maturity profile visualizes the structural maturity of the CARE-IT foundational principles (P1–P8) and, optionally, the domains (D1–D6).
 
 It is not a score.  
@@ -12,9 +10,8 @@ It is not a certification representation.
 
 It makes structural tensions, inconsistencies, and development areas visible.
 
----
 
-## 1. Principle Profile (P1–P8)
+## Principle Profile (P1–P8)
 
 ### Example Visualization
 
@@ -35,7 +32,6 @@ Low maturity in safety-critical principles
 (for example P5 – Patient Safety)  
 limits the interpretation of the overall profile.
 
----
 
 ### Interpretation of the Principle Profile
 
@@ -50,9 +46,8 @@ A maturity profile makes visible:
 The profile supports prioritization —  
 not classification as “good” or “bad.”
 
----
 
-## 2. Domain Profile (D1–D6)
+## Domain Profile (D1–D6)
 
 In addition to principles, maturity can be visualized at the domain level.
 
@@ -72,9 +67,8 @@ indicates implementation gaps.
 A strong domain profile combined with weak principle maturity  
 may indicate formal structure without normative clarity.
 
----
 
-## 3. Current / Target Profile
+## Current / Target Profile
 
 ### Example Comparison
 
@@ -98,9 +92,8 @@ The target profile is not an idealized maximum state.
 It represents a realistically intended maturity level  
 within the context of clinical mandate, risk exposure, and available resources.
 
----
 
-## 4. Heterogeneous Maturity Is Normal
+## Heterogeneous Maturity Is Normal
 
 Different maturity levels across principles or domains  
 are not errors, but reflections of organizational reality.
@@ -115,9 +108,8 @@ The goal is not equalization,
 but conscious governance aligned with clinical effectiveness  
 and patient safety.
 
----
 
-## 5. Workshop Application
+## Workshop Application
 
 The maturity profile is typically:
 
@@ -133,9 +125,8 @@ Recommended sequence:
 3. Identify structural tensions  
 4. Derive prioritized development measures  
 
----
 
-## 6. Methodological Notes
+## Methodological Notes
 
 - No point aggregation  
 - No averages  

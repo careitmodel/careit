@@ -2,8 +2,6 @@
 title: Grafisches Reifeprofil
 ---
 
-# Grafisches Reifeprofil
-
 Das grafische Reifeprofil visualisiert die strukturelle Reifeausprägung
 der CARE-IT Grundprinzipien (P1–P8) sowie optional der Domänen (D1–D6).
 
@@ -13,9 +11,8 @@ Es ist keine Zertifizierungsdarstellung.
 
 Es macht strukturelle Spannungen, Inkonsistenzen und Entwicklungsfelder sichtbar.
 
----
 
-# 1. Prinzipienprofil (P1–P8)
+## Prinzipienprofil (P1–P8)
 
 ## Beispielhafte Darstellung
 
@@ -37,7 +34,6 @@ Eine niedrige Ausprägung in sicherheitskritischen Prinzipien
 (z. B. P5 – Patientensicherheit)
 begrenzt die Interpretation des Gesamtbildes.
 
----
 
 ## Interpretation des Prinzipienprofils
 
@@ -52,9 +48,8 @@ Ein Reifeprofil macht sichtbar:
 Das Profil dient der Priorisierung –
 nicht der Bewertung im Sinne von „gut“ oder „schlecht“.
 
----
 
-# 2. Domänenprofil (D1–D6)
+## Domänenprofil (D1–D6)
 
 Neben den Prinzipien kann Reife auch domänenbezogen visualisiert werden.
 
@@ -74,9 +69,8 @@ weist auf Umsetzungsdefizite hin.
 Ein starkes Domänenprofil bei schwacher Prinzipienreife
 kann auf formale Struktur ohne normative Klarheit hindeuten.
 
----
 
-# 3. Ist-/Soll-Profil
+## Ist-/Soll-Profil
 
 ## Beispielhafte Gegenüberstellung
 
@@ -100,9 +94,8 @@ Das Soll-Profil ist kein Idealzustand,
 sondern ein realistisch angestrebter Zielzustand
 im Kontext von Versorgungsauftrag, Risikoexposition und Ressourcen.
 
----
 
-# 4. Heterogene Reife ist normal
+## Heterogene Reife ist normal
 
 Unterschiedliche Reifegrade zwischen Prinzipien oder Domänen
 sind kein Fehler, sondern Ausdruck organisatorischer Realität.
@@ -117,9 +110,8 @@ Ziel ist nicht Gleichverteilung,
 sondern bewusste Steuerung entlang klinischer Wirksamkeit
 und Patientensicherheit.
 
----
 
-# 5. Anwendung im Workshop
+## Anwendung im Workshop
 
 Das Reifeprofil wird typischerweise:
 
@@ -135,9 +127,8 @@ Empfohlene Reihenfolge:
 3. Spannungen identifizieren  
 4. Priorisierte Maßnahmen ableiten  
 
----
 
-# 6. Methodische Hinweise
+## Methodische Hinweise
 
 - Keine Punkteaggregation  
 - Keine Durchschnittswerte  
@@ -150,7 +141,6 @@ nicht die Höhe der dargestellten Fläche.
 Reife beschreibt strukturelle Tragfähigkeit –
 nicht Performance.
 
----
 
 ## Weiterführend
 

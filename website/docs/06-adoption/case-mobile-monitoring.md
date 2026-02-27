@@ -1,8 +1,8 @@
 ---
 title: End-to-End Example – Mobile Patient Monitoring
+sidebar_label: End-to-End Example
 ---
 
-# End-to-End Example  
 ## Introduction of a Mobile Patient Monitoring System
 
 This example demonstrates how CARE-IT functions as a coherent governance model.
@@ -15,9 +15,8 @@ but the interaction of:
 - Maturity Logic  
 - Core Artifacts  
 
----
 
-# 1. Initial Situation
+## Initial Situation
 
 An acute care hospital plans to introduce a mobile patient monitoring system for continuous surveillance on general wards.
 
@@ -40,9 +39,8 @@ It becomes immediately clear:
 This is not an isolated product,  
 but a clinical system constellation with direct impact on care delivery.
 
----
 
-# 2. Architectural Positioning
+## Architectural Positioning
 
 ## Clinical System Constellation
 
@@ -65,9 +63,8 @@ rather than as care architecture.
 
 → Reference to P2 / D2
 
----
 
-# 3. Application of the Principles
+## Application of the Principles
 
 ## P1 – Clinical Effectiveness
 
@@ -81,7 +78,6 @@ The Clinical Impact Check prevents the project from being justified primarily by
 
 → Reference to D1
 
----
 
 ## P5 – Patient Safety as Normative Boundary
 
@@ -102,7 +98,6 @@ Risk decisions are consciously taken under regulatory operator responsibility.
 
 → Reference to D4
 
----
 
 ## P3 – Transparent Allocation of Responsibility
 
@@ -119,7 +114,6 @@ Without explicit allocation, conflicts arise during incidents or updates.
 
 → Reference to D3
 
----
 
 ## P6 – Sustainable Operational Capability
 
@@ -136,7 +130,6 @@ The Lifecycle Overview prevents future operational instability.
 
 → Reference to D5
 
----
 
 ## P8 – Innovation Capability from an Operator Perspective
 
@@ -153,9 +146,8 @@ Innovation thus becomes architecturally governable.
 
 → Reference to D6
 
----
 
-# 4. Interaction of Core Artifacts
+## Interaction of Core Artifacts
 
 Within the project, core artifacts do not operate in isolation:
 
@@ -168,9 +160,8 @@ Within the project, core artifacts do not operate in isolation:
 
 Only their interaction creates governance capability.
 
----
 
-# 5. Visible Added Value
+## Visible Added Value
 
 Through CARE-IT, the organization achieves:
 
@@ -183,9 +174,8 @@ Through CARE-IT, the organization achieves:
 The project is not merely technically implemented —  
 it is structurally governed.
 
----
 
-# 6. What Would Likely Happen Without CARE-IT
+## What Would Likely Happen Without CARE-IT
 
 Without a structural framework, typical scenarios might include:
 
@@ -199,9 +189,8 @@ Without a structural framework, typical scenarios might include:
 The system would be technically implemented —  
 but organizationally unstable.
 
----
 
-# Conclusion
+## Conclusion
 
 This example demonstrates:
 

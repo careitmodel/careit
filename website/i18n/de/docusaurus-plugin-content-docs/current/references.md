@@ -2,14 +2,11 @@
 title: Literatur & Referenzen
 ---
 
-# Literatur & Referenzen
-
 Das CARE-IT Framework ist kein regulatorischer Standard und kein Ersatz für gesetzliche Anforderungen.  
 Es steht jedoch im fachlichen Kontext bestehender regulatorischer, normativer und methodischer Rahmenwerke.
 
 Die folgenden Referenzen bilden den fachlichen Hintergrund für Governance, Risikobewertung, Lebenszyklusführung und Betrieb digitaler Versorgungsinfrastruktur.
 
----
 
 ## Europäische Regulierung
 
@@ -25,7 +22,6 @@ CARE-IT bezieht sich insbesondere auf:
 - Betreiberverantwortung
 - Dokumentations- und Nachweispflichten
 
----
 
 ### MDCG Guidance Documents (Medical Device Coordination Group)
 
@@ -40,7 +36,6 @@ Besonders relevant im Kontext digitaler Versorgungsinfrastruktur:
 
 Diese Dokumente konkretisieren regulatorische Erwartungen bei Integration, Interoperabilität und Systemverantwortung.
 
----
 
 ## Schweizer Regulierung
 
@@ -57,7 +52,6 @@ Die MepV regelt:
 
 CARE-IT ist mit den regulatorischen Anforderungen der MepV kompatibel, ersetzt jedoch keine rechtliche Bewertung.
 
----
 
 ## Normative Grundlagen
 
@@ -74,7 +68,6 @@ Relevanz für CARE-IT:
 
 CARE-IT erweitert die produktbezogene Logik von ISO 14971 auf systemische und organisatorische Zusammenhänge im Versorgungsbetrieb.
 
----
 
 ### ISO/IEC 62304 – Medical device software — Software life cycle processes
 
@@ -87,7 +80,6 @@ Bezug zu CARE-IT:
 - Dokumentation
 - Versionsführung
 
----
 
 ### ISO/IEC 27001 – Information security management systems
 
@@ -95,7 +87,6 @@ Norm für Informationssicherheits-Managementsysteme.
 
 CARE-IT integriert Informationssicherheitsanforderungen als Bestandteil der patientenrelevanten Risikobetrachtung, beschränkt sich jedoch nicht auf IT-Sicherheitsaspekte.
 
----
 
 ## Validierung & Betrieb
 
@@ -112,7 +103,6 @@ Relevanz:
 
 CARE-IT versteht Validierung als Teil der strukturellen Betriebsverantwortung.
 
----
 
 ### GAMP 5 – Good Automated Manufacturing Practice
 
@@ -124,7 +114,6 @@ Insbesondere relevant bei:
 - Integrationsszenarien
 - Dokumentationsanforderungen
 
----
 
 ## Interoperabilität & Systemverbünde
 
@@ -138,7 +127,6 @@ Relevanz für CARE-IT:
 - Schnittstellenklarheit
 - Systemübergreifende Konsistenz
 
----
 
 ## Organisations- und Governance-Kontext
 
@@ -148,7 +136,6 @@ Framework für IT-Service-Management.
 
 CARE-IT grenzt sich von ITIL ab, erweitert dessen Perspektive jedoch um klinische Wirksamkeit, Patientensicherheit und systemische Versorgungslogik.
 
----
 
 ## Einordnung
 
@@ -165,7 +152,6 @@ Es dient als:
 - Organisationsentwicklungsinstrument,
 - Integrationslogik zwischen klinischer Versorgung und digitaler Infrastruktur.
 
----
 
 ## Hinweis zur Versionierung
 

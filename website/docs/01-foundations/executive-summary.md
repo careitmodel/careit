@@ -3,8 +3,6 @@ title: Executive Summary
 slug: /
 ---
 
-# Executive Summary
-
 Digital clinical infrastructure is now business-critical for healthcare institutions.
 
 Networked medical devices, clinical applications, integration platforms, and data architectures directly influence patient safety, quality of care, operational stability, and liability exposure.
@@ -20,9 +18,8 @@ Existing models address partial aspects:
 
 What is missing is an integrated governance framework that brings together clinical effectiveness, responsibility allocation, risk management, operational sustainability, and innovation capability.
 
----
 
-## What CARE-IT Represents
+### What CARE-IT Represents
 
 CARE-IT is a reference model for the governance and operational management of clinically relevant digital clinical infrastructure.
 
@@ -39,9 +36,8 @@ and does not replace IT service management.
 It integrates existing requirements  
 into a clinically aligned governance logic.
 
----
 
-## Strategic Value for Leadership
+### Strategic Value for Leadership
 
 CARE-IT supports leadership levels in:
 
@@ -54,9 +50,8 @@ CARE-IT supports leadership levels in:
 The framework does not provide isolated process prescriptions,  
 but a coherent decision architecture.
 
----
 
-## Framework Structure
+### Framework Structure
 
 CARE-IT is based on:
 
@@ -68,9 +63,8 @@ CARE-IT is based on:
 Together, these elements enable the systematic evolution of digital clinical infrastructure  
 without creating organizational overload.
 
----
 
-## Understanding Innovation
+### Understanding Innovation
 
 Innovation in healthcare does not mean introducing as many new technologies as possible.
 
@@ -78,9 +72,8 @@ Innovation means repeatedly integrating appropriate new solutions into the exist
 
 CARE-IT makes this innovation capability assessable and governable.
 
----
 
-## Summary
+### Summary
 
 Digital clinical infrastructure in healthcare is not an IT issue.  
 It is a leadership and accountability issue.

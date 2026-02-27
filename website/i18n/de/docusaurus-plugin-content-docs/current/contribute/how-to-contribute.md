@@ -2,8 +2,6 @@
 title: Mitwirkung
 ---
 
-# Mitwirkung
-
 CARE-IT versteht sich als öffentlich zugängliches Referenzmodell.
 
 Fachlicher Austausch und Rückmeldungen aus der Praxis
@@ -13,7 +11,6 @@ Mitwirkung bedeutet dabei nicht
 beliebige Veränderung,
 sondern strukturierte Weiterentwicklung.
 
----
 
 ## Formen der Mitwirkung
 
@@ -27,7 +24,6 @@ können CARE-IT unterstützen durch:
 - Erfahrungsberichte aus der Anwendung  
 - konzeptionelle Verbesserungsvorschläge  
 
----
 
 ## Weiterentwicklungslogik
 
@@ -41,7 +37,6 @@ Ziel ist eine stabile,
 nachvollziehbare Weiterentwicklung
 ohne konzeptionelle Beliebigkeit.
 
----
 
 ## Einladung zum Diskurs
 

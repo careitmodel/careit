@@ -1,22 +1,17 @@
 ---
 title: Clinical Impact Check
 ---
-
-# Clinical Impact Check
-
 ## Purpose
 
 The Clinical Impact Check structures the explicit justification of digital decisions from the perspective of clinical effectiveness.
 
 It prevents technology-driven investments and establishes a traceable connection between a system and its intended care objective.
 
----
 
 ## Guiding Question
 
 > What concrete contribution does this system make to improving clinical care?
 
----
 
 ## Structural Effect
 
@@ -32,7 +27,6 @@ It operationalizes P1 – Clinical Effectiveness.
 
 Without this artifact, “benefit” often remains implicit, assumed, or rhetorically asserted.
 
----
 
 ## When Is It Applied?
 
@@ -45,7 +39,6 @@ Without this artifact, “benefit” often remains implicit, assumed, or rhetori
 The Clinical Impact Check is not a project form.  
 It is a governance instrument.
 
----
 
 ## Typical Misapplications
 
@@ -57,7 +50,6 @@ It is a governance instrument.
 The Clinical Impact Check does not replace clinical expertise —  
 it structures it.
 
----
 
 ## Relation to Principles and Domains
 

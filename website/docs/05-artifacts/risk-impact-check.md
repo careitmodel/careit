@@ -1,9 +1,6 @@
 ---
 title: Clinical Risk Impact Check
 ---
-
-# Clinical Risk Impact Check
-
 ## Purpose
 
 The Clinical Risk Impact Check structures the deliberate evaluation of patient-relevant risks associated with digital systems.
@@ -12,13 +9,11 @@ It prevents implicit risk acceptance and creates transparency in safety-critical
 
 The artifact ensures that regulatory operator responsibility (healthcare provider accountability) is consciously exercised when risk-relevant decisions are made.
 
----
 
 ## Guiding Question
 
 > What patient-relevant risks arise from this system — and how are they consciously assumed and governed?
 
----
 
 ## Structural Effect
 
@@ -34,7 +29,6 @@ It operationalizes P5 – Patient Safety as Normative Boundary.
 
 Without this artifact, risk is often managed operationally but not consciously governed.
 
----
 
 ## When Is It Applied?
 
@@ -48,7 +42,6 @@ Without this artifact, risk is often managed operationally but not consciously g
 The Clinical Risk Impact Check is not a technical checklist.  
 It is a governance-level risk decision instrument.
 
----
 
 ## Typical Misapplications
 
@@ -61,7 +54,6 @@ It is a governance-level risk decision instrument.
 Regulatory compliance is necessary but not sufficient for patient safety.  
 Patient safety requires explicit organizational risk decisions.
 
----
 
 ## Relation to Principles and Domains
 

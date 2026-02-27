@@ -1,8 +1,15 @@
 from: markdown
 to: pdf
-pdf-engine: xelatex
-toc: true
-toc-depth: 1
+#pdf-engine: xelatex
+pdf-engine: latexmk
+pdf-engine-opts:
+  - -xelatex
+  - -interaction=nonstopmode
+
+# If your makepdf.sh already passes --toc, keep this false/omitted here.
+# toc: true
+toc-depth: 2
+
 number-sections: true
 top-level-division: chapter
 
@@ -12,7 +19,6 @@ variables:
     - openany
     - oneside
   fontsize: 11pt
-  lang: de-CH
   geometry: a4paper,margin=25mm
   colorlinks: true
   linkcolor: careitblue

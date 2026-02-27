@@ -1,6 +1,6 @@
 {
   "link.title.Start": {
-    "message": "Start",
+    "message": "Einstieg",
     "description": "The title of the footer links column with title=Start in the footer"
   },
   "link.title.Framework": {
@@ -8,15 +8,15 @@
     "description": "The title of the footer links column with title=Framework in the footer"
   },
   "link.title.Adoption": {
-    "message": "Adoption",
+    "message": "Anwendung",
     "description": "The title of the footer links column with title=Adoption in the footer"
   },
   "link.title.Contribute": {
-    "message": "Contribute",
+    "message": "Mitwirken",
     "description": "The title of the footer links column with title=Contribute in the footer"
   },
   "link.title.Legal": {
-    "message": "Legal",
+    "message": "Rechtliches",
     "description": "The title of the footer links column with title=Legal in the footer"
   },
   "link.item.label.Definition": {
@@ -24,7 +24,7 @@
     "description": "The label of footer link with label=Definition linking to /foundations/definition"
   },
   "link.item.label.Scope": {
-    "message": "Scope",
+    "message": "Geltungsbereich",
     "description": "The label of footer link with label=Scope linking to /foundations/scope"
   },
   "link.item.label.Controlled Open": {
@@ -32,43 +32,43 @@
     "description": "The label of footer link with label=Controlled Open linking to /foundations/controlled-open"
   },
   "link.item.label.Versions": {
-    "message": "Versions",
+    "message": "Versionen",
     "description": "The label of footer link with label=Versions linking to /versions/current"
   },
   "link.item.label.Principles": {
-    "message": "Principles",
+    "message": "Prinzipien",
     "description": "The label of footer link with label=Principles linking to /principles/overview"
   },
   "link.item.label.Architecture": {
-    "message": "Architecture",
+    "message": "Architektur",
     "description": "The label of footer link with label=Architecture linking to /architecture/overview"
   },
   "link.item.label.Maturity Model": {
-    "message": "Maturity Model",
+    "message": "Reifegradmodell",
     "description": "The label of footer link with label=Maturity Model linking to /maturity-model/model"
   },
   "link.item.label.Artifacts": {
-    "message": "Artifacts",
+    "message": "Artefakte",
     "description": "The label of footer link with label=Artifacts linking to /artifacts/overview"
   },
   "link.item.label.Case: Mobile Monitoring": {
-    "message": "Case: Mobile Monitoring",
+    "message": "Fallbeispiel: Mobiles Monitoring",
     "description": "The label of footer link with label=Case: Mobile Monitoring linking to /adoption/case-mobile-monitoring"
   },
   "link.item.label.Implementation Guide": {
-    "message": "Implementation Guide",
+    "message": "Implementierungsleitfaden",
     "description": "The label of footer link with label=Implementation Guide linking to /adoption/implementation-guide"
   },
   "link.item.label.Adoption KPIs": {
-    "message": "Adoption KPIs",
+    "message": "Anwendungs-KPIs",
     "description": "The label of footer link with label=Adoption KPIs linking to /adoption/kpis"
   },
   "link.item.label.How to Contribute": {
-    "message": "How to Contribute",
+    "message": "Einladung",
     "description": "The label of footer link with label=How to Contribute linking to /contribute/how-to-contribute"
   },
   "link.item.label.Contact": {
-    "message": "Contact",
+    "message": "Kontakt",
     "description": "The label of footer link with label=Contact linking to /contribute/contact"
   },
   "link.item.label.GitHub": {
@@ -76,11 +76,11 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/careitmodel/careit.git"
   },
   "link.item.label.Imprint": {
-    "message": "Imprint",
+    "message": "Impressum",
     "description": "The label of footer link with label=Imprint linking to /legal/imprint"
   },
   "link.item.label.Privacy": {
-    "message": "Privacy",
+    "message": "Datenschutzerklärung",
     "description": "The label of footer link with label=Privacy linking to /legal/privacy"
   },
   "copyright": {

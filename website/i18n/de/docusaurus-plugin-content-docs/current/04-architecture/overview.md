@@ -2,8 +2,6 @@
 title: CARE-IT Gesamtarchitektur
 ---
 
-# CARE-IT Gesamtarchitektur
-
 Digitale Versorgungsinfrastruktur ist kein isoliertes IT-Konstrukt.
 
 Sie ist Teil der klinischen Versorgung – mit unmittelbarer Wirkung auf Diagnostik, Therapie, Dokumentation, Risiko und Verantwortungsstrukturen.
@@ -15,9 +13,8 @@ Im Zentrum steht die klinische Versorgung als Ziel- und Referenzpunkt.
 Alle Elemente des Frameworks sind darauf ausgerichtet, Versorgungswirksamkeit, Sicherheit, Stabilität und Weiterentwicklung in Einklang zu bringen.
 
 
----
 
-# Architekturlogik
+## Architekturlogik
 
 Die CARE-IT Architektur basiert auf vier miteinander verknüpften Ebenen.
 
@@ -33,11 +30,10 @@ Diese Ebenen wirken nicht sequenziell, sondern als zusammenhängendes System.
   />
 </div>
 
----
 
 
 
-## 1. Grundprinzipien (P1–P8)
+## Grundprinzipien (P1–P8)
 
 Die Grundprinzipien definieren die normative Grundlage.
 
@@ -58,9 +54,8 @@ Sie definieren die Referenzgröße aller weiteren Ebenen.
 
 → Weiter zu: [Grundprinzipien](/principles/overview)
 
----
 
-## 2. Domänen (D1–D6)
+## Domänen (D1–D6)
 
 Die Domänen strukturieren die wesentlichen Handlungsfelder der Organisation.
 
@@ -72,9 +67,8 @@ Sie sind koordinierte Steuerungsperspektiven auf dieselbe klinische Systemlandsc
 
 → Weiter zu: [Domänen](/architecture/domains)
 
----
 
-## 3. Reifegradmodell
+## Reifegradmodell
 
 Das Reifegradmodell macht Umsetzung entwicklungsfähig.
 
@@ -93,9 +87,8 @@ sondern ein Instrument der Organisationsentwicklung.
 
 → Weiter zu: [Reifegradmodell](/maturity-model/model)
 
----
 
-## 4. Artefakte
+## Artefakte
 
 Artefakte bilden die operative Umsetzungsebene.
 
@@ -116,9 +109,8 @@ sondern strukturierte Denk- und Führungswerkzeuge.
 
 → Weiter zu: [Artefakte](/artifacts/overview)
 
----
 
-# Zusammenspiel der Ebenen
+## Zusammenspiel der Ebenen
 
 Die Ebenen greifen ineinander:
 
@@ -134,9 +126,8 @@ CARE-IT verfolgt damit einen übergeordneten Anspruch:
 Digitale Versorgungsinfrastruktur soll so geführt werden,  
 dass klinische Realität, Verantwortung, Informationsintegrität und Technik konsequent zusammengeführt werden.
 
----
 
-# Architektureinheit: Der Systemverbund
+## Architektureinheit: Der Systemverbund
 
 Die zentrale Betrachtungseinheit ist nicht das Einzelsystem,  
 sondern der klinische Systemverbund.

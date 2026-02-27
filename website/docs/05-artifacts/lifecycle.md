@@ -1,9 +1,6 @@
 ---
 title: Lifecycle Overview of Critical Systems
 ---
-
-# Lifecycle Overview of Critical Systems
-
 ## Purpose
 
 The Lifecycle Overview ensures sustainable operational capability of digital systems across their entire period of use.
@@ -12,13 +9,11 @@ It prevents infrastructure that is technically stable but strategically obsolete
 
 The artifact supports the healthcare provider’s regulatory operator responsibility by ensuring that lifecycle control remains visible and actively governed.
 
----
 
 ## Guiding Question
 
 > Is this system sustainably operable, maintainable, and regulatorily compliant across its entire lifecycle?
 
----
 
 ## Structural Effect
 
@@ -34,7 +29,6 @@ It operationalizes P6 – Sustainable Operational Capability.
 
 Without structured lifecycle governance, stability becomes reactive rather than strategic.
 
----
 
 ## When Is It Applied?
 
@@ -48,7 +42,6 @@ Without structured lifecycle governance, stability becomes reactive rather than 
 The Lifecycle Overview is not an asset register.  
 It is a governance-level lifecycle control instrument.
 
----
 
 ## Typical Misapplications
 
@@ -61,7 +54,6 @@ It is a governance-level lifecycle control instrument.
 Lifecycle governance is a leadership responsibility,  
 not merely a technical task.
 
----
 
 ## Relation to Principles and Domains
 

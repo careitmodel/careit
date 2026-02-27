@@ -1,22 +1,17 @@
 ---
 title: Klinischer Nutzen-Impact-Check
 ---
-
-# Klinischer Nutzen-Impact-Check
-
 ## Zweck
 
 Der Klinische Nutzen-Impact-Check strukturiert die explizite Begründung digitaler Entscheidungen aus der Perspektive der klinischen Wirksamkeit.
 
 Er verhindert technikgetriebene Investitionen und schafft eine überprüfbare Verbindung zwischen System und Versorgungsziel.
 
----
 
 ## Leitfrage
 
 > Welchen konkreten Beitrag leistet dieses System zur Verbesserung der klinischen Versorgung?
 
----
 
 ## Strukturelle Wirkung
 
@@ -31,7 +26,6 @@ Er operationalisiert P1 – Klinische Wirksamkeit.
 
 Ohne dieses Artefakt bleibt „Nutzen“ häufig implizit oder rhetorisch.
 
----
 
 ## Wann wird es angewendet?
 
@@ -43,7 +37,6 @@ Ohne dieses Artefakt bleibt „Nutzen“ häufig implizit oder rhetorisch.
 
 Der Impact-Check ist kein Projektformular, sondern ein Governance-Instrument.
 
----
 
 ## Typische Fehlanwendungen
 
@@ -55,7 +48,6 @@ Der Impact-Check ist kein Projektformular, sondern ein Governance-Instrument.
 Der Impact-Check ersetzt keine klinische Expertise –  
 er strukturiert sie.
 
----
 
 ## Bezug zu Prinzipien und Domänen
 

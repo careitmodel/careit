@@ -2,8 +2,6 @@
 title: Imprint
 ---
 
-# Imprint
-
 This English version is provided for accessibility.  
 The German version remains legally authoritative.
 

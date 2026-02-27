@@ -1,9 +1,6 @@
 ---
 title: Innovation Canvas
 ---
-
-# Innovation Canvas
-
 ## Purpose
 
 The Innovation Canvas structures the controlled integration of new solutions into the existing clinical system constellation.
@@ -13,13 +10,11 @@ It means ensuring that new solutions can be selected appropriately and integrate
 
 The Innovation Canvas prevents innovation-driven fragmentation and protects structural stability.
 
----
 
 ## Guiding Question
 
 > How can this new solution be integrated into the existing clinical system constellation in a repeatable, safe, and sustainably operable manner?
 
----
 
 ## Structural Effect
 
@@ -36,7 +31,6 @@ It operationalizes P8 – Innovation Capability from an Operator Perspective.
 
 Without structural integration logic, innovation generates instability rather than progress.
 
----
 
 ## When Is It Applied?
 
@@ -50,7 +44,6 @@ Without structural integration logic, innovation generates instability rather th
 The Innovation Canvas is not an idea-generation tool.  
 It is a governance instrument for controlled evolution.
 
----
 
 ## Typical Misapplications
 
@@ -63,7 +56,6 @@ It is a governance instrument for controlled evolution.
 Innovation is not an exception to governance —  
 it must be embedded within it.
 
----
 
 ## Relation to Principles and Domains
 

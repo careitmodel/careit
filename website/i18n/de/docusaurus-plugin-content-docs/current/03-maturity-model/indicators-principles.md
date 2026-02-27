@@ -1,8 +1,8 @@
 ---
-title: Indikatoren – Prinzipien
+title: Indikatoren entlang der CARE-IT Prinzipien
+sidebar_label: Prinzipienindikatoren
 ---
 
-# Indikatoren entlang der CARE-IT Prinzipien
 
 Die folgenden Indikatoren dienen der strukturierten Einschätzung der organisatorischen Verankerung der acht CARE-IT Grundprinzipien (P1–P8).
 
@@ -13,9 +13,8 @@ Sie unterstützen eine interdisziplinäre, qualitative Einordnung der strukturel
 
 Eine numerische Aggregation ist ausdrücklich nicht vorgesehen.
 
----
 
-# P1 – Klinische Wirksamkeit
+## P1 – Klinische Wirksamkeit
 
 ## Strukturelle Hinweise auf höhere Reife
 
@@ -37,9 +36,8 @@ Eine numerische Aggregation ist ausdrücklich nicht vorgesehen.
 - Können digitale Entscheidungen mit konkretem Versorgungsbezug begründet werden?  
 - Ist Wirkung strukturell überprüfbar oder nur implizit angenommen?  
 
----
 
-# P2 – Ganzheitliche Systemverantwortung
+## P2 – Ganzheitliche Systemverantwortung
 
 ## Strukturelle Hinweise auf höhere Reife
 
@@ -60,9 +58,8 @@ Eine numerische Aggregation ist ausdrücklich nicht vorgesehen.
 - Sind Abhängigkeiten vor Entscheidungen sichtbar?  
 - Gibt es eine explizite Gesamtperspektive auf Versorgungszusammenhänge?  
 
----
 
-# P3 – Transparente Verantwortungszuordnung
+## P3 – Transparente Verantwortungszuordnung
 
 ## Strukturelle Hinweise auf höhere Reife
 
@@ -84,9 +81,8 @@ Eine numerische Aggregation ist ausdrücklich nicht vorgesehen.
 - Sind Risiko- und Betriebsverantwortung explizit dokumentiert?  
 - Beginnt bei Problemen die Suche nach Zuständigkeit?  
 
----
 
-# P4 – Gemeinsame Verständlichkeit
+## P4 – Gemeinsame Verständlichkeit
 
 ## Strukturelle Hinweise auf höhere Reife
 
@@ -107,9 +103,8 @@ Eine numerische Aggregation ist ausdrücklich nicht vorgesehen.
 - Werden Systemdarstellungen disziplinübergreifend verstanden?  
 - Existiert eine gemeinsame begriffliche Referenz?  
 
----
 
-# P5 – Patientensicherheit als normative Grenze
+## P5 – Patientensicherheit als normative Grenze
 
 ## Strukturelle Hinweise auf höhere Reife
 
@@ -130,9 +125,8 @@ Eine numerische Aggregation ist ausdrücklich nicht vorgesehen.
 - Ist klar dokumentiert, wer Risiken verantwortet?  
 - Werden Nutzen und Risiko systematisch gegeneinander abgewogen?  
 
----
 
-# P6 – Nachhaltige Betriebsfähigkeit
+## P6 – Nachhaltige Betriebsfähigkeit
 
 ## Strukturelle Hinweise auf höhere Reife
 
@@ -153,9 +147,8 @@ Eine numerische Aggregation ist ausdrücklich nicht vorgesehen.
 - Sind End-of-Life- und Migrationsrisiken sichtbar?  
 - Ist Wartbarkeit strukturell eingeplant oder nachgelagert?  
 
----
 
-# P7 – Informationsintegrität
+## P7 – Informationsintegrität
 
 ## Strukturelle Hinweise auf höhere Reife
 
@@ -176,9 +169,8 @@ Eine numerische Aggregation ist ausdrücklich nicht vorgesehen.
 - Ist klar, wer für Datenqualität verantwortlich ist?  
 - Können Informationsinkonsistenzen systematisch erkannt werden?  
 
----
 
-# P8 – Innovationsfähigkeit
+## P8 – Innovationsfähigkeit
 
 ## Strukturelle Hinweise auf höhere Reife
 
@@ -199,9 +191,8 @@ Eine numerische Aggregation ist ausdrücklich nicht vorgesehen.
 - Ist Innovation strukturell abgesichert oder personenabhängig?  
 - Bleibt der Betrieb trotz Innovation stabil?  
 
----
 
-# Anwendung
+## Anwendung
 
 Die Bewertung erfolgt idealerweise:
 

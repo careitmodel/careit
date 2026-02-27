@@ -2,8 +2,6 @@
 title: Changelog
 ---
 
-# Changelog
-
 This document describes the versioned evolution of the CARE-IT Framework.
 
 CARE-IT follows semantic versioning:
@@ -12,7 +10,6 @@ CARE-IT follows semantic versioning:
 - **Minor** – Architectural extension, governance consolidation, or structural refinement  
 - **Patch** – Editorial or formal adjustments without normative modification  
 
----
 
 ## Version 1.2.0
 
@@ -42,7 +39,6 @@ CARE-IT follows semantic versioning:
 No foundational principles were modified.  
 The normative architecture remains stable.
 
----
 
 ## Version 1.1.1
 
@@ -71,7 +67,6 @@ The normative architecture remains stable.
 Version 1.1.1 introduced **no architectural or normative changes**.  
 Principle logic and domain structure remained unchanged.
 
----
 
 ## Version 1.1.0
 
@@ -114,7 +109,6 @@ Principle logic and domain structure remained unchanged.
 - Clear normative positioning of P1 (Clinical Effectiveness) and P5 (Patient Safety as normative boundary)  
 - Removal of redundant or overlapping formulations  
 
----
 
 ## Version 1.0.0
 
@@ -131,9 +125,8 @@ First complete publication of the CARE-IT Framework, including:
 - Initial Implementation Guide  
 - Controlled Open publication model  
 
----
 
-# Version Governance
+## Version Governance
 
 Each release represents a historically fixed architectural state.
 

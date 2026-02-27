@@ -9,6 +9,7 @@ module.exports = {
         'foundations/introduction',
         'foundations/definition',
         'foundations/scope',
+        'foundations/terminology', 
         'foundations/controlled-open',
       ],
     },

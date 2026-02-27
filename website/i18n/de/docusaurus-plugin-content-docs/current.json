@@ -1,54 +1,54 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Aktuell",
     "description": "The label for version current"
   },
   "sidebar.careitSidebar.category.Part I – Foundations": {
-    "message": "Part I – Foundations",
+    "message": "Teil I – Grundlagen",
     "description": "The label for category 'Part I – Foundations' in sidebar 'careitSidebar'"
   },
   "sidebar.careitSidebar.category.Part II – Principles": {
-    "message": "Part II – Principles",
+    "message": "Teil II – Prinzipien",
     "description": "The label for category 'Part II – Principles' in sidebar 'careitSidebar'"
   },
   "sidebar.careitSidebar.category.Part III – Maturity Model": {
-    "message": "Part III – Maturity Model",
+    "message": "Teil III – Reifegradmodell",
     "description": "The label for category 'Part III – Maturity Model' in sidebar 'careitSidebar'"
   },
   "sidebar.careitSidebar.category.Part IV – Architecture": {
-    "message": "Part IV – Architecture",
+    "message": "Teil IV – Architektur",
     "description": "The label for category 'Part IV – Architecture' in sidebar 'careitSidebar'"
   },
   "sidebar.careitSidebar.category.Domains in Detail": {
-    "message": "Domains in Detail",
+    "message": "Domänen im Detail",
     "description": "The label for category 'Domains in Detail' in sidebar 'careitSidebar'"
   },
   "sidebar.careitSidebar.category.Part V – Artifacts": {
-    "message": "Part V – Artifacts",
+    "message": "Teil V – Artefakte",
     "description": "The label for category 'Part V – Artifacts' in sidebar 'careitSidebar'"
   },
   "sidebar.careitSidebar.category.Part VI – Adoption & Application": {
-    "message": "Part VI – Adoption & Application",
+    "message": "Teil VI – Einführung & Anwendung",
     "description": "The label for category 'Part VI – Adoption & Application' in sidebar 'careitSidebar'"
   },
   "sidebar.careitSidebar.category.Framework Governance": {
-    "message": "Framework Governance",
+    "message": "Framework-Governance",
     "description": "The label for category 'Framework Governance' in sidebar 'careitSidebar'"
   },
   "sidebar.careitSidebar.category.Contribute": {
-    "message": "Contribute",
+    "message": "Mitwirken",
     "description": "The label for category 'Contribute' in sidebar 'careitSidebar'"
   },
   "sidebar.careitSidebar.category.Versions": {
-    "message": "Versions",
+    "message": "Versionen",
     "description": "The label for category 'Versions' in sidebar 'careitSidebar'"
   },
   "sidebar.careitSidebar.category.Appendix": {
-    "message": "Appendix",
+    "message": "Anhang",
     "description": "The label for category 'Appendix' in sidebar 'careitSidebar'"
   },
   "sidebar.careitSidebar.category.Legal": {
-    "message": "Legal",
+    "message": "Rechtliches",
     "description": "The label for category 'Legal' in sidebar 'careitSidebar'"
   }
 }

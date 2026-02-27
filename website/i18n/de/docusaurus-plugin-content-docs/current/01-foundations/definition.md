@@ -2,8 +2,6 @@
 title: Definition
 ---
 
-# Definition
-
 CARE-IT ist ein domänenspezifisches Referenzmodell für die Governance und Betriebsführung klinisch relevanter digitaler Versorgungsinfrastruktur in Gesundheitseinrichtungen.
 
 Es definiert einen strukturellen Ordnungsrahmen, der sicherstellt, dass digitale Entscheidungen konsequent an der klinischen Wirksamkeit ausgerichtet werden und Betrieb, Risiko und Verantwortung systematisch berücksichtigt werden.
@@ -17,7 +15,6 @@ CARE-IT ist:
 
 CARE-IT ist ein strukturierendes Führungs- und Governance-Modell.
 
----
 
 ## Kernfunktion
 
@@ -30,7 +27,6 @@ CARE-IT schafft eine verbindliche Entscheidungslogik für digitale Systeme, die:
 
 Es stellt sicher, dass digitale Infrastruktur nicht isoliert technisch, sondern systemisch und versorgungsorientiert gesteuert wird.
 
----
 
 ## Anwendungsobjekt
 
@@ -49,7 +45,6 @@ Ein Systemverbund umfasst:
 
 Die Bewertungseinheit ist nicht das Einzelprodukt, sondern das wirksamkeitsrelevante Gesamtsystem.
 
----
 
 ## Strukturelle Elemente
 
@@ -63,7 +58,6 @@ CARE-IT besteht aus:
 
 Diese Elemente sind konsistent miteinander verknüpft.
 
----
 
 ## Zielsetzung
 
@@ -78,6 +72,5 @@ CARE-IT verfolgt das Ziel, Organisationen strukturell in die Lage zu versetzen,
 CARE-IT ersetzt keine bestehenden Modelle.  
 Es schafft einen verbindenden Referenzrahmen zwischen klinischer Verantwortung, technischer Umsetzung und organisatorischer Steuerung.
 
----
 
 CARE-IT ist ein Referenzrahmen für strukturelle Entscheidungsfähigkeit im digitalen Versorgungsbetrieb.

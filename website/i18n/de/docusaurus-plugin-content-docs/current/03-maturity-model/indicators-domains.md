@@ -1,8 +1,7 @@
 ---
-title: Indikatoren – Domänen
+title: Indikatoren entlang der CARE-IT Domänen
+sidebar_label: Domänenindikatoren
 ---
-
-# Indikatoren entlang der CARE-IT Domänen
 
 Die folgenden Indikatoren unterstützen die strukturierte Einschätzung
 der organisatorischen Ausgestaltung der CARE-IT Domänen.
@@ -15,9 +14,8 @@ Eine numerische Aggregation ist nicht vorgesehen.
 
 Die Bewertung erfolgt qualitativ, interdisziplinär und systemverbundbezogen.
 
----
 
-# Domäne 1 – Klinische Ausrichtung & Nutzensteuerung
+## Domäne 1 – Klinische Ausrichtung & Nutzensteuerung
 
 ## Strukturelle Hinweise auf höhere Reife
 
@@ -39,9 +37,8 @@ Die Bewertung erfolgt qualitativ, interdisziplinär und systemverbundbezogen.
 - Ist klinische Steuerung strukturell abgesichert?  
 - Ist Versorgungsrelevanz transparent klassifiziert?  
 
----
 
-# Domäne 2 – Systemarchitektur & Verbundsteuerung
+## Domäne 2 – Systemarchitektur & Verbundsteuerung
 
 ## Strukturelle Hinweise auf höhere Reife
 
@@ -63,9 +60,8 @@ Die Bewertung erfolgt qualitativ, interdisziplinär und systemverbundbezogen.
 - Sind Infrastrukturabhängigkeiten transparent?  
 - Werden Integrationsfolgen vor Entscheidungen systematisch betrachtet?  
 
----
 
-# Domäne 3 – Verantwortung & Governance
+## Domäne 3 – Verantwortung & Governance
 
 ## Strukturelle Hinweise auf höhere Reife
 
@@ -87,9 +83,8 @@ Die Bewertung erfolgt qualitativ, interdisziplinär und systemverbundbezogen.
 - Sind Entscheidungs- und Eskalationswege strukturell definiert?  
 - Ist Governance stabil oder situativ organisiert?  
 
----
 
-# Domäne 4 – Risiko & Patientensicherheit
+## Domäne 4 – Risiko & Patientensicherheit
 
 ## Strukturelle Hinweise auf höhere Reife
 
@@ -111,9 +106,8 @@ Die Bewertung erfolgt qualitativ, interdisziplinär und systemverbundbezogen.
 - Werden Restrisiken bewusst verantwortet?  
 - Führen Vorfälle zu strukturellem Lernen?  
 
----
 
-# Domäne 5 – Lebenszyklus & Betriebsfähigkeit
+## Domäne 5 – Lebenszyklus & Betriebsfähigkeit
 
 ## Strukturelle Hinweise auf höhere Reife
 
@@ -137,9 +131,8 @@ Die Bewertung erfolgt qualitativ, interdisziplinär und systemverbundbezogen.
 - Sind End-of-Life- und Herstellerabhängigkeiten sichtbar?  
 - Ist Wiederherstellbarkeit strukturell gewährleistet?  
 
----
 
-# Domäne 6 – Innovationsfähigkeit & Weiterentwicklung
+## Domäne 6 – Innovationsfähigkeit & Weiterentwicklung
 
 ## Strukturelle Hinweise auf höhere Reife
 
@@ -162,9 +155,8 @@ Die Bewertung erfolgt qualitativ, interdisziplinär und systemverbundbezogen.
 - Bleibt der Versorgungsbetrieb trotz Innovation stabil?  
 - Werden neue Lösungen nachhaltig in bestehende Strukturen eingebettet?  
 
----
 
-# Anwendung
+## Anwendung
 
 Die Bewertung der Domänen erfolgt:
 

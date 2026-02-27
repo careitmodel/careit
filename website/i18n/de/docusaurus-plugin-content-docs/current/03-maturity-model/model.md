@@ -1,8 +1,7 @@
 ---
-title: Reifegradmodell
+title: CARE-IT Reifegradmodell
+sidebar_label: Reifegradmodell
 ---
-
-# CARE-IT Reifegradmodell
 
 Das CARE-IT Reifegradmodell dient der strukturierten Standortbestimmung digitaler Versorgungsinfrastruktur.
 
@@ -14,7 +13,6 @@ sondern den Grad, in dem eine Organisation die CARE-IT Prinzipien stabil, konsis
 Ziel ist keine Zertifizierung,  
 sondern Transparenz, Priorisierung und gezielte strukturelle Weiterentwicklung.
 
----
 
 ## Normative Grundlage
 
@@ -32,13 +30,12 @@ begrenzt die Interpretation des Gesamtprofils.
 Reife ist daher nicht additiv zu verstehen  
 und nicht durch Mittelwertbildung interpretierbar.
 
----
 
 ## Zwei Perspektiven auf Reife
 
 Das Modell betrachtet Reife aus zwei komplementären Perspektiven:
 
-### 1. Prinzipienreife
+### Prinzipienreife
 
 Für jedes der acht Prinzipien wird bewertet,  
 in welchem Umfang es strukturell abgesichert ist.
@@ -51,9 +48,8 @@ Beispiele:
 
 Die Prinzipienreife beschreibt die normative Stabilität der Organisation.
 
----
 
-### 2. Domänenreife
+### Domänenreife
 
 Die sechs CARE-IT Domänen (D1–D6) bilden organisatorische Handlungsräume,  
 in denen sich die Prinzipien konkret ausprägen.
@@ -71,7 +67,6 @@ Sie machen sichtbar, wie und wo Prinzipien organisatorisch getragen werden.
 Prinzipien sind Maßstab.  
 Domänen sind Beobachtungsräume.
 
----
 
 ## Reifestufen
 
@@ -100,7 +95,6 @@ nicht zunehmende Formalisierung oder Dokumentationsdichte.
 Stufe 5 beschreibt keine maximale Komplexität,  
 sondern minimale strukturelle Reibung bei hoher organisatorischer Tragfähigkeit.
 
----
 
 ## Interpretation
 
@@ -124,7 +118,6 @@ aber nicht nachhaltig stabil.
 Siehe für Visualisierung und Interpretation:
 - [Grafisches Reifeprofil](/maturity-model/profile)
 
----
 
 ## Anwendung
 

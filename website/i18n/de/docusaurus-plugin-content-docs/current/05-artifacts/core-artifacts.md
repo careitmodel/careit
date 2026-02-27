@@ -1,8 +1,7 @@
 ---
-title: Kernartefakte
+title: CARE-IT Kernartefakte
+sidebar_label: Kernartefakte
 ---
-
-# CARE-IT Kernartefakte
 
 Nicht alle Artefakte sind gleich zentral.
 
@@ -11,7 +10,6 @@ die die strukturelle Steuerungsfähigkeit einer Organisation wesentlich prägen.
 
 Sie bilden das operative Rückgrat des Frameworks.
 
----
 
 ## Artefakte als Übersetzungsebene
 
@@ -31,7 +29,6 @@ und Reifegradmodelle theoretisch.
 
 Erst durch Artefakte wird das Framework handlungsfähig.
 
----
 
 ## Warum Kernartefakte?
 
@@ -50,32 +47,30 @@ Die Kernartefakte strukturieren genau diese Schnittstellen.
 Sie erhöhen nicht die Dokumentationsmenge,
 sondern die Entscheidungsqualität.
 
----
 
 ## Die Kernartefakte im Überblick
 
-### 1. Klinischer Nutzen-Impact-Check  
+**Klinischer Nutzen-Impact-Check** 
 Operationalisiert P1 (Klinische Wirksamkeit).
 
-### 2. Klinischer Risiko-Impact-Check  
+**Klinischer Risiko-Impact-Check**
 Operationalisiert P5 (Patientensicherheit).
 
-### 3. Systemverbund-Dokumentation  
+**Systemverbund-Dokumentation**  
 Operationalisiert P2 (Ganzheitliche Systemverantwortung).
 
-### 4. Rollen- und Verantwortungsmatrix  
+**Rollen- und Verantwortungsmatrix**  
 Operationalisiert P3 (Transparente Verantwortungszuordnung).
 
-### 5. Lebenszyklus-Übersicht kritischer Systeme  
+**Lebenszyklus-Übersicht kritischer Systeme**  
 Operationalisiert P6 (Nachhaltige Betriebsfähigkeit).
 
-### 6. Innovations-Canvas  
+**Innovations-Canvas**  
 Operationalisiert P8 (Innovationsfähigkeit).
 
 Kein Artefakt gehört exklusiv zu einer einzelnen Domäne.  
 Sie wirken domänenübergreifend.
 
----
 
 ## Reduktion von Personenabhängigkeit
 
@@ -98,7 +93,6 @@ Sie machen:
 Damit entsteht strukturelle Führung –
 unabhängig von einzelnen Schlüsselpersonen.
 
----
 
 ## Entscheidungsreife statt Dokumentenfülle
 
@@ -120,7 +114,6 @@ die folgende Fragen systematisch beantworten können:
 
 Kernartefakte sind strukturierte Antworten auf diese Fragen.
 
----
 
 ## Architektonische Wirkung
 
@@ -136,7 +129,6 @@ Die Kernartefakte bilden eine geschlossene Steuerungslogik:
 Fehlt eines dieser Elemente,
 entstehen strukturelle Steuerungslücken.
 
----
 
 ## Minimal funktionsfähige Architektur
 

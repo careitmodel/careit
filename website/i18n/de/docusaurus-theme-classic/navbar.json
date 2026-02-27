@@ -1,6 +1,6 @@
 {
   "logo.alt": {
-    "message": "My Site Logo",
+    "message": "CARE-IT Framework",
     "description": "The alt text of navbar logo"
   },
   "item.label.CARE-IT": {
@@ -8,7 +8,7 @@
     "description": "Navbar item with label CARE-IT"
   },
   "item.label.GitHub": {
-    "message": "GitHub",
+    "message": "Repository",
     "description": "Navbar item with label GitHub"
   }
 }

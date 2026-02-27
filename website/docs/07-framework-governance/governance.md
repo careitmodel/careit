@@ -2,20 +2,17 @@
 title: Framework Governance
 ---
 
-# Framework Governance
-
 CARE-IT is a structured governance framework for digital clinical infrastructure.
 
-Framework Governance defines how CARE-IT itself is maintained, evolved, protected, and released.
+Framework Governance defines how CARE-IT itself is maintained, evolved, protected, interpreted, and released.
 
-It ensures conceptual integrity, architectural coherence, and long-term stability.
+It safeguards conceptual integrity, architectural coherence, and long-term stability.
 
 CARE-IT is open in access —  
 but curated in evolution.
 
----
 
-# 1. Purpose of Framework Governance
+## Purpose of Framework Governance
 
 Framework Governance exists to:
 
@@ -26,11 +23,12 @@ Framework Governance exists to:
 - Safeguard long-term architectural stability  
 
 CARE-IT is not a crowd-edited document.  
-It evolves through deliberate, structured refinement.
+It evolves through deliberate and structured refinement.
 
----
+Interpretative authority remains with the framework steward.
 
-# 2. Authoritative Language
+
+## Authoritative Language
 
 The English version of CARE-IT is the normative source of truth.
 
@@ -39,52 +37,52 @@ Translations are derivative representations intended to increase accessibility.
 In case of discrepancy between language versions,  
 the English version prevails.
 
-Translation updates are synchronized with official English releases.
+Translations must reference the corresponding official English version and may not introduce interpretative deviation.
 
----
 
-# 3. Version Governance
+## Version Governance
 
-CARE-IT follows structured versioning.
+CARE-IT follows structured semantic versioning:
 
-- **Major versions** reflect substantial architectural evolution or principle changes.
-- **Minor versions** introduce clarifications, structural refinements, or additional explanatory material.
-- **Patch versions** correct editorial inaccuracies without conceptual impact.
+- **Major versions** reflect substantial architectural evolution or principle changes.  
+- **Minor versions** introduce structural refinements, clarifications, or explanatory expansion.  
+- **Patch versions** correct editorial inaccuracies without conceptual impact.  
 
 The canonical reference for each version is the official GitHub release tag.
 
-Where applicable, releases may be linked to a DOI to ensure academic traceability.
+Where applicable, versions are archived with a DOI to ensure academic traceability and citation stability.
 
----
+Only tagged releases constitute authoritative framework versions.
 
-# 4. Change Governance
 
-CARE-IT is currently in a phase of conceptual consolidation.
+## Change Governance
 
-During this phase:
+CARE-IT evolves through curated refinement.
 
-- Structural refinements are permitted.
-- Clarifications are encouraged.
-- Terminology improvements are considered.
-- Core principles and architectural foundations remain stable.
+During its current refinement phase:
 
-Conceptual changes are not crowd-determined.
+- Structural improvements are permitted.  
+- Terminology clarifications are encouraged.  
+- Explanatory material may be expanded.  
+- Core architectural foundations remain stable.  
 
-All changes are curated to preserve coherence across:
+Changes are not crowd-determined.
+
+All refinements are evaluated for coherence across:
 
 - Principles  
 - Domains  
 - Maturity logic  
 - Artifacts  
-- Governance model  
+- Terminological foundations  
+- Governance architecture  
 
-Architectural consistency has priority over rapid expansion.
+Architectural consistency takes precedence over rapid expansion.
 
----
 
-# 5. Stewardship
+## Stewardship
 
-CARE-IT is currently stewarded by its original author.
+CARE-IT is stewarded by its originating author.
 
 The steward is responsible for:
 
@@ -93,89 +91,88 @@ The steward is responsible for:
 - Release approval  
 - Terminology consistency  
 - Governance coherence  
+- Interpretative authority  
 
 Future institutional anchoring or extended stewardship models may evolve as CARE-IT matures.
 
-Until such structures are established, stewardship remains centralized to protect architectural clarity.
+Until such structures are formally established, stewardship remains centralized to protect architectural clarity.
 
----
 
-# 6. Translation Governance
+## Translation Governance
 
 Translations are derived from the authoritative English version.
 
 Each translation:
 
-- Must reference the corresponding official version.
-- Should not introduce interpretative deviations.
-- Is reviewed for terminological alignment.
+- References the corresponding official release  
+- Maintains terminological alignment  
+- Avoids interpretative modification  
 
 Translations increase accessibility —  
 they do not redefine the framework.
 
----
 
-# 7. Controlled Open Philosophy
+## Controlled Open Principle
 
-CARE-IT follows a Controlled Open approach.
+CARE-IT follows a Controlled Open model.
 
 It is:
 
 - Publicly accessible  
 - Transparent in structure  
-- Open to structured refinement  
+- Versioned and documented  
+- Open to structured feedback  
 
 It is not:
 
 - A wiki  
-- A consensus-driven model  
-- A framework subject to interpretative variation  
+- A consensus-driven standard  
+- Subject to uncontrolled reinterpretation  
 
-Controlled openness ensures both accessibility and integrity.
+Controlled openness ensures both accessibility and architectural integrity.
 
----
 
-# 8. Release Policy
+## Release Policy
 
-Official releases are published through GitHub.
+Official releases are published via GitHub.
 
-A release is considered authoritative when:
+A release is authoritative when it is:
 
-- It is versioned  
-- It is tagged  
-- It is publicly documented  
+- Versioned  
+- Tagged  
+- Publicly documented  
+- Where applicable, DOI-linked  
 
-Drafts or working materials do not constitute official framework versions.
+Drafts, previews, or working materials do not constitute official framework versions.
 
----
 
-# 9. Relationship to Application Governance
+## Separation from Application Governance
 
-Framework Governance governs CARE-IT as a model.
+Framework Governance governs CARE-IT as a reference model.
 
 It is distinct from:
 
-- Adoption Governance  
-- Organizational KPI reflection  
-- Operational implementation logic  
+- Organizational adoption governance  
+- KPI reflection within institutions  
+- Operational implementation structures  
 
-Framework Governance ensures the stability of the reference architecture itself.
+Framework Governance ensures stability of the model.
 
-Application Governance concerns how organizations apply CARE-IT internally.
+Application Governance concerns how healthcare institutions apply CARE-IT internally.
 
-These two layers must remain clearly separated.
+The two layers must remain structurally separate.
 
----
 
-# Conclusion
+## Conclusion
 
-CARE-IT is designed to provide long-term structural orientation for digital clinical infrastructure.
+CARE-IT provides long-term structural orientation for digital clinical infrastructure.
 
 Framework Governance ensures that:
 
 - Its principles remain coherent  
 - Its terminology remains stable  
 - Its evolution remains intentional  
+- Its interpretation remains controlled  
 
 CARE-IT evolves —  
 but it does so deliberately.

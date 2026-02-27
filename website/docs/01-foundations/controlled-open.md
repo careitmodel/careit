@@ -2,8 +2,6 @@
 title: Controlled Open
 ---
 
-# Controlled Open
-
 CARE-IT is published as a **Controlled Open Framework**.
 
 This means:
@@ -15,9 +13,8 @@ This means:
 
 Controlled Open is not a marketing term, but a governance principle for the evolution of the framework.
 
----
 
-## 1. Why Not a Fully Open Model?
+## Why Not a Fully Open Model?
 
 Digital clinical infrastructure affects:
 
@@ -33,9 +30,8 @@ A fully open and uncurated model would risk:
 
 CARE-IT requires stability at its core.
 
----
 
-## 2. Why Not Closed?
+## Why Not Closed?
 
 A fully closed model would:
 
@@ -47,9 +43,8 @@ Digital clinical infrastructure evolves dynamically.
 
 The framework must remain capable of learning.
 
----
 
-## 3. The Hybrid Principle
+## The Hybrid Principle
 
 Controlled Open combines:
 
@@ -66,9 +61,8 @@ Controlled Open combines:
 
 Changes are not informal, but versioned and documented.
 
----
 
-## 4. Versioning and Responsibility
+## Versioning and Responsibility
 
 Each official version:
 
@@ -79,9 +73,8 @@ Each official version:
 
 Responsibility for maintaining coherence of the reference framework remains clearly assigned.
 
----
 
-## 5. Invitation to Discourse
+## Invitation to Discourse
 
 Controlled Open means:
 
@@ -93,7 +86,6 @@ Controlled Open means:
 The objective is not openness for its own sake,  
 but structurally accountable evolution.
 
----
 
 CARE-IT understands itself as a living reference framework.
 

@@ -1,22 +1,17 @@
 ---
 title: Lebenszyklus-Übersicht kritischer Systeme
 ---
-
-# Lebenszyklus-Übersicht kritischer Systeme
-
 ## Zweck
 
 Die Lebenszyklus-Übersicht sichert die nachhaltige Betriebsfähigkeit digitaler Systeme über deren gesamten Einsatzzeitraum.
 
 Sie verhindert technisch stabile, aber strategisch veraltete Infrastruktur.
 
----
 
 ## Leitfrage
 
 > Ist dieses System über seinen gesamten Lebenszyklus stabil, wartbar und regulatorisch konform betreibbar?
 
----
 
 ## Strukturelle Wirkung
 
@@ -29,7 +24,6 @@ Die Übersicht:
 
 Sie operationalisiert P6 – Nachhaltige Betriebsfähigkeit.
 
----
 
 ## Wann wird es angewendet?
 
@@ -39,7 +33,6 @@ Sie operationalisiert P6 – Nachhaltige Betriebsfähigkeit.
 - Bei Herstellerabhängigkeiten  
 - Bei Ablösungsentscheidungen  
 
----
 
 ## Typische Fehlanwendungen
 
@@ -48,7 +41,6 @@ Sie operationalisiert P6 – Nachhaltige Betriebsfähigkeit.
 - Fehlende Verknüpfung mit Architektur  
 - Ignorieren regulatorischer Entwicklungen  
 
----
 
 ## Bezug zu Prinzipien und Domänen
 

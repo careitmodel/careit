@@ -1,9 +1,6 @@
 ---
 title: Responsibility & Governance Matrix
 ---
-
-# Responsibility & Governance Matrix
-
 ## Purpose
 
 The Responsibility & Governance Matrix creates explicit transparency  
@@ -16,13 +13,11 @@ independent of individual persons.
 
 Regulatory operator responsibility cannot be delegated to vendors, manufacturers, or technical service providers.
 
----
 
 ## Guiding Question
 
 > Who carries which form of responsibility for this system?
 
----
 
 ## Structural Effect
 
@@ -36,7 +31,6 @@ The matrix:
 
 It operationalizes P3 – Transparent Allocation of Responsibility.
 
----
 
 ## When Is It Applied?
 
@@ -49,7 +43,6 @@ It operationalizes P3 – Transparent Allocation of Responsibility.
 
 The matrix should be reviewed whenever system scope, constellation structure, or governance arrangements change.
 
----
 
 ## Typical Misapplications
 
@@ -62,7 +55,6 @@ The matrix should be reviewed whenever system scope, constellation structure, or
 Responsibility is not implicit.  
 It must be structurally defined and traceable.
 
----
 
 ## Relation to Principles and Domains
 

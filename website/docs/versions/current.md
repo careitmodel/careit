@@ -1,9 +1,6 @@
 ---
-title: Version 1.2.0
----
-
-# CARE-IT Framework – Version 1.2.0
-
+title: CARE-IT Framework – Version 1.2.0
+sidebar_label: Version 1.2.0
 ---
 
 ## Official Release
@@ -22,7 +19,6 @@ Changes to the framework occur exclusively through versioned releases.
 
 The English version is the authoritative source of truth.
 
----
 
 ## Scope of Version 1.2.0
 
@@ -42,7 +38,6 @@ Version 1.2.0 includes:
 
 This version represents the currently valid reference edition of the CARE-IT framework.
 
----
 
 ## Character of Version 1.2.0
 
@@ -58,7 +53,6 @@ Version 1.2.0 is:
 It establishes CARE-IT as a governed reference architecture  
 for digital clinical infrastructure.
 
----
 
 ## Changes Compared to Version 1.1.1
 
@@ -77,7 +71,6 @@ No foundational principles were modified.
 
 The normative architecture remains stable.
 
----
 
 ## Versioning Logic
 
@@ -89,20 +82,35 @@ CARE-IT follows semantic versioning:
 
 Version governance is defined in the Framework Governance section.
 
----
 
 ## Citation
 
 CARE-IT is permanently archived via Zenodo.
 
-Concept DOI (all versions):  
-https://doi.org/10.5281/zenodo.18679683
+**Concept DOI (all versions):**  
+https://doi.org/10.5281/zenodo.18679683  
 
-The version-specific DOI for 1.2.0 will be added upon completion of archival registration.
+The Concept DOI always resolves to the most recent officially published version of CARE-IT.
 
-For citation purposes, reference the official GitHub release tag corresponding to the used version.
+Each officially released version additionally receives a **version-specific DOI**, which resolves to the exact archived snapshot corresponding to that release.
 
----
+The version-specific DOI for Version 1.2.0 is provided on:
+
+- The official GitHub release page  
+- The title page of the corresponding PDF release  
+- The Zenodo version record  
+
+The GitHub release tag constitutes the authoritative reference state of the framework.  
+The Zenodo archive ensures long-term preservation and citability.
+
+For academic citation, the following format is recommended:
+
+> CARE-IT Framework. Version 1.2.0.  
+> Controlled Open Release.  
+> DOI: [version-specific DOI]
+
+If the version-specific DOI is not explicitly required, the Concept DOI may be used for general reference.
+
 
 ## Status
 
