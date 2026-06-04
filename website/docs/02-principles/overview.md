@@ -74,6 +74,6 @@ but a structural governance instrument.
 
 ## Further Reading
 
-- → [P1 – Clinical Effectiveness](/principles/p1)  
-- → [Maturity Model](/maturity-model/model)  
-- → [Architecture Overview](/architecture/overview)
+- → [P1 – Clinical Effectiveness](/framework/principles/p1)
+- → [Maturity Model](/framework/maturity-model/model)
+- → [Architecture Overview](/framework/architecture/overview)

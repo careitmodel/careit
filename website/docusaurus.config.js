@@ -12,7 +12,14 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'CARE-IT Framework',
   tagline: 'Governance for Digital Clinical Infrastructure',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon/favicon.svg',
+
+  stylesheets: [
+    {
+      href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap',
+      type: 'text/css',
+    },
+  ],
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -49,100 +56,99 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          routeBasePath: '/', // Optional: Docs direkt auf Root statt /docs
-          editUrl: 'https://github.com/careitmodel/careit/tree/main/website/'
+          routeBasePath: '/framework',
+          editUrl: 'https://github.com/careitmodel/careit/tree/main/website/',
         },
         blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
       }),
-      ],
     ],
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-  ({
+    ({
       // Replace with your project's social card
-    image: 'img/careit-social-card.png',
-    colorMode: {
-      respectPrefersColorScheme: true,
-    },
-    navbar: {
-      title: '',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/careit-mark.svg',
+      image: 'img/social/careit-social-card.png',
+      colorMode: {
+        respectPrefersColorScheme: true,
       },
-      items: [
-      {
-        type: 'docSidebar',
-        sidebarId: 'careitSidebar',
-        position: 'left',
-        label: 'CARE-IT',
-      },
-      { type: 'localeDropdown', position: 'right' },
-          //{to: '/blog', label: 'Blog', position: 'left'},
-      {
-        href: 'https://github.com/careitmodel/careit',
-        label: 'GitHub',
-        position: 'right',
-      },
-      ],
-    },
-    footer: {
-      style: 'dark',
-      links: [
-      {
-        title: 'Start',
+      navbar: {
+        title: '',
+        logo: {
+          alt: 'My Site Logo',
+          src: 'img/branding/careit-logo-compact.svg',
+        },
         items: [
-          { label: 'Definition', to: '/foundations/definition' },
-          { label: 'Scope', to: '/foundations/scope' },
-          { label: 'Controlled Open', to: '/foundations/controlled-open' },
-          { label: 'Versions', to: '/versions/current' },
-          ],
+          {
+            type: 'docSidebar',
+            sidebarId: 'careitSidebar',
+            position: 'left',
+            label: 'Framework',
+          },
+          {type: 'localeDropdown', position: 'right'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            href: 'https://github.com/careitmodel/careit',
+            label: 'GitHub',
+            position: 'right',
+          },
+        ],
       },
-      {
-        title: 'Framework',
-        items: [
-          { label: 'Principles', to: '/principles/overview' },
-          { label: 'Architecture', to: '/architecture/overview' },
-          { label: 'Maturity Model', to: '/maturity-model/model' },
-          { label: 'Artifacts', to: '/artifacts/overview' },
-          ],
+      footer: {
+        style: 'dark',
+        links: [
+          {
+            title: 'Start',
+            items: [
+              {label: 'Definition', to: '/framework/foundations/definition'},
+              {label: 'Scope', to: '/framework/foundations/scope'},
+              {label: 'Controlled Open', to: '/framework/foundations/controlled-open'},
+              {label: 'Versions', to: '/framework/versions/current'},
+            ],
+          },
+          {
+            title: 'Framework',
+            items: [
+              {label: 'Principles', to: '/framework/principles/overview'},
+              {label: 'Architecture', to: '/framework/architecture/overview'},
+              {label: 'Maturity Model', to: '/framework/maturity-model/model'},
+              {label: 'Artifacts', to: '/framework/artifacts/overview'},
+            ],
+          },
+          {
+            title: 'Adoption',
+            items: [
+              {label: 'Case: Mobile Monitoring', to: '/framework/adoption/case-mobile-monitoring'},
+              {label: 'Implementation Guide', to: '/framework/adoption/implementation-guide'},
+              {label: 'Adoption KPIs', to: '/framework/adoption/kpis'},
+            ],
+          },
+          {
+            title: 'Contribute',
+            items: [
+              {label: 'How to Contribute', to: '/framework/contribute/how-to-contribute'},
+              {label: 'Contact', to: '/framework/contribute/contact'},
+              {label: 'GitHub', href: 'https://github.com/careitmodel/careit'},
+            ],
+          },
+          {
+            title: 'Legal',
+            items: [
+              {label: 'Imprint', to: '/framework/legal/imprint'},
+              {label: 'Privacy', to: '/framework/legal/privacy'},
+            ],
+          },
+        ],
+        copyright: `Copyright © ${new Date().getFullYear()} CARE-IT Framework. Controlled Open.`,
       },
-      {
-        title: 'Adoption',
-        items: [
-          { label: 'Case: Mobile Monitoring', to: '/adoption/case-mobile-monitoring' },
-          { label: 'Implementation Guide', to: '/adoption/implementation-guide' },
-          { label: 'Adoption KPIs', to: '/adoption/kpis' },
-          ],
+      prism: {
+        theme: prismThemes.github,
+        darkTheme: prismThemes.dracula,
       },
-      {
-        title: 'Contribute',
-        items: [
-          { label: 'How to Contribute', to: '/contribute/how-to-contribute' },
-          { label: 'Contact', to: '/contribute/contact' },
-          { label: 'GitHub', href: 'https://github.com/careitmodel/careit' },
-          ],
-      },
-      {
-        title: 'Legal',
-        items: [
-          { label: 'Imprint', to: '/legal/imprint' },
-          { label: 'Privacy', to: '/legal/privacy' },
-          ],
-      },
-      ],
-      copyright:
-      `Copyright © ${new Date().getFullYear()} CARE-IT Framework. Controlled Open.`,
-    },
-    prism: {
-      theme: prismThemes.github,
-      darkTheme: prismThemes.dracula,
-    },
-  }),
+    }),
 };
 
 export default config;

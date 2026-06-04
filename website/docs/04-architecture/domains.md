@@ -116,9 +116,9 @@ They enable alignment without replacing existing frameworks.
 
 ## Domains in Detail
 
-- → [D1 – Clinical Orientation & Value Governance](/architecture/domains/d1)
-- → [D2 – System Architecture & Constellation Governance](/architecture/domains/d2)
-- → [D3 – Responsibility & Governance](/architecture/domains/d3)
-- → [D4 – Risk & Patient Safety](/architecture/domains/d4)
-- → [D5 – Lifecycle & Operational Sustainability](/architecture/domains/d5)
-- → [D6 – Innovation Capability & Evolution](/architecture/domains/d6)
+- → [D1 – Clinical Orientation & Value Governance](/framework/architecture/domains/d1)
+- → [D2 – System Architecture & Constellation Governance](/framework/architecture/domains/d2)
+- → [D3 – Responsibility & Governance](/framework/architecture/domains/d3)
+- → [D4 – Risk & Patient Safety](/framework/architecture/domains/d4)
+- → [D5 – Lifecycle & Operational Sustainability](/framework/architecture/domains/d5)
+- → [D6 – Innovation Capability & Evolution](/framework/architecture/domains/d6)

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="600"
+   height="380"
+   viewBox="0 0 600 380"
+   version="1.1"
+   id="svg10"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <title id="title1">CARE-IT Scope Diagram</title>
+  <desc id="desc1">Scope of the CARE-IT framework across healthcare organization, digital clinical infrastructure and clinical system constellations</desc>
+
+  <defs id="defs1">
+    <style id="style1"><![CDATA[
+      .outer-box {
+        fill: none;
+        stroke: var(--careit-scope-stroke, #D1D5DB);
+        stroke-width: 2;
+      }
+      .infra-box {
+        fill: var(--careit-scope-infra-bg, #F3F4F6);
+        stroke: var(--careit-scope-stroke, #D1D5DB);
+        stroke-width: 2;
+      }
+      .constellation-box {
+        fill: var(--careit-scope-constellation-bg, #FFFFFF);
+        stroke: var(--careit-scope-constellation-stroke, #9CA3AF);
+        stroke-width: 2;
+      }
+      .system-box {
+        fill: var(--careit-scope-system-bg, #F9FAFB);
+        stroke: var(--careit-scope-stroke, #D1D5DB);
+        stroke-width: 1.5;
+      }
+      .governance-bar {
+        fill: var(--careit-scope-accent, #2563EB);
+      }
+      .label-outer {
+        font-family: var(--ifm-font-family-base, Inter, Arial, sans-serif);
+        font-size: 18px;
+        font-weight: 600;
+        fill: var(--careit-scope-text-muted, #6B7280);
+      }
+      .label-main {
+        font-family: var(--ifm-font-family-base, Inter, Arial, sans-serif);
+        font-size: 16px;
+        font-weight: 600;
+        fill: var(--careit-scope-text-strong, #1F2937);
+      }
+      .label-sub {
+        font-family: var(--ifm-font-family-base, Inter, Arial, sans-serif);
+        font-size: 15px;
+        font-weight: 600;
+        fill: var(--careit-scope-text-strong, #1F2937);
+      }
+      .label-system {
+        font-family: var(--ifm-font-family-base, Inter, Arial, sans-serif);
+        font-size: 12px;
+        font-weight: 500;
+        fill: var(--careit-scope-text-strong, #1F2937);
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+      .label-detail {
+        font-family: var(--ifm-font-family-base, Inter, Arial, sans-serif);
+        font-size: 12px;
+        font-weight: 400;
+        fill: var(--careit-scope-text-body, #374151);
+        text-anchor: middle;
+      }
+      .label-governance {
+        font-family: var(--ifm-font-family-base, Inter, Arial, sans-serif);
+        font-size: 15px;
+        font-weight: 600;
+        fill: var(--careit-scope-accent-text, #FFFFFF);
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+    ]]></style>
+  </defs>
+
+  <!-- No fixed background -->
+
+  <!-- Healthcare Organization -->
+  <rect
+     x="30.036997"
+     y="20.036997"
+     width="539.92596"
+     height="322.65329"
+     rx="5.9991779"
+     ry="6.4530654"
+     class="outer-box"
+     id="rect2" />
+  <text
+     x="200.94022"
+     y="50"
+     class="label-outer"
+     id="text2"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:18px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600;">Healthcare Organization</text>
+
+  <!-- Digital Clinical Infrastructure -->
+  <rect
+     x="60.036022"
+     y="66.036026"
+     width="479.92795"
+     height="214.70068"
+     rx="5.9990993"
+     ry="6.4410205"
+     class="infra-box"
+     id="rect3" />
+  <text
+     x="196.67374"
+     y="96.86364"
+     class="label-main"
+     id="text3"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:16px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600;">Digital Clinical Infrastructure</text>
+
+  <!-- Clinical System Constellations -->
+  <rect
+     x="95.114861"
+     y="115.11486"
+     width="409.77026"
+     height="155.45209"
+     rx="5.9966383"
+     ry="7.4617004"
+     class="constellation-box"
+     id="rect4" />
+  <text
+     x="196.97092"
+     y="138.86363"
+     class="label-sub"
+     id="text4"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:15px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600;">Clinical System Constellations</text>
+
+  <!-- System boxes -->
+  <rect
+     x="118"
+     y="150"
+     width="150"
+     height="38"
+     rx="6"
+     ry="6"
+     class="system-box"
+     id="rect5" />
+  <text
+     x="193"
+     y="169"
+     class="label-system"
+     id="text5"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:12px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);-inkscape-font-specification:'Inter, @opsz=32,wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 500">Radiology Imaging</text>
+
+  <rect
+     x="332"
+     y="150"
+     width="150"
+     height="38"
+     rx="6"
+     ry="6"
+     class="system-box"
+     id="rect6" />
+  <text
+     x="407"
+     y="169"
+     class="label-system"
+     id="text6"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:12px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);-inkscape-font-specification:'Inter, @opsz=32,wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 500">Cardiology Cath Lab</text>
+
+  <rect
+     x="118"
+     y="196"
+     width="150"
+     height="38"
+     rx="6"
+     ry="6"
+     class="system-box"
+     id="rect7" />
+  <text
+     x="193"
+     y="215"
+     class="label-system"
+     id="text7"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:12px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);-inkscape-font-specification:'Inter, @opsz=32,wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 500">Patient Monitoring</text>
+
+  <rect
+     x="332"
+     y="196"
+     width="150"
+     height="38"
+     rx="6"
+     ry="6"
+     class="system-box"
+     id="rect8" />
+  <text
+     x="407"
+     y="215"
+     class="label-system"
+     id="text8"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:12px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);-inkscape-font-specification:'Inter, @opsz=32,wght=500';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 500">Laboratory Diagnostics</text>
+
+  <!-- Detail line -->
+  <text
+     x="300"
+     y="259"
+     class="label-detail"
+     id="text9"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:12px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600;text-anchor:middle;">Applications · Devices · Data · Integration</text>
+
+  <!-- CARE-IT Governance Domains -->
+  <rect
+     x="60"
+     y="290.18182"
+     width="480"
+     height="40.81818"
+     rx="6"
+     ry="7.2032084"
+     class="governance-bar"
+     id="rect9"
+     style="stroke-width:1.09569" />
+  <text
+     x="300"
+     y="312"
+     class="label-governance"
+     id="text10">CARE-IT Governance Domains</text>
+</svg>

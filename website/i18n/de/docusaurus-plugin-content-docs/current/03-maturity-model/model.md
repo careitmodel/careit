@@ -116,7 +116,7 @@ Hohe Performance bei niedriger struktureller Reife ist möglich –
 aber nicht nachhaltig stabil.
 
 Siehe für Visualisierung und Interpretation:
-- [Grafisches Reifeprofil](/maturity-model/profile)
+- [Grafisches Reifeprofil](/framework/maturity-model/profile)
 
 
 ## Anwendung

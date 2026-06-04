@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="600"
+   height="420"
+   viewBox="0 0 600 420"
+   version="1.1"
+   id="svg8"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <title id="title1">CARE-IT Clinical System Constellation</title>
+  <desc id="desc1">Structure of a clinical system constellation including workflow, applications, data, integration and medical devices</desc>
+
+  <defs id="defs1">
+    <style id="style1"><![CDATA[
+      .container {
+        fill: var(--careit-diagram-container-bg, #FFFFFF);
+        stroke: var(--careit-diagram-stroke, #D1D5DB);
+        stroke-width: 2;
+      }
+      .box {
+        fill: var(--careit-diagram-box-bg, #F9FAFB);
+        stroke: var(--careit-diagram-stroke, #D1D5DB);
+        stroke-width: 2;
+      }
+      .integration {
+        fill: var(--careit-diagram-emphasis-bg, #F3F4F6);
+        stroke: var(--careit-diagram-stroke, #D1D5DB);
+        stroke-width: 2;
+      }
+      .label-title {
+        font-family: var(--ifm-font-family-base, Inter, Arial, sans-serif);
+        font-size: 16px;
+        font-weight: 600;
+        fill: var(--careit-diagram-text-strong, #1F2937);
+      }
+      .label-box {
+        font-family: var(--ifm-font-family-base, Inter, Arial, sans-serif);
+        font-size: 13px;
+        font-weight: 500;
+        fill: var(--careit-diagram-text-strong, #1F2937);
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+      .label-detail {
+        font-family: var(--ifm-font-family-base, Inter, Arial, sans-serif);
+        font-size: 11px;
+        font-weight: 400;
+        fill: var(--careit-diagram-text-muted, #6B7280);
+        text-anchor: middle;
+      }
+    ]]></style>
+  </defs>
+
+  <!-- No fixed background -->
+
+  <!-- Main container -->
+  <rect
+     x="60"
+     y="40"
+     width="480"
+     height="320"
+     rx="6"
+     ry="6"
+     class="container"
+     id="rect2" />
+
+  <text
+     x="194.34451"
+     y="65"
+     class="label-title"
+     id="text2">Clinical System Constellation</text>
+
+  <!-- Clinical Workflow -->
+  <rect
+     x="160"
+     y="80"
+     width="280"
+     height="44"
+     rx="6"
+     ry="6"
+     class="box"
+     id="rect3" />
+  <text
+     x="300"
+     y="102"
+     class="label-box"
+     id="text3"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:13px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);-inkscape-font-specification:'Inter, @opsz=32,wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 700;dominant-baseline:middle;text-anchor:middle;">Clinical Workflow</text>
+
+  <!-- Applications -->
+  <rect
+     x="100"
+     y="150"
+     width="180"
+     height="42"
+     rx="6"
+     ry="6"
+     class="box"
+     id="rect4" />
+  <text
+     x="190"
+     y="171"
+     class="label-box"
+     id="text4"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:13px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600">Applications</text>
+
+  <!-- Data -->
+  <rect
+     x="320"
+     y="150"
+     width="180"
+     height="42"
+     rx="6"
+     ry="6"
+     class="box"
+     id="rect5" />
+  <text
+     x="410"
+     y="171"
+     class="label-box"
+     id="text5"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:13px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600">Data</text>
+
+  <!-- Integration -->
+  <rect
+     x="180"
+     y="215"
+     width="240"
+     height="50"
+     rx="6"
+     ry="6"
+     class="integration"
+     id="rect6" />
+  <text
+     x="300"
+     y="235"
+     class="label-box"
+     id="text6"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:13px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600">Integration</text>
+  <text
+     x="300"
+     y="256"
+     class="label-detail"
+     id="text7"
+     style="font-weight:400;font-size:11px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);text-anchor:middle;"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);-inkscape-font-specification:'Inter, @opsz=32,wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 700"
+       id="tspan8">HL7 · FHIR · DICOM · IHE</tspan></text>
+
+  <!-- Devices -->
+  <rect
+     x="170"
+     y="290"
+     width="260"
+     height="44"
+     rx="6"
+     ry="6"
+     class="box"
+     id="rect7" />
+  <text
+     x="300"
+     y="312"
+     class="label-box"
+     id="text8"
+     style="font-style:normal;font-variant:normal;font-stretch:normal;font-size:13px;font-family:var(--ifm-font-family-base, Inter, Arial, sans-serif);-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600">Medical Devices</text>
+</svg>

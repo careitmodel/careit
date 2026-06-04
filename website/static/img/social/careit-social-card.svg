@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    .bg { fill: #ffffff; }
+
+    .subtitle {
+      font-family: Inter, Arial, sans-serif;
+      font-size: 32px;
+      font-weight: 500;
+      fill: #6b7280;
+    }
+
+    .url {
+      font-family: Inter, Arial, sans-serif;
+      font-size: 22px;
+      fill: #9ca3af;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="1200" height="630" class="bg"/>
+
+  <!-- Compact logo -->
+  <g transform="translate(120, 190) scale(2.2)">
+    <circle
+      cx="30"
+      cy="30"
+      r="18"
+      fill="none"
+      stroke="#1f4e79"
+      stroke-width="5"/>
+    <text
+      x="60"
+      y="37"
+      font-family="Inter, Arial, sans-serif"
+      font-size="20"
+      font-weight="600"
+      fill="#1f2937">
+      CARE-IT
+    </text>
+  </g>
+
+  <!-- Claim -->
+  <text x="120" y="380" class="subtitle">
+    Governance Framework for Clinical Digital Infrastructure
+  </text>
+
+  <!-- URL -->
+  <text x="120" y="445" class="url">
+    careitmodel.org
+  </text>
+
+</svg>

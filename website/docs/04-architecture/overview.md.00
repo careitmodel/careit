@@ -1,0 +1,214 @@
+---
+title: CARE-IT Overall Architecture
+---
+
+Digital clinical infrastructure is not an isolated IT construct.
+
+It is part of clinical care — with direct impact on diagnostics, therapy, documentation, risk, and responsibility structures.
+
+The CARE-IT overall architecture therefore does not describe a technical layering model,  
+but a structural governance architecture for digital care systems.
+
+At its center stands clinical care as the objective and reference point.  
+All framework elements are aligned to bring clinical effectiveness, safety, stability, and continuous evolution into structural coherence.
+
+
+## Architectural Logic
+
+The CARE-IT architecture is composed of interlinked layers.
+
+These layers do not function sequentially,  
+but as a coherent governance system.
+
+Clinical care defines the objective.  
+Principles provide normative orientation.  
+Domains structure the organizational action spaces.  
+The maturity model supports development across the framework.  
+Artifacts translate the framework into operational application.  
+KPIs enable strategic self-observation.
+
+### Structural Model
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img
+    src="/img/careit/careit-architecture-overall.svg"
+    alt="CARE-IT overall architecture"
+    style="max-width: 900px; width: 100%;"
+  />
+</div>
+
+
+## Clinical Care
+
+Clinical care is the point of reference for the entire framework.
+
+CARE-IT does not govern digital infrastructure for its own sake,  
+but in relation to its clinical contribution.
+
+This includes:
+
+- clinical effectiveness  
+- patient safety  
+- continuity of care  
+- operational reliability  
+- responsible change  
+
+All subsequent layers derive their relevance from this reference point.
+
+
+## Foundational Principles (P1–P8)
+
+The principles define the normative foundation.
+
+They determine according to which standards digital clinical infrastructure is:
+
+- evaluated  
+- designed  
+- governed  
+- operated  
+- evolved  
+
+The principles provide orientation in situations  
+where rules or standards alone do not yield a clear decision.
+
+They define the reference framework for all subsequent layers.
+
+→ Continue to: [Principles](/framework/principles/overview)
+
+
+## Domains (D1–D6)
+
+The domains structure the essential organizational action spaces.
+
+They translate the principles into governable responsibility areas  
+and provide the structural model for leadership, operation, and evolution.
+
+Domains are not silos.  
+They are coordinated governance perspectives on the same clinical system landscape.
+
+→ Continue to: [Domains](/framework/architecture/domains)
+
+
+## Maturity Model
+
+The maturity model enables structured development.
+
+It describes maturity not as a single level,  
+but as a profile across principles and domains.
+
+It:
+
+- allows heterogeneous starting points  
+- makes structural tensions visible  
+- supports prioritization  
+- enables conscious organizational development  
+
+CARE-IT is therefore not an audit or certification framework,  
+but an instrument of organizational development.
+
+→ Continue to: [Maturity Model](/framework/maturity-model/model)
+
+
+## Artifacts
+
+Artifacts represent the operational implementation layer.
+
+They are concrete, clinically understandable working instruments  
+through which domains are applied in everyday governance and decision-making.
+
+They support:
+
+- investment decisions  
+- risk deliberations  
+- governance resolutions  
+- project-to-operation transitions  
+- documentation of clinical system constellations  
+- evaluation of innovation initiatives  
+
+Artifacts are not documentation obligations,  
+but structured thinking and leadership tools.
+
+→ Continue to: [Artifacts](/framework/artifacts/overview)
+
+
+## KPIs
+
+KPIs provide strategic self-observation across the framework.
+
+They do not replace judgment,  
+but help organizations monitor whether governance structures are effective, balanced, and sustainable over time.
+
+They make visible:
+
+- whether clinical objectives are being supported  
+- whether domains are being actively managed  
+- whether maturity is developing coherently  
+- whether artifacts are translating into measurable organizational effect  
+
+KPIs therefore help connect framework structure with organizational learning.
+
+
+## Interaction of the Layers
+
+The layers interlock:
+
+- Clinical care provides the objective.  
+- Principles provide direction.  
+- Domains structure responsibility.  
+- The maturity model provides developmental orientation.  
+- Artifacts enable practical application.  
+- KPIs support strategic self-observation.  
+
+Only through their interaction does a coherent governance system emerge.
+
+CARE-IT pursues an overarching objective:
+
+Digital clinical infrastructure should be governed  
+in a way that consistently integrates clinical reality, responsibility, information integrity, and technology.
+
+
+## Architectural Unit: The Clinical System Constellation
+
+The central unit of analysis is not the individual system,  
+but the clinical system constellation.
+
+Digital clinical infrastructure does not act through isolated components.  
+Its clinical impact emerges through structured interaction.
+
+A clinical system constellation integrates:
+
+- clinical workflow  
+- applications  
+- data  
+- integration mechanisms  
+- medical devices  
+
+These elements form a coherent operational unit  
+that directly supports clinical care.
+
+### Structural View
+
+<div style="text-align: center; margin: 2rem 0;">
+  <img
+    src="/img/careit/careit-constellation.svg"
+    alt="CARE-IT clinical system constellation structure"
+    class="diagram"
+  />
+</div>
+
+Architecture therefore does not merely describe components —  
+it defines governable relationships between them.
+
+This perspective is essential because:
+
+- risks arise at the interfaces  
+- responsibilities span across systems  
+- data integrity depends on integration  
+- clinical workflows cut across multiple technical components  
+
+CARE-IT shifts the focus:
+
+from system-centric thinking  
+to constellation-centric governance
+
+→ Continue to: [Reference Clinical System Constellations](/framework/architecture/reference-clinical-system-constellations)

@@ -18,7 +18,7 @@ Es macht strukturelle Spannungen, Inkonsistenzen und Entwicklungsfelder sichtbar
 
 <div style={{textAlign: "center", margin: "2rem 0"}}>
   <img 
-    src="/img/careit-maturity-example2.svg"
+    src="/img/careit/careit-maturity-example.svg"
     alt="CARE-IT Reifeprofil über die Grundprinzipien P1–P8"
     style={{maxWidth: "760px", width: "100%"}}
   />
@@ -76,7 +76,7 @@ kann auf formale Struktur ohne normative Klarheit hindeuten.
 
 <div style={{textAlign: "center", margin: "2rem 0"}}>
   <img
-    src="/img/careit-maturity-ist-soll2.svg"
+    src="/img/careit/careit-maturity-current-target.svg"
     alt="CARE-IT Reifeprofil: Ist- versus Soll-Zustand"
     style={{maxWidth: "860px", width: "100%"}}
   />
@@ -144,7 +144,7 @@ nicht Performance.
 
 ## Weiterführend
 
-- [Reifegradmodell](/maturity-model/model)
-- [Bewertungslogik](/maturity-model/evaluation-logic)
-- [Indikatoren – Prinzipien](/maturity-model/indicators-principles)
-- [Indikatoren – Domänen](/maturity-model/indicators-domains)
+- [Reifegradmodell](/framework/maturity-model/model)
+- [Bewertungslogik](/framework/maturity-model/evaluation-logic)
+- [Indikatoren – Prinzipien](/framework/maturity-model/indicators-principles)
+- [Indikatoren – Domänen](/framework/maturity-model/indicators-domains)

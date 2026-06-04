@@ -17,7 +17,7 @@ It makes structural tensions, inconsistencies, and development areas visible.
 
 <div style={{textAlign: "center", margin: "2rem 0"}}>
   <img 
-    src="/img/careit-maturity-example2.svg"
+    src="/img/careit/careit-maturity-example.svg"
     alt="CARE-IT maturity profile across principles P1–P8"
     style={{maxWidth: "760px", width: "100%"}}
   />
@@ -74,7 +74,7 @@ may indicate formal structure without normative clarity.
 
 <div style={{textAlign: "center", margin: "2rem 0"}}>
   <img
-    src="/img/careit-maturity-ist-soll2.svg"
+    src="/img/careit/careit-maturity-current-target.svg"
     alt="CARE-IT maturity profile: current versus target state"
     style={{maxWidth: "860px", width: "100%"}}
   />

@@ -123,9 +123,9 @@ Diese drei Artefakte erzeugen bereits:
 
 ## Weiterführend
 
-- → [Kernartefakte](/artifacts/core-artifacts)
-- → [Systemverbund-Dokumentation](/artifacts/clinical-system-constellation)
-- → [Rollen- und Verantwortungsmatrix](/artifacts/roles-matrix)
-- → [Klinischer Impact-Check](/artifacts/impact-check)
-- → [Lebenszyklus-Übersicht](/artifacts/lifecycle)
-- → [Innovations-Canvas](/artifacts/innovation-canvas)
+- → [Kernartefakte](/framework/artifacts/core-artifacts)
+- → [Systemverbund-Dokumentation](/framework/artifacts/clinical-system-constellation)
+- → [Rollen- und Verantwortungsmatrix](/framework/artifacts/roles-matrix)
+- → [Klinischer Impact-Check](/framework/artifacts/impact-check)
+- → [Lebenszyklus-Übersicht](/framework/artifacts/lifecycle)
+- → [Innovations-Canvas](/framework/artifacts/innovation-canvas)

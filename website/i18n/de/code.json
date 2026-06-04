@@ -325,5 +325,92 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "homepage.meta.title": {
+    "message": "CARE-IT",
+    "description": "Page title for the homepage"
+  },
+  "homepage.meta.description": {
+    "message": "Governance-Framework für digitale klinische Infrastruktur",
+    "description": "Meta description for the homepage"
+  },
+
+  "homepage.hero.kicker": {
+    "message": "CARE-IT Framework",
+    "description": "Small label above the homepage hero title"
+  },
+  "homepage.hero.title": {
+    "message": "Governance für digitale klinische Infrastruktur",
+    "description": "Main title in the homepage hero section"
+  },
+  "homepage.hero.lead": {
+    "message": "CARE-IT ist ein Referenzrahmen für die Governance und das operative Management klinisch relevanter digitaler Infrastruktur in Gesundheitseinrichtungen.",
+    "description": "Lead paragraph in the homepage hero section"
+  },
+  "homepage.hero.sublead": {
+    "message": "Es unterstützt Organisationen dabei, klinische Systemkonstellationen entlang von klinischem Wert, Architektur, Verantwortung, Risiko und Sicherheit, Lifecycle und Innovation zu steuern.",
+    "description": "Secondary paragraph in the homepage hero section"
+  },
+  "homepage.hero.cta.primary": {
+    "message": "Framework erkunden",
+    "description": "Primary call-to-action button on the homepage hero section"
+  },
+  "homepage.hero.cta.secondary": {
+    "message": "Architektur ansehen",
+    "description": "Secondary call-to-action button on the homepage hero section"
+  },
+  "homepage.hero.ringAlt": {
+    "message": "CARE-IT Framework-Ring",
+    "description": "Alt text for the CARE-IT ring image on the homepage"
+  },
+
+  "homepage.scope.kicker": {
+    "message": "Scope",
+    "description": "Small label above the homepage scope section"
+  },
+  "homepage.scope.title": {
+    "message": "Worauf CARE-IT angewendet wird",
+    "description": "Title of the homepage scope section"
+  },
+  "homepage.scope.imageAlt": {
+    "message": "CARE-IT Scope-Diagramm",
+    "description": "Alt text for the CARE-IT scope diagram"
+  },
+  "homepage.scope.text": {
+    "message": "CARE-IT bezieht sich auf digitale klinische Infrastruktur und fokussiert klinische Systemkonstellationen statt isolierter Produkte oder Anwendungen.",
+    "description": "Text below the homepage scope diagram"
+  },
+
+  "homepage.logic.kicker": {
+    "message": "Framework-Logik",
+    "description": "Small label above the framework logic section on the homepage"
+  },
+  "homepage.logic.title": {
+    "message": "Wie CARE-IT funktioniert",
+    "description": "Title of the framework logic section on the homepage"
+  },
+  "homepage.logic.card1.title": {
+    "message": "Prinzipien",
+    "description": "Title of the first homepage framework logic card"
+  },
+  "homepage.logic.card1.text": {
+    "message": "Normative Orientierung für die Governance digitaler klinischer Infrastruktur.",
+    "description": "Text of the first homepage framework logic card"
+  },
+  "homepage.logic.card2.title": {
+    "message": "Management Areas",
+    "description": "Title of the second homepage framework logic card"
+  },
+  "homepage.logic.card2.text": {
+    "message": "Organisationale Handlungsräume, in denen Governance sichtbar und steuerbar wird.",
+    "description": "Text of the second homepage framework logic card"
+  },
+  "homepage.logic.card3.title": {
+    "message": "Artefakte",
+    "description": "Title of the third homepage framework logic card"
+  },
+  "homepage.logic.card3.text": {
+    "message": "Praktische Instrumente, die das Framework in Entscheidungen und Betrieb übersetzen.",
+    "description": "Text of the third homepage framework logic card"
   }
 }

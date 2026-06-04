@@ -11,7 +11,7 @@ The official publication of this version is provided via GitHub:
 https://github.com/careitmodel/careit/releases/tag/v1.2.0
 
 📄 PDF version (v1.2.0):  
-https://github.com/careitmodel/careit/releases/download/v1.2.0/CARE-IT-v1.2.0.pdf
+https://github.com/careitmodel/careit/releases/download/v1.2.0/CARE-IT-v1.2.0-en.pdf
 
 The GitHub release tag constitutes the historically fixed reference version.
 

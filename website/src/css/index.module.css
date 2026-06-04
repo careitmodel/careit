@@ -8,51 +8,17 @@
 }
 
 .heroGrid {
-  width: 100%;
   max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   display: grid;
-  grid-template-columns: 1fr 520px;
+  grid-template-columns: minmax(0, 1.1fr) minmax(320px, 520px);
   gap: 3rem;
   align-items: center;
 }
 
 .heroText {
-  width: 100%;
-  max-width: 680px;
+  max-width: 42rem;
 }
-
-.heroVisual {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-/* 🔑 RING FIX + DARK MODE VARIABLES */
-.ring {
-  display: block;
-  width: 100%;
-  max-width: 500px;
-  height: auto;
-
-  --careit-ring-text-dark: #1f2937;
-  --careit-ring-text-light: #ffffff;
-  --careit-ring-center-text: #1f2937;
-  --careit-ring-center-bg: #ffffff;
-  --careit-ring-divider: #ffffff;
-}
-
-[data-theme='dark'] .ring {
-  --careit-ring-text-dark: #e5e7eb;
-  --careit-ring-text-light: #ffffff;
-  --careit-ring-center-text: #f3f4f6;
-  --careit-ring-center-bg: #111827; /* 👈 Zentrum wird jetzt dunkel */
-  --careit-ring-divider: rgba(255, 255, 255, 0.85);
-}
-
-/* TYPOGRAPHY */
 
 .kicker {
   margin: 0 0 0.75rem 0;
@@ -84,21 +50,28 @@
   color: #4b5563;
 }
 
-/* BUTTONS */
-
 .actions {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
 }
 
-/* SECTIONS */
+.heroVisual {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ring {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+}
 
 .section {
-  width: 100%;
   max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   padding: 3rem 1.5rem;
 }
 
@@ -107,8 +80,6 @@
   font-size: 2rem;
   color: #1f2937;
 }
-
-/* SCOPE */
 
 .scopeBlock {
   display: flex;
@@ -129,8 +100,6 @@
   color: #4b5563;
   line-height: 1.7;
 }
-
-/* CARDS */
 
 .cards {
   display: grid;
@@ -157,11 +126,14 @@
   line-height: 1.6;
 }
 
-/* 📱 RESPONSIVE */
-
 @media (max-width: 996px) {
+  .hero {
+    padding-top: 3rem;
+  }
+
   .heroGrid {
     grid-template-columns: 1fr;
+    gap: 2rem;
   }
 
   .heroVisual {
@@ -175,24 +147,4 @@
   .cards {
     grid-template-columns: 1fr;
   }
-}
-
-/* 🌙 DARK MODE (GLOBAL UI) */
-
-[data-theme='dark'] .heroTitle,
-[data-theme='dark'] .lead,
-[data-theme='dark'] .sectionHeader h2,
-[data-theme='dark'] .card h3 {
-  color: #f3f4f6;
-}
-
-[data-theme='dark'] .sublead,
-[data-theme='dark'] .sectionText,
-[data-theme='dark'] .card p {
-  color: #d1d5db;
-}
-
-[data-theme='dark'] .card {
-  background: #111827;
-  border: 1px solid #1f2937;
 }
