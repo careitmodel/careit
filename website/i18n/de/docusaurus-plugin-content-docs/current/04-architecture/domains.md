@@ -76,9 +76,9 @@ Domänen sind damit die zentrale Struktur, um CARE-IT in bestehende ITIL-/ITSM-G
 
 ## Domänen im Detail
 
-- → [D1 – Klinische Ausrichtung & Nutzensteuerung](/architecture/domains/d1)
-- → [D2 – Systemarchitektur & Verbundsteuerung](/architecture/domains/d2)
-- → [D3 – Verantwortung & Governance](/architecture/domains/d3)
-- → [D4 – Risiko & Patientensicherheit](/architecture/domains/d4)
-- → [D5 – Lebenszyklus & Betriebsfähigkeit](/architecture/domains/d5)
-- → [D6 – Innovationsfähigkeit & Weiterentwicklung](/architecture/domains/d6)
+- → [D1 – Klinische Ausrichtung & Nutzensteuerung](/framework/architecture/domains/d1)
+- → [D2 – Systemarchitektur & Verbundsteuerung](/framework/architecture/domains/d2)
+- → [D3 – Verantwortung & Governance](/framework/architecture/domains/d3)
+- → [D4 – Risiko & Patientensicherheit](/framework/architecture/domains/d4)
+- → [D5 – Lebenszyklus & Betriebsfähigkeit](/framework/architecture/domains/d5)
+- → [D6 – Innovationsfähigkeit & Weiterentwicklung](/framework/architecture/domains/d6)

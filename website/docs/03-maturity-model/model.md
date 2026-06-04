@@ -115,7 +115,7 @@ High performance at low structural maturity is possible —
 but not sustainably stable.
 
 See for visualization and interpretation:
-- [Graphical Maturity Profile](/maturity-model/profile)
+- [Graphical Maturity Profile](/framework/maturity-model/profile)
 
 
 ## Application

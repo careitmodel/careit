@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="600"
+   height="600"
+   viewBox="0 0 600 600"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="care-it-ring_master.svg"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.38"
+     inkscape:cx="297.46377"
+     inkscape:cy="301.44928"
+     inkscape:window-width="1618"
+     inkscape:window-height="901"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg17" />
+  <title
+     id="title1">CARE-IT Ring</title>
+  <desc
+     id="desc1">CARE-IT framework ring with six governance domains</desc>
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .label-dark {
+        font-family: Inter, Arial, sans-serif;
+        font-size: 17px;
+        font-weight: 500;
+        fill: #1F2937;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+      .label-light {
+        font-family: Inter, Arial, sans-serif;
+        font-size: 17px;
+        font-weight: 500;
+        fill: #FFFFFF;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+      .center-text {
+        font-family: Inter, Arial, sans-serif;
+        font-size: 34px;
+        font-weight: 600;
+        fill: #1F2937;
+        text-anchor: middle;
+        dominant-baseline: middle;
+      }
+      .divider {
+        stroke: #FFFFFF;
+        stroke-width: 2;
+      }
+    </style>
+  </defs>
+  <!-- Background -->
+  <rect
+     x="0"
+     y="0"
+     width="600"
+     height="600"
+     fill="#FFFFFF"
+     id="rect1" />
+  <!-- Ring segments -->
+  <!-- Geometry:
+       center = 300,300
+       outer radius = 250
+       inner radius = 140
+       segments = 6 x 60°
+  -->
+  <!-- 1 Clinical Value -->
+  <path
+     d="m 175,83.493649 a 250,250 0 0 1 249.9997,1.76e-4 L 370.00038,178.75622 A 140,140 0 0 0 230,178.75644 Z"
+     fill="#1e3a8a"
+     id="path1" />
+  <!-- 2 Architecture -->
+  <path
+     d="m 424.9997,83.493825 a 250,250 0 0 1 125,216.506355 l -109.99932,-4e-4 a 140,140 0 0 0 -70,-121.24356 z"
+     fill="#1d4ed8"
+     id="path2" />
+  <!-- 3 Responsibility -->
+  <path
+     d="M 549.9997,300.00018 A 250,250 0 0 1 425,516.50635 l -55,-95.26279 a 140,140 0 0 0 70.00038,-121.24378 z"
+     fill="#2563eb"
+     id="path3" />
+  <!-- 4 Risk & Safety -->
+  <path
+     d="m 425,516.50635 a 250,250 0 0 1 -249.9997,-1.7e-4 l 54.99932,-95.2624 A 140,140 0 0 0 370,421.24356 Z"
+     fill="#3b82f6"
+     id="path4" />
+  <!-- 5 Lifecycle -->
+  <path
+     d="M 175.0003,516.50618 A 250,250 0 0 1 50.000304,299.99982 l 109.999316,4e-4 a 140,140 0 0 0 70,121.24356 z"
+     fill="#60a5fa"
+     id="path5" />
+  <!-- 6 Innovation -->
+  <path
+     d="M 50.000304,299.99982 A 250,250 0 0 1 175,83.493649 l 55,95.262791 a 140,140 0 0 0 -70.00038,121.24378 z"
+     fill="#93c5fd"
+     id="path6" />
+  <!-- Center circle -->
+  <circle
+     cx="109.80762"
+     cy="409.80762"
+     r="140"
+     fill="#ffffff"
+     id="circle6"
+     transform="rotate(-30)" />
+  <!-- Optional subtle dividers -->
+  <line
+     x1="175"
+     y1="83.493652"
+     x2="230"
+     y2="178.75644"
+     class="divider"
+     id="line6" />
+  <line
+     x1="424.99969"
+     y1="83.493835"
+     x2="370.00037"
+     y2="178.75623"
+     class="divider"
+     id="line7" />
+  <line
+     x1="549.99969"
+     y1="300.00018"
+     x2="440.00037"
+     y2="299.99979"
+     class="divider"
+     id="line8" />
+  <line
+     x1="425"
+     y1="516.50635"
+     x2="370"
+     y2="421.24356"
+     class="divider"
+     id="line9" />
+  <line
+     x1="175.00031"
+     y1="516.50616"
+     x2="229.99962"
+     y2="421.24377"
+     class="divider"
+     id="line10" />
+  <line
+     x1="50.000305"
+     y1="299.99982"
+     x2="159.99962"
+     y2="300.00021"
+     class="divider"
+     id="line11" />
+  <!-- Center text -->
+  <text
+     x="300"
+     y="300"
+     class="center-text"
+     id="text11"
+     style="-inkscape-font-specification:'Inter, @opsz=32,wght=700';font-family:Inter;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variation-settings:'opsz' 32, 'wght' 700;font-size:34px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;dominant-baseline:middle;text-anchor:middle;fill:#1f2937">CARE-IT</text>
+  <!-- Labels -->
+  <!-- 1 -->
+  <text
+     x="300"
+     y="108"
+     class="label-light"
+     id="text12"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;font-family:Inter;-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600">Clinical Value</text>
+  <!-- 2 -->
+  <text
+     x="469"
+     y="210"
+     class="label-light"
+     id="text13"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;font-family:Inter;-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600">Architecture</text>
+  <!-- 3 -->
+  <text
+     x="471"
+     y="390"
+     class="label-light"
+     id="text14"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;font-family:Inter;-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600;dominant-baseline:middle;text-anchor:middle;fill:#ffffff"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;font-family:Inter;-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600"
+       id="tspan17">Responsibility</tspan></text>
+  <!-- 4 -->
+  <text
+     x="300"
+     y="494"
+     class="label-dark"
+     id="text15"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;font-family:Inter;-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600">Risk &amp; Safety</text>
+  <!-- 5 -->
+  <text
+     x="127"
+     y="390"
+     class="label-dark"
+     id="text16"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;font-family:Inter;-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600">Lifecycle</text>
+  <!-- 6 -->
+  <text
+     x="129"
+     y="210"
+     class="label-dark"
+     id="text17"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17px;font-family:Inter;-inkscape-font-specification:'Inter, @opsz=32,wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'opsz' 32, 'wght' 600">Innovation</text>
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>CARE-IT Ring</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

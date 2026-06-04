@@ -122,9 +122,9 @@ Even this minimal set already creates:
 
 ## Further Reading
 
-- → [Core Artifacts](/artifacts/core-artifacts)
-- → [Clinical System Constellation Documentation](/artifacts/clinical-system-constellation)
-- → [Responsibility & Governance Matrix](/artifacts/roles-matrix)
-- → [Clinical Impact Check](/artifacts/impact-check)
-- → [Lifecycle Overview](/artifacts/lifecycle)
-- → [Innovation Canvas](/artifacts/innovation-canvas)
+- → [Core Artifacts](/framework/artifacts/core-artifacts)
+- → [Clinical System Constellation Documentation](/framework/artifacts/clinical-system-constellation)
+- → [Responsibility & Governance Matrix](/framework/artifacts/roles-matrix)
+- → [Clinical Impact Check](/framework/artifacts/impact-check)
+- → [Lifecycle Overview](/framework/artifacts/lifecycle)
+- → [Innovation Canvas](/framework/artifacts/innovation-canvas)

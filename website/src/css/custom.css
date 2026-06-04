@@ -12,13 +12,51 @@
   --ifm-color-primary-lighter: #3b7db5;
   --ifm-color-primary-lightest: #5a96c7;
 
-  /* Base colors */
+  /* Base */
   --ifm-background-color: #f8f9fb;
   --ifm-font-color-base: #2b2b2b;
+  --ifm-font-family-base: 'Inter', system-ui, -apple-system, sans-serif;
 
   /* Surfaces */
   --ifm-navbar-background-color: #ffffff;
   --ifm-footer-background-color: #1f2a33;
+
+  /* Diagram – generic */
+  --careit-diagram-container-bg: #ffffff;
+  --careit-diagram-box-bg: #f9fafb;
+  --careit-diagram-emphasis-bg: #f3f4f6;
+  --careit-diagram-stroke: #d1d5db;
+  --careit-diagram-text-strong: #1f2937;
+  --careit-diagram-text-muted: #6b7280;
+
+  /* Scope */
+  --careit-scope-stroke: #d1d5db;
+  --careit-scope-infra-bg: #f3f4f6;
+  --careit-scope-constellation-bg: #ffffff;
+  --careit-scope-constellation-stroke: #9ca3af;
+  --careit-scope-system-bg: #f9fafb;
+  --careit-scope-accent: #2563eb;
+  --careit-scope-accent-text: #ffffff;
+  --careit-scope-text-strong: #1f2937;
+  --careit-scope-text-body: #374151;
+  --careit-scope-text-muted: #6b7280;
+
+  /* Architecture */
+  --careit-arch-stroke: #d1d5db;
+  --careit-arch-stroke-strong: #9ca3af;
+  --careit-arch-primary-bg: #dbeafe;
+  --careit-arch-primary-stroke: #93c5fd;
+  --careit-arch-box-bg: #f9fafb;
+  --careit-arch-emphasis-bg: #f3f4f6;
+  --careit-arch-accent: #2563eb;
+  --careit-arch-accent-text: #ffffff;
+  --careit-arch-text-strong: #1f2937;
+  --careit-arch-text-muted: #6b7280;
+
+  --careit-logo-ring: #1f4e79;
+  --careit-logo-text-main: #1f2937;
+  --careit-logo-text-sub: #6b7280;
+
 }
 
 /* ==========================================================================
@@ -42,7 +80,7 @@ h3 {
 }
 
 /* ==========================================================================
-   CARE-IT page elements (MDX)
+   CARE-IT MDX Elements
    ========================================================================== */
 
 .careitKicker {
@@ -51,14 +89,12 @@ h3 {
   text-transform: uppercase;
   color: rgba(43, 43, 43, 0.6);
   margin-bottom: 0.8rem;
-
-  /* subtiler Kapitelstrich */
   border-left: 3px solid rgba(31, 78, 121, 0.35);
   padding-left: 0.8rem;
 }
 
 /* ==========================================================================
-   CARE-IT Minimal Tiles (Startseite)
+   CARE-IT Tiles
    ========================================================================== */
 
 .careitTiles {
@@ -91,10 +127,9 @@ h3 {
 }
 
 /* ==========================================================================
-   Docs UI refinement
+   Docs UI
    ========================================================================== */
 
-/* Sidebar dezenter */
 .theme-doc-sidebar-container {
   border-right: 1px solid rgba(0, 0, 0, 0.06);
 }
@@ -105,4 +140,123 @@ h3 {
 
 .menu__link--active {
   font-weight: 600;
+}
+
+/* ==========================================================================
+   Diagram handling
+   ========================================================================== */
+
+.diagram {
+  display: block;
+  width: 100%;
+  max-width: 720px;
+  margin: 2rem auto;
+}
+
+.diagram--wide {
+  display: block;
+  width: 100%;
+  max-width: 900px;
+  margin: 2rem auto;
+}
+
+/* ==========================================================================
+   Buttons (FIXED)
+   ========================================================================== */
+
+.button--outline.button--lg {
+  color: #2563eb;
+  border-color: #2563eb;
+  background-color: transparent;
+}
+
+.button--outline.button--lg:hover,
+.button--outline.button--lg:focus {
+  background-color: #2563eb;
+  border-color: #2563eb;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* ==========================================================================
+   Dark Mode
+   ========================================================================== */
+
+html[data-theme='dark'] {
+  --ifm-background-color: #0b0f14;
+  --ifm-font-color-base: rgba(255, 255, 255, 0.92);
+  --ifm-navbar-background-color: #0f1720;
+  --ifm-footer-background-color: #0b0f14;
+
+  --careit-diagram-container-bg: #111827;
+  --careit-diagram-box-bg: #1f2937;
+  --careit-diagram-emphasis-bg: #243041;
+  --careit-diagram-stroke: #374151;
+  --careit-diagram-text-strong: #f3f4f6;
+  --careit-diagram-text-muted: #d1d5db;
+
+  --careit-scope-stroke: #374151;
+  --careit-scope-infra-bg: #1f2937;
+  --careit-scope-constellation-bg: #111827;
+  --careit-scope-constellation-stroke: #4b5563;
+  --careit-scope-system-bg: #1f2937;
+  --careit-scope-accent: #3b82f6;
+  --careit-scope-text-strong: #f3f4f6;
+  --careit-scope-text-body: #d1d5db;
+  --careit-scope-text-muted: #9ca3af;
+
+  --careit-arch-stroke: #374151;
+  --careit-arch-stroke-strong: #4b5563;
+  --careit-arch-primary-bg: #1e3a8a;
+  --careit-arch-primary-stroke: #3b82f6;
+  --careit-arch-box-bg: #111827;
+  --careit-arch-emphasis-bg: #1f2937;
+  --careit-arch-accent: #3b82f6;
+  --careit-arch-text-strong: #f3f4f6;
+  --careit-arch-text-muted: #9ca3af;
+
+  --careit-logo-ring: #60a5fa;
+  --careit-logo-text-main: #f3f4f6;
+  --careit-logo-text-sub: #9ca3af;
+
+}
+
+/* Tiles Dark */
+
+html[data-theme='dark'] .careitTile {
+  background: #0f1720;
+  border-color: rgba(255, 255, 255, 0.10);
+  color: rgba(255, 255, 255, 0.90);
+}
+
+html[data-theme='dark'] .careitTile:hover {
+  border-color: rgba(90, 150, 199, 0.55);
+}
+
+/* Kicker Dark */
+
+html[data-theme='dark'] .careitKicker {
+  color: rgba(255, 255, 255, 0.65);
+  border-left-color: rgba(90, 150, 199, 0.45);
+}
+
+/* Sidebar Dark */
+
+html[data-theme='dark'] .theme-doc-sidebar-container {
+  border-right-color: rgba(255, 255, 255, 0.08);
+}
+
+/* Buttons Dark */
+
+html[data-theme='dark'] .button--outline.button--lg {
+  color: #60a5fa;
+  border-color: #60a5fa;
+  background-color: transparent;
+}
+
+html[data-theme='dark'] .button--outline.button--lg:hover,
+html[data-theme='dark'] .button--outline.button--lg:focus {
+  background-color: #60a5fa;
+  border-color: #60a5fa;
+  color: #0f172a;
 }

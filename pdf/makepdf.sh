@@ -6,6 +6,7 @@ set -euo pipefail
 #   - German PDF
 
 SITE_ROOT="${SITE_ROOT:-../website}"
+PDF_SOURCE_ROOT="${PDF_SOURCE_ROOT:-source}"
 ORDER_FILE="${ORDER_FILE:-pdf-order.txt}"
 OUT_DIR="${OUT_DIR:-out}"
 
@@ -80,10 +81,41 @@ structural_diff_check() {
   fi
 }
 
+pdf_docs_dir_for_locale() {
+  local locale="$1"
+
+  case "${locale}" in
+    en)
+      echo "${PDF_SOURCE_ROOT}/en"
+      ;;
+    de)
+      echo "${PDF_SOURCE_ROOT}/de"
+      ;;
+    *)
+      echo "ERROR: Unsupported locale ${locale}" >&2
+      exit 1
+      ;;
+  esac
+}
+
+resolve_doc_file() {
+  local docs_dir="$1"
+  local pdf_docs_dir="$2"
+  local rel="$3"
+
+  if [[ -n "${pdf_docs_dir}" && -f "${pdf_docs_dir}/${rel}" ]]; then
+    echo "${pdf_docs_dir}/${rel}"
+    return
+  fi
+
+  echo "${docs_dir}/${rel}"
+}
+
 build_combined_markdown() {
   local locale="$1"
   local docs_dir="$2"
-  local tmpfile="$3"
+  local pdf_docs_dir="$3"
+  local tmpfile="$4"
 
   : > "${tmpfile}"
 
@@ -110,7 +142,7 @@ build_combined_markdown() {
       exit 1
     fi
 
-    f="${docs_dir}/${rel}"
+    f="$(resolve_doc_file "${docs_dir}" "${pdf_docs_dir}" "${rel}")"
     if [[ ! -f "${f}" ]]; then
       echo "ERROR: Missing file for locale '${locale}': ${f}"
       exit 1
@@ -290,7 +322,8 @@ pandoc_anchor_from_title() {
 # Uses ORDER_FILE to keep the same selection/order as the PDF.
 build_route_anchor_map() {
   local docs_dir="$1"
-  local mapfile="$2"
+  local pdf_docs_dir="$2"
+  local mapfile="$3"
 
   : > "$mapfile"
 
@@ -305,7 +338,8 @@ build_route_anchor_map() {
       rel="$line"
     fi
 
-    local f="${docs_dir}/${rel}"
+    local f
+    f="$(resolve_doc_file "${docs_dir}" "${pdf_docs_dir}" "${rel}")"
     [[ -f "$f" ]] || continue
 
     local route title anchor
@@ -351,16 +385,18 @@ rewrite_internal_links_for_pdf() {
 
 build_one() {
   local locale="$1"
-  local docs_dir pdf_lang locale_label
+  local docs_dir pdf_docs_dir pdf_lang locale_label
 
   case "${locale}" in
     en)
 docs_dir="${SITE_ROOT}/docs"
+pdf_docs_dir="$(pdf_docs_dir_for_locale "${locale}")"
 pdf_lang="en-US"
 locale_label="EN"
 ;;
 de)
 docs_dir="${SITE_ROOT}/i18n/de/docusaurus-plugin-content-docs/current"
+pdf_docs_dir="$(pdf_docs_dir_for_locale "${locale}")"
 pdf_lang="de-CH"
 locale_label="DE"
 ;;
@@ -382,7 +418,7 @@ fi
 local version out resource_path tmpmd
 version="$(extract_version)"
 out="${OUT_DIR}/CARE-IT-v${version}-${locale}.pdf"
-resource_path="${docs_dir}:${SITE_ROOT}/static:${SITE_ROOT}/static/img"
+resource_path="${pdf_docs_dir}:${docs_dir}:${SITE_ROOT}/static:${SITE_ROOT}/static/img"
 tmpmd="$(mktemp -t careit-${locale}-pdf)"
 local titlepage_tmp
 titlepage_tmp="$(mktemp -t careit-titlepage-XXXXXX.tex)"
@@ -440,15 +476,16 @@ echo ""
 echo "----------------------------------------"
 echo "Building ${locale_label} PDF"
 echo "Docs: ${docs_dir}"
+echo "PDF overrides: ${pdf_docs_dir}"
 echo "Output: ${out}"
 echo "----------------------------------------"
 
-build_combined_markdown "${locale}" "${docs_dir}" "${tmpmd}"
+build_combined_markdown "${locale}" "${docs_dir}" "${pdf_docs_dir}" "${tmpmd}"
 
 # Auto-map Docusaurus routes -> Pandoc anchors and rewrite links in tmpmd
 local mapfile
 mapfile="$(mktemp -t careit-map-${locale}-XXXXXX.tsv)"
-build_route_anchor_map "${docs_dir}" "${mapfile}"
+build_route_anchor_map "${docs_dir}" "${pdf_docs_dir}" "${mapfile}"
 rewrite_internal_links_for_pdf "${tmpmd}" "${mapfile}"
 rm -f "${mapfile}"
 

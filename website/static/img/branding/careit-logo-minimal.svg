@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   xmlns="http://www.w3.org/2000/svg">
+  <style><![CDATA[
+    .ring {
+      fill: none;
+      stroke: var(--careit-logo-ring, #1f4e79);
+      stroke-width: 8;
+    }
+  ]]></style>
+
+  <circle cx="60" cy="60" r="38" class="ring"/>
+</svg>

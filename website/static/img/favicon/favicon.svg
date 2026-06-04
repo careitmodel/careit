@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .ring {
+      fill: none;
+      stroke: #1f4e79;
+      stroke-width: 10;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      .ring {
+        stroke: #60a5fa;
+      }
+    }
+  </style>
+
+  <circle cx="60" cy="60" r="40" class="ring"/>
+</svg>
